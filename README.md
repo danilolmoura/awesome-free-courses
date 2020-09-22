@@ -29,11 +29,18 @@ A collection of amazing free courses
       * [Linux](#linux)
     * [Security](#security)
     * [Virtualization](#virtualization)
-    * [Other](#other)
-      * [Digital Marketing](#digital-marketing)
-      * [Word](#word)
-      * [Excel](#excel)
-      * [Photoshop](#photoshop)
+  * [Software and tools](#software-and-tools)
+      * [Office](#office)
+        * [Excel](#excel)
+        * [Word](#word)
+      * [Design](#design)
+        * [Photoshop](#photoshop)
+  * [Other](#other)
+    * [Beauty](#beauty)
+      * [Makeup](#makeup)
+    * [Digital Marketing](#digital-marketing)
+
+
 
 
 # Programming and Computer Science
@@ -206,8 +213,47 @@ A collection of amazing free courses
 |[Segurança e Criptografia](https://www.youtube.com/watch?v=cWld3rMD7Wk&list=PLucm8g_ezqNred_fII4GzZxMi91PKbney) | pt-BR | [Bóson Treinamentos](https://www.youtube.com/c/bosontreinamentos)
 
 
+## Software and Tools
+
+### Office
+
+#### Excel
+
+| Name | Language| Channel|
+|------|---------|--------|
+|[Curso de Excel 2016 Essencial](https://www.youtube.com/watch?v=ZVURQLXZtIc&list=PLHz_AreHm4dkRZoc0-i4sQeot_62qKi4a) | pt-BR | [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
+
+#### Word
+
+| Name | Language| Channel|
+|------|---------|--------|
+|[Curso de Word 2016 Essencial](https://www.youtube.com/watch?v=59lDXVkqlqQ&list=PLHz_AreHm4dkxM_0dinX7l_WUxpG-VrC-) | pt-BR | [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
+
+### Design
+
+#### Photoshop
+
+| Name | Language| Channel|
+|------|---------|--------|
+|[Curso de Photoshop CC](https://www.youtube.com/watch?v=apyGxxabcZ4&list=PLHz_AreHm4dnj6cWEvVfRGNh2WaI0fDut) | pt-BR | [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
 
 ## Other
+
+### Beauty
+
+
+#### Makeup
+| Name | Language| Channel|
+|------|---------|--------|
+|[Curso auto Maquiagem](https://www.youtube.com/watch?v=yZNvJXTKbF8&list=PL3w01NMwRB-OIUOtJXjZdtu5XEDjopxgJ) | pt-BR | [Amanda Pastore](https://www.youtube.com/channel/UCtcVFZjsblXS0aFJb2cWFSA)
+|[Curso de Automaquiagem](https://www.youtube.com/watch?v=zhciEGSDdiM&list=PLTwEj_G8gbA3oyY6sli1u7RjNLQeUTXHGv) | pt-BR | [JoyceBraga](https://www.youtube.com/channel/UCjK0vmja6XKOPJDakYt7Gcg)
+|[Curso de Automaquiagem Completo](https://www.youtube.com/watch?v=jjZ89DlhSXM&list=PLILsiTj7Fn2th3M--Amw-OPVXAbvCxV7x) | pt-BR | [Roberta Kretzer](https://www.youtube.com/channel/UCalO99QRyq_-LbQcvjCSyaQ)
+|[Curso de maquiagem](https://www.youtube.com/watch?v=0cPGwhz_3Us&list=PLE8jXjQtMVlu0HtLxNVYGRuHMbZ9l4Uez) | pt-BR | [Sandra Pinnato](https://www.youtube.com/channel/UCumnDsJShDtL2-10-1ZiLXQ)
+|[Curso de maquiagem online](https://www.youtube.com/watch?v=GCKMCf34rgs&list=PL_-_5E3pDc1-U7zXPfeeSosWZVBSzw7PL) | pt-BR | [Sandra Pinnato](https://www.youtube.com/channel/UCumnDsJShDtL2-10-1ZiLXQ)
+|[Curso de Maquiagem Online Grátis](https://www.youtube.com/watch?v=u7B33_j8mgU&list=PL-QAz5R5Rlm7oGTs7CCUy8bKYl-TOv-ls) | pt-BR | [Certificado Cursos Online](https://www.youtube.com/channel/UCu4Y3A_DuBKmwvFXc0rqC2A)
+|[Curso de Maquiagem 2018](https://www.youtube.com/watch?v=s6L5s8nT21s&list=PL_-_5E3pDc1-NrZlWPpe2OIZrZ0Cpe4un) | pt-BR | [Sandra Pinnato](https://www.youtube.com/channel/UCumnDsJShDtL2-10-1ZiLXQ)
+|[Curso de Maquiagem 2020](https://www.youtube.com/watch?v=wvymetTBCHc&list=PL_-_5E3pDc1-W7lx61nVC8d2IYjzyv44G) | pt-BR | [Sandra Pinnato](https://www.youtube.com/channel/UCumnDsJShDtL2-10-1ZiLXQ)
+
 
 ### Digital Marketing
 
@@ -215,23 +261,6 @@ A collection of amazing free courses
 |------|---------|--------|
 |[Curso de Marketing Digital](https://www.youtube.com/watch?v=vqdnQqLgGRo&list=PLHz_AreHm4dmmqFmLT17KMjoaE0Y4LqRv) | pt-BR | [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
 
-### Word
-
-| Name | Language| Channel|
-|------|---------|--------|
-|[Curso de Word 2016 Essencial](https://www.youtube.com/watch?v=59lDXVkqlqQ&list=PLHz_AreHm4dkxM_0dinX7l_WUxpG-VrC-) | pt-BR | [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
-
-### Excel
-
-| Name | Language| Channel|
-|------|---------|--------|
-|[Curso de Excel 2016 Essencial](https://www.youtube.com/watch?v=ZVURQLXZtIc&list=PLHz_AreHm4dkRZoc0-i4sQeot_62qKi4a) | pt-BR | [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
-
-### Photoshop
-
-| Name | Language| Channel|
-|------|---------|--------|
-|[Curso de Photoshop CC](https://www.youtube.com/watch?v=apyGxxabcZ4&list=PLHz_AreHm4dnj6cWEvVfRGNh2WaI0fDut) | pt-BR | [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
 
 
 
