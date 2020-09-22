@@ -7,24 +7,28 @@ A collection of amazing free courses
 
 # Table of contents
   * [Programming and Computer Science](#programming-and-computer-science)
-    * [CMS](#CMS)
+    * [CMS](#cms)
       * [Wordpress](#wordpress)
     * [Computer Networks](#computer-networks)
     * [Databases](#databases)
+      * [Data Modeling](#data-modeling)
       * [MySQL](#mysql)
     * [Hardware](#hardware)
       * [Arduino](#arduino)
       * [PC](#pc)
     * [Programming Languages](#programming-languages)
       * [C](#c)
-      * [C++](#c1)
+      * [C++](#c-1)
       * [Haskell](#haskell)
       * [Java](#java)
       * [PHP](#php)
       * [Python](#python)
+      * [Ruby](#ruby)
     * [Programming Logic](#programming-logic)
     * [Operational Systems](#operational-systems)
       * [Linux](#linux)
+    * [Security](#security)
+    * [Virtualization](#virtualization)
     * [Other](#other)
       * [Digital Marketing](#digital-marketing)
       * [Word](#word)
@@ -32,7 +36,7 @@ A collection of amazing free courses
       * [Photoshop](#photoshop)
 
 
-# Programming & Computer Science
+# Programming and Computer Science
 
 ## CMS
 
@@ -51,15 +55,26 @@ A collection of amazing free courses
 
 | Name | Language| Channel|
 |------|---------|--------|
+|[Curso de Redes de Computadores](https://www.youtube.com/watch?v=efGBoJ-f_2Y&list=PLucm8g_ezqNpGh95n-OdEk06ity7YYfvU) | pt-BR | [Bóson Treinamentos](https://www.youtube.com/c/bosontreinamentos)
+|[Curso de Redes Wireless (Redes sem Fio)](https://www.youtube.com/watch?v=JXGvSyU6k58&list=PLucm8g_ezqNp8sv34kkuYdPPgn5xNTgzu) | pt-BR | [Bóson Treinamentos](https://www.youtube.com/c/bosontreinamentos)
 |[Curso Redes de Computadores Grátis](https://www.youtube.com/watch?v=QkMbqL8QD9w&list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP) | pt-BR | [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
+|[Modelo OSI - Redes de Computadores](https://www.youtube.com/watch?v=rkKTGpqizZU&list=PLucm8g_ezqNqwnw4Oux7f4jNGxScZQGI8) | pt-BR | [Bóson Treinamentos](https://www.youtube.com/c/bosontreinamentos)
+
 
 ## Databases
+
+### Data Modeling
+| Name | Language| Channel|
+|------|---------|--------|
+|[Curso de Modelagem de Dados](https://www.youtube.com/watch?v=Q_KTYFgvu1s&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD) | pt-BR | [Bóson Treinamentos](https://www.youtube.com/c/bosontreinamentos)
+
 
 ### MySQL
 
 | Name | Language| Channel|
 |------|---------|--------|
 |[Curso de Banco de Dados MySQL](https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r) | pt-BR | [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
+|[Curso de MySQL](https://www.youtube.com/watch?v=fmerTu7dWk8&list=PLucm8g_ezqNrWAQH2B_0AnrFY5dJcgOLR) | pt-BR | [Bóson Treinamentos](https://www.youtube.com/c/bosontreinamentos)
 
 ## Hardware
 
@@ -80,6 +95,7 @@ A collection of amazing free courses
 
 | Name | Language| Channel|
 |------|---------|--------|
+|[Curso de Git](https://www.youtube.com/watch?v=YnVnFanIAzU&list=PLucm8g_ezqNq0dOgug6paAkH0AQSJPlIe) | pt-BR | [Bóson Treinamentos](https://www.youtube.com/c/bosontreinamentos)
 |[Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) | pt-BR | [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
 
 ## Programming Languages
@@ -137,8 +153,16 @@ A collection of amazing free courses
 |[Curso de Python](https://www.youtube.com/watch?v=j94IGZmwtYI&list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj) | pt-BR | [eXcript](https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg)
 |[Curso de Python - Módulo SQLite](https://www.youtube.com/watch?v=c43-mTD-8XM&list=PLesCEcYj003QiX5JaM24ytHrHiOJknwog) | pt-BR | [eXcript](https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg)
 |[Curso de Python - Módulo Tkinter](https://www.youtube.com/watch?v=kSQDp20eeqE&list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE) | pt-BR | [eXcript](https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg)
+|[Curso de Python - Programação](https://www.youtube.com/watch?v=wpqkZJ10Gmo&list=PLucm8g_ezqNrrtduPx7s4BM8phepMn9I2) | pt-BR | [Bóson Treinamentos](https://www.youtube.com/c/bosontreinamentos)
 |[Curso em vídeo - Python](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) | pt-BR | [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
 |[Curso Python 300](https://www.youtube.com/watch?v=I5-LNy_R-0I&list=PL8eBmR3QtPL0j3QLEjQ6rcx8rVB8Ir893) | pt-BR | [Marcos Castro](https://www.youtube.com/channel/UCdew-vmhSLvFJRck_hYZN8A)
+
+
+### Ruby
+
+| Name | Language| Channel|
+|------|---------|--------|
+|[Programação com Ruby](https://www.youtube.com/watch?v=Kgqis_dNK7E&list=PLucm8g_ezqNqMm1gdqjZzfhAMFQ9KrhFq) | pt-BR | [Bóson Treinamentos](https://www.youtube.com/c/bosontreinamentos)
 
 
 ## Programming Logic
@@ -146,6 +170,8 @@ A collection of amazing free courses
 | Name | Language| Channel|
 |------|---------|--------|
 |[Curso de Lógica de Programação](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) | pt-BR | [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
+|[Curso de Lógica de Programação](https://www.youtube.com/watch?v=41ubXTEPFO0&list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd) | pt-BR | [Bóson Treinamentos](https://www.youtube.com/c/bosontreinamentos)
+|[Lógica de Programação com Scratch](https://www.youtube.com/watch?v=HwqopjxdP7E&list=PLucm8g_ezqNqTtmGghrC2fk9rqM2lkn9O) | pt-BR | [Bóson Treinamentos](https://www.youtube.com/c/bosontreinamentos)
 
 
 ## Operational Systems
@@ -154,7 +180,31 @@ A collection of amazing free courses
 
 | Name | Language| Channel|
 |------|---------|--------|
+|[Certificação LPI Linux Essentials](https://www.youtube.com/watch?v=MACP8F7MMPg&list=PLucm8g_ezqNqz-DVT9n_z-XjRkQ03m7U5) | pt-BR | [Bóson Treinamentos](https://www.youtube.com/c/bosontreinamentos)
+|[Curso de Linux Básico / Certificação LPIC - 1](https://www.youtube.com/watch?v=UsHiWIgxj2M&list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7) | pt-BR | [Bóson Treinamentos](https://www.youtube.com/c/bosontreinamentos)
 |[Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) | pt-BR | [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
+|[Distribuições Linux e afins - Análise e Instalação](https://www.youtube.com/watch?v=9bI0GWuUFhw&list=PLucm8g_ezqNoG9vpzNAw4BMtOpx7zxUMD) | pt-BR | [Bóson Treinamentos](https://www.youtube.com/c/bosontreinamentos)
+
+## Virtualization
+
+| Name | Language| Channel|
+|------|---------|--------|
+|[Virtualização](https://www.youtube.com/watch?v=3dGsUH0XjPs&list=PLucm8g_ezqNq4AA0NuVvSswHdZcuFbJbb) | pt-BR | [Bóson Treinamentos](https://www.youtube.com/c/bosontreinamentos)
+
+
+## Server
+
+| Name | Language| Channel|
+|------|---------|--------|
+|[Curso de Windows Server 2012 - Servidores](https://www.youtube.com/watch?v=Vpet9RHHmyM&list=PLucm8g_ezqNrU2KEuQNjZn1jA5tZyBnBc) | pt-BR | [Bóson Treinamentos](https://www.youtube.com/c/bosontreinamentos)
+
+
+## Security
+
+| Name | Language| Channel|
+|------|---------|--------|
+|[Segurança e Criptografia](https://www.youtube.com/watch?v=cWld3rMD7Wk&list=PLucm8g_ezqNred_fII4GzZxMi91PKbney) | pt-BR | [Bóson Treinamentos](https://www.youtube.com/c/bosontreinamentos)
+
 
 
 ## Other
@@ -186,11 +236,3 @@ A collection of amazing free courses
 
 
 <!--- | [<course name>](<course-playlist-link>) | <course-language> | [<channel name>](<channel-link>) --->
-
-
-
-
-
-
-
-
