@@ -169,7 +169,13 @@ A collection of amazing free courses
 
 | Name | Language| Channel|
 |------|---------|--------|
-|[Programação com Ruby](https://www.youtube.com/watch?v=Kgqis_dNK7E&list=PLucm8g_ezqNqMm1gdqjZzfhAMFQ9KrhFq) | Portuguese | [Bóson Treinamentos](https://www.youtube.com/c/bosontreinamentos)
+| [Curso de ruby](https://www.youtube.com/playlist?list=PL898C0B8D77D7F0C5) | Portuguese | [Luis Caballero](https://www.youtube.com/user/puppet1990)
+| [Curso de Ruby](https://www.youtube.com/playlist?list=PLEFC2D43C36013A70) | Portuguese | [codigofacilito](https://www.youtube.com/user/codigofacilito)
+| [Curso de Ruby on Rails para  Iniciantes](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) | Portuguese | [Jackson Pires](https://www.youtube.com/user/jacksonpiresjr)
+| [Curso Ruby on Rails 4 desde cero](https://www.youtube.com/playlist?list=PLpOqH6AE0tNiQ-ofrDlbAUSc1r67r_AWv) | Spanish | [codigofacilito](https://www.youtube.com/user/codigofacilito)
+| [linguagem de programação ruby](https://www.youtube.com/playlist?list=PLpqql3qzt0QZhJ-EzaW5S9saQOEh1o0Ed) | Portuguese | [jhonatan nunes](https://www.youtube.com/user/bestfriend4997)
+| [Linguagem Ruby](https://www.youtube.com/playlist?list=PLEdPHGYbHhldWUFs2Q-jSzXAv3NXh4wu0) | Portuguese | [Danilo Aparecido - Torne-se um programador](https://www.youtube.com/user/Didox59)
+| [Programação com Ruby](https://www.youtube.com/playlist?list=PLucm8g_ezqNqMm1gdqjZzfhAMFQ9KrhFq) | Portuguese | [Bóson Treinamentos](https://www.youtube.com/user/bosontreinamentos)
 
 
 ## Programming Logic
