@@ -35,12 +35,12 @@ A collection of all amazing free courses
         * [Word](#word)
       * [Design](#design)
         * [Photoshop](#photoshop)
+  * [Languages](#languages)
+    * [English](#english)
   * [Other](#other)
     * [Beauty](#beauty)
       * [Makeup](#makeup)
     * [Digital Marketing](#digital-marketing)
-
-
 
 
 # Programming and Computer Science
@@ -242,6 +242,24 @@ A collection of all amazing free courses
 | Name | Language| Channel|
 |------|---------|--------|
 |[Curso de Photoshop CC](https://www.youtube.com/watch?v=apyGxxabcZ4&list=PLHz_AreHm4dnj6cWEvVfRGNh2WaI0fDut) | Portuguese | [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
+
+## Languages
+
+### English
+
+| Name | Language| Channel|
+|------|---------|--------|
+| [Avançado I - Inglês conversação e leitura de textos](https://www.youtube.com/playlist?list=PLkeRgfDA-huq90Ohl9qXZDFcMqNgqZp-c) | Portuguese | [Você Aprende Agora](https://www.youtube.com/user/VoceAprendeAgora)
+| [CURSO COMPLETO DE INGLÉS - NIVEL PRINCIPIANTE](https://www.youtube.com/playlist?list=PL93iwVYt7GG7OMmJZclmGo0ekKOzTi5o-) | Portuguese | [Inglés Paso a Paso con Lucie](https://www.youtube.com/user/cursosdeinglesats)
+| [Curso de Inglês com Professor Felipe Dib](https://www.youtube.com/playlist?list=PLlCJzwJDT_VZdO7A92RoKw_otNMsIjF4U) | Portuguese | [Luiz Gomes](https://www.youtube.com/user/luizgomes63)
+| [Curso de Inglês Completo Totalmente Gratuito](https://www.youtube.com/playlist?list=PLBHaySgwEigzRShHeQjy7DlIoBVw5oPRZ) | Portuguese | [Aprendo e Compartilho](https://www.youtube.com/user/davifreitasweb)
+| [CURSO DE INGLÊS COMPLETO - NIVEL BÁSICO - CERTIFICADO OPCIONAL](https://www.youtube.com/playlist?list=PLcytaWNNrQHpnjw2rIjZZT1Tn_sZjmpNK) | Portuguese | [INT CURSOS](https://www.youtube.com/user/INTCURSOS)
+| [Curso de Inglês Intermediário](https://www.youtube.com/playlist?list=PLifNhj7vtELvpspP9zPxhliWAF1tOJB95) | Portuguese | [Inglês de Bolso](https://www.youtube.com/user/InglesDeBolso)
+| [Ensino Fundamental - Inglês](https://www.youtube.com/playlist?list=PL3qONjKuaO2QyRsEFHiMHwuYOKyqi9ove) | Portuguese | [Novo Telecurso](https://www.youtube.com/user/TelecursoNovo)
+| [Inglês para iniciantes](https://www.youtube.com/playlist?list=PLE67CF3D9E2C51F3A) | Portuguese | [Educação Ativa Idiomas](https://www.youtube.com/user/supercheff1970)
+| [Playlist: AULAS DE INGLÊS PARA INICIANTES - PROFESSOR KENNY](https://www.youtube.com/playlist?list=PL41dMNqXopt85RhRgFp_jdoI5Bz7DUG-c) | Portuguese | [PROFESSOR KENNY](https://www.youtube.com/user/ProfessorKennyMendes)
+| [Principiante - Vaughan Inglés 4.0](https://www.youtube.com/playlist?list=PL4VBcBXfVRZbW9Gqy6o-G3oKGBiosslfa) | Spanish | [AI TV BASIC](https://www.youtube.com/user/aibasic)
+| [Web Inglés - Curso de Ingles Americano - Completo](https://www.youtube.com/playlist?list=PLAD4A4CB21F73B485) | Spanish | [Web Inglés](https://www.youtube.com/user/Webingles)
 
 ## Other
 
