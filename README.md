@@ -1,6 +1,6 @@
 # awesome-free-courses
 
-A collection of amazing free courses
+A collection of all amazing free courses
 
 [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors)
