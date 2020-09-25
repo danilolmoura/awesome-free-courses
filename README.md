@@ -37,6 +37,7 @@ A collection of all amazing free courses
         * [Photoshop](#photoshop)
   * [Languages](#languages)
     * [English](#english)
+    * [Japonese](#japonese)
   * [Other](#other)
     * [Beauty](#beauty)
       * [Makeup](#makeup)
@@ -260,6 +261,21 @@ A collection of all amazing free courses
 | [Playlist: AULAS DE INGLÊS PARA INICIANTES - PROFESSOR KENNY](https://www.youtube.com/playlist?list=PL41dMNqXopt85RhRgFp_jdoI5Bz7DUG-c) | Portuguese | [PROFESSOR KENNY](https://www.youtube.com/user/ProfessorKennyMendes)
 | [Principiante - Vaughan Inglés 4.0](https://www.youtube.com/playlist?list=PL4VBcBXfVRZbW9Gqy6o-G3oKGBiosslfa) | Spanish | [AI TV BASIC](https://www.youtube.com/user/aibasic)
 | [Web Inglés - Curso de Ingles Americano - Completo](https://www.youtube.com/playlist?list=PLAD4A4CB21F73B485) | Spanish | [Web Inglés](https://www.youtube.com/user/Webingles)
+
+### Japonese
+
+| Name | Language| Channel|
+|------|---------|--------|
+| [Aulas de Japonês - Curso de Japonês Online](https://www.youtube.com/playlist?list=PL47hZ7Mbf5Bn1Mp18O1Z7-gtKF5UmKUqP) | Portuguese | [Programa Japonês Online](https://www.youtube.com/user/aulasjapones)
+| [CURSO DE JAPONÊS - INICIANTE ABSOLUTO](https://www.youtube.com/playlist?list=PLmEl-ZDmyZUs65276eNCYH-UAEJK-cb7c) | Portuguese | [VideoAulasdeJapones](https://www.youtube.com/user/VideoAulasdeJapones)
+| [Curso Básico Japonês - Básico 2](https://www.youtube.com/playlist?list=PLdjf4CXA4wSY6lKcyhCqItomInRsnq3Kw) | Portuguese | [Japonês com Ayu](https://www.youtube.com/user/ayuhitsuji)
+| [Curso completo de Japones : 01 a 24](https://www.youtube.com/playlist?list=PLy2H11M-DPqy2kEGiB_lOrnvfrQuQTOyE) | Portuguese | [CanalparaAnormal](https://www.youtube.com/user/CanalparaAnormal)
+| [Curso de Japonês - fale em japonês](https://www.youtube.com/playlist?list=PLTu5UPFyRDhYsHW0TEMljBLT3r7Z9qD5a) | Portuguese | [Carlos Yamagishi](https://www.youtube.com/user/CarlosYamagishi)
+| [Curso de Japonês Marugoto Introdutório Katsudo A1](https://www.youtube.com/playlist?list=PLdjf4CXA4wSZfHIfR5_z00-_sK5QVBk0e) | Portuguese | [Japonês com Ayu](https://www.youtube.com/user/ayuhitsuji)
+| [Curso de Japonês Marugoto Introdutório RIKAI A1](https://www.youtube.com/playlist?list=PLdjf4CXA4wSapoxt-hPFb9vw5BPdS9sM5) | Portuguese | [Japonês com Ayu](https://www.youtube.com/user/ayuhitsuji)
+| [Curso de japonês (日本語を学ぶ)](https://www.youtube.com/playlist?list=PLvuySypz5mHpgW3pTkgixiVHMEY75wIOR) | Portuguese | [VideosLaw](https://www.youtube.com/user/VideosLaw)
+| [Curso de japonês](https://www.youtube.com/playlist?list=PLB1wKDOp_4yuEhK8tZPDZO5GHUujVUrq6) | Portuguese | [Pedro Camilo](https://www.youtube.com/user/camilomsdn)
+| [Curso de japonês](https://www.youtube.com/playlist?list=PLSZtPtB1YBb4P9OyalIwiIy4cct9LTDS2) | Portuguese | [Anderson fernandes](https://www.youtube.com/user/yokayand)
 
 ## Other
 
