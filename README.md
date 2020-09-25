@@ -23,6 +23,7 @@ A collection of all amazing free courses
       * [Java](#java)
       * [PHP](#php)
       * [Python](#python)
+        * [Django](#django)
       * [Ruby](#ruby)
     * [Programming Logic](#programming-logic)
     * [Operational Systems](#operational-systems)
@@ -165,6 +166,20 @@ A collection of all amazing free courses
 |[Curso em vídeo - Python](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) | Portuguese | [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
 |[Curso Python 300](https://www.youtube.com/watch?v=I5-LNy_R-0I&list=PL8eBmR3QtPL0j3QLEjQ6rcx8rVB8Ir893) | Portuguese | [Marcos Castro](https://www.youtube.com/channel/UCdew-vmhSLvFJRck_hYZN8A)
 
+#### Django
+
+| Name | Language| Channel|
+|------|---------|--------|
+| [Curso Django](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmfvwxFO7HdPciOCmmYneAB) | Spanish | [pildorasinformaticas](https://www.youtube.com/user/pildorasinformaticas)
+| [Curso Django](https://www.youtube.com/playlist?list=PLpOqH6AE0tNgL7Jg9Kx4SdfA5_oK6292j) | Spanish | [codigofacilito](https://www.youtube.com/user/codigofacilito)
+| [Curso de Django -  Construindo um Ecommerce](https://www.youtube.com/playlist?list=PLeFetwYAi-F_9lT7em1UDEXS-3Gm9hjrI) | Portuguese | [Código Fluente](https://www.youtube.com/user/toticavalcanti)
+| [Curso de Django - App Polls](https://www.youtube.com/playlist?list=PLeFetwYAi-F99mfzHUTjVxDSjKIx1tW79) | Portuguese | [Código Fluente](https://www.youtube.com/user/toticavalcanti)
+| [Curso de Django - Programação WEB com Python](https://www.youtube.com/playlist?list=PLxNM4ef1BpxhlzYeZA9-wCEq8w-vMOepk) | Portuguese | [Hugo Vasconcelos](https://www.youtube.com/user/tutoriais01)
+| [Curso de Django Rest Framework](https://www.youtube.com/playlist?list=PLsTx8TSx2fHY01FnuxBdwiBiOdZdPGik7) | Portuguese | [Fernando Rodrigues](https://www.youtube.com/user/5Darks5)
+| [Curso de Python 3 e Django (SimpleMOOC)](https://www.youtube.com/playlist?list=PLPOyk_fKVcz5ilRDdKvqlM5ydOVkrmStQ) | Portuguese | [PyCursos](https://www.youtube.com/user/PyCursos)
+| [Curso de introdução ao desenvolvimento Web com Python 3 e Django 2.2](https://www.youtube.com/playlist?list=PLjv17QYEBJPpd6nI-MXpIa4qR7prKfPQz) | Portuguese | [Rafael Zottesso](https://www.youtube.com/user/rafaelzottesso)
+| [Django para Iniciantes](https://www.youtube.com/playlist?list=PLfkVgm8720kzm6fmTekjtKyFcppyD4Ubd) | Portuguese | [Allisson Azevedo](https://www.youtube.com/user/allissonazevedo)
+| [🚀 Curso DJANGO paso a paso para PRINCIPIANTES](https://www.youtube.com/playlist?list=PL8ZnVqiE4oiY6fh6_vvNKwkxfutf3CiMY) | Spanish | [Jon Vadillo](https://www.youtube.com/user/padopadopado)
 
 ### Ruby
 
