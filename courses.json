@@ -10,31 +10,36 @@
                         "course_name": "Curso de WordPress: criando um site do zero",
                         "course_link": "https://www.youtube.com/watch?v=JPR4OK4c35Q&list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2",
                         "channel_name": "Curso em Vídeo",
-                        "user_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ"
+                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Curso de WordPress: segurança, performance e recursos avançados",
                         "course_link": "https://www.youtube.com/watch?v=Va3TmncZPlk&list=PLHz_AreHm4dlaFljwHeYItI357b2q7bex",
                         "channel_name": "Curso em Vídeo",
-                        "user_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ"
+                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Curso de Loja Virtual: WooCommerce + WordPress",
                         "course_link": "https://www.youtube.com/watch?v=ZcQ5WDUUB0o&list=PLHz_AreHm4dkZNE5PAYc0h4iVkqBCgBZR",
                         "channel_name": "Curso em Vídeo",
-                        "user_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ"
+                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Criação de Temas Wordpress",
                         "course_link": "https://www.youtube.com/watch?v=wtO3-EzWAEQ&list=PLesCEcYj003Tw-1RefFdDQHa3LTi9Hp5w",
                         "channel_name": "eXcript",
-                        "user_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg"
+                        "channel_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Curso Wordpress Completo",
                         "course_link": "https://www.youtube.com/watch?v=f0YOX3jP99Q&list=PLesCEcYj003TqySTWcnXGNPmxLy151Bmn",
                         "channel_name": "eXcript",
-                        "user_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg"
+                        "channel_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg",
+                        "language": "Portuguese"
                     }
                 ]
             }
@@ -46,25 +51,29 @@
                     "course_name": "Curso de Redes de Computadores",
                     "course_link": "https://www.youtube.com/watch?v=efGBoJ-f_2Y&list=PLucm8g_ezqNpGh95n-OdEk06ity7YYfvU",
                     "channel_name": "Bóson Treinamentos",
-                    "channel_link": "https://www.youtube.com/c/bosontreinamentos"
+                    "channel_link": "https://www.youtube.com/c/bosontreinamentos",
+                    "language": "Portuguese"
                 },
                 {
                     "course_name": "Curso de Redes Wireless (Redes sem Fio",
                     "course_link": "https://www.youtube.com/watch?v=JXGvSyU6k58&list=PLucm8g_ezqNp8sv34kkuYdPPgn5xNTgzu",
                     "channel_name": "Bóson Treinamentos",
-                    "channel_link": "https://www.youtube.com/c/bosontreinamentos"
+                    "channel_link": "https://www.youtube.com/c/bosontreinamentos",
+                    "language": "Portuguese"
                 },
                 {
                     "course_name": "Curso Redes de Computadores Grátis",
                     "course_link": "https://www.youtube.com/watch?v=QkMbqL8QD9w&list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP",
                     "channel_name": "Curso em Vídeo",
-                    "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ"
+                    "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ",
+                    "language": "Portuguese"
                 },
                 {
                     "course_name": "Modelo OSI - Redes de Computadores",
                     "course_link": "https://www.youtube.com/watch?v=rkKTGpqizZU&list=PLucm8g_ezqNqwnw4Oux7f4jNGxScZQGI8",
                     "channel_name": "Bóson Treinamentos",
-                    "channel_link": "https://www.youtube.com/c/bosontreinamentos"
+                    "channel_link": "https://www.youtube.com/c/bosontreinamentos",
+                    "language": "Portuguese"
                 }
                 
             ]
@@ -78,7 +87,8 @@
                         "course_name": "Curso de Modelagem de Dados",
                         "course_link": "https://www.youtube.com/watch?v=Q_KTYFgvu1s&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD",
                         "channel_name": "Bóson Treinamentos",
-                        "channel_link": "https://www.youtube.com/c/bosontreinamentos"
+                        "channel_link": "https://www.youtube.com/c/bosontreinamentos",
+                        "language": "Portuguese"
                     }
                 ]
             },
@@ -89,13 +99,15 @@
                         "course_name": "Curso de Banco de Dados MySQL",
                         "course_link": "https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r",
                         "channel_name": "Curso em Vídeo",
-                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ"
+                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Curso de MySQL",
                         "course_link": "https://www.youtube.com/watch?v=fmerTu7dWk8&list=PLucm8g_ezqNrWAQH2B_0AnrFY5dJcgOLR",
                         "channel_name": "Bóson Treinamentos",
-                        "channel_link": "https://www.youtube.com/c/bosontreinamentos"
+                        "channel_link": "https://www.youtube.com/c/bosontreinamentos",
+                        "language": "Portuguese"
                     }
                 ]
             }
@@ -109,7 +121,8 @@
                         "course_name": "Curso de Raspberry Pi: primeiros passos",
                         "course_link": "https://www.youtube.com/watch?v=X7WMSfEfZGg&list=PLHz_AreHm4dnGZ_nudmN4rvyLk2fHFRzy",
                         "channel_name": "Curso em Vídeo",
-                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ"
+                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ",
+                        "language": "Portuguese"
                     }
                 ]
             },
@@ -120,7 +133,8 @@
                         "course_name": "Curso de Hardware Grátis",
                         "course_link": "https://www.youtube.com/playlist?list=PLHz_AreHm4dn1JHgN9wpbIUhzZmycYQXW",
                         "channel_name": "Curso em Vídeo",
-                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ"
+                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ",
+                        "language": "Portuguese"
                     }
                 ]
             }
@@ -134,7 +148,8 @@
                         "course_name": "Programação em C",
                         "course_link": "https://www.youtube.com/watch?v=FH7YrE0RjWE&list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4",
                         "channel_name": "eXcript",
-                        "channel_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg"
+                        "channel_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg",
+                        "language": "Portuguese"
                     }
                 ]
             },
@@ -145,13 +160,15 @@
                         "course_name": "Curso C++",
                         "course_link": "https://www.youtube.com/watch?v=5W9YsbqnX0U&list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo",
                         "channel_name": "eXcript",
-                        "channel_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg"
+                        "channel_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Curso C++ para iniciantes",
                         "course_link": "https://www.youtube.com/watch?v=p2RsIed0hnA&list=PL8eBmR3QtPL13Dkn5eEfmG9TmzPpTp0cV",
                         "channel_name": "Marcos Castro",
-                        "channel_link": "https://www.youtube.com/channel/UCdew-vmhSLvFJRck_hYZN8A"
+                        "channel_link": "https://www.youtube.com/channel/UCdew-vmhSLvFJRck_hYZN8A",
+                        "language": "Portuguese"
                     }
                 ]
             },
@@ -162,7 +179,8 @@
                         "course_name": "Curso de Haskell",
                         "course_link": "https://www.youtube.com/watch?v=L_GvP5XTJj4&list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z",
                         "channel_name": "Marcos Castro",
-                        "channel_link": "https://www.youtube.com/channel/UCdew-vmhSLvFJRck_hYZN8A"
+                        "channel_link": "https://www.youtube.com/channel/UCdew-vmhSLvFJRck_hYZN8A",
+                        "language": "Portuguese"
                     }
                 ]
             },
@@ -173,19 +191,22 @@
                         "course_name": "Curso de POO Java (Programação Orientada a Objeto",
                         "course_link": "https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY",
                         "channel_name": "Curso em Vídeo",
-                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ"
+                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Java Orientado a Objetos",
                         "course_link": "https://www.youtube.com/watch?v=ZjPotaffGks&list=PLesCEcYj003RzkQBaNOOl7zwlIGOfeo1y",
                         "channel_name": "eXcript",
-                        "channel_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg"
+                        "channel_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Java8",
                         "course_link": "https://www.youtube.com/watch?v=q84ncDh4ln0&list=PLesCEcYj003SbwnNhQ9eyF7IjPlEK0uVg",
                         "channel_name": "eXcript",
-                        "channel_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg"
+                        "channel_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg",
+                        "language": "Portuguese"
                     }                    
                 ]
             },
@@ -196,7 +217,8 @@
                         "course_name": "Curso de JavaScript e ECMAScript para Iniciantes",
                         "course_link": "https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1",
                         "channel_name": "Curso em Vídeo",
-                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ"
+                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ",
+                        "language": "Portuguese"
                     }
                 ]
             },
@@ -207,19 +229,22 @@
                         "course_name": "Curso de PHP",
                         "course_link": "https://www.youtube.com/watch?v=R_yRrYUHai0&list=PLesCEcYj003TrV2MvUOnmVtMdgIp0C4Pd",
                         "channel_name": "eXcript",
-                        "channel_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg"
+                        "channel_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Curso de PHP para Iniciantes",
                         "course_link": "https://www.youtube.com/watch?v=F7KzJ7e6EAc&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k",
                         "channel_name": "Curso em Vídeo",
-                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ"
+                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Curso de POO PHP (Programação Orientada a Objeto",
                         "course_link": "https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x",
                         "channel_name": "Curso em Vídeo",
-                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ"
+                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ",
+                        "language": "Portuguese"
                     }
                 ]
             },
@@ -231,37 +256,43 @@
                         "course_name": "Curso de Python",
                         "course_link": "https://www.youtube.com/watch?v=j94IGZmwtYI&list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj",
                         "channel_name": "eXcript",
-                        "channel_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg"
+                        "channel_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Curso de Python - Módulo SQLite",
                         "course_link": "https://www.youtube.com/watch?v=c43-mTD-8XM&list=PLesCEcYj003QiX5JaM24ytHrHiOJknwog",
                         "channel_name": "eXcript",
-                        "channel_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg"
+                        "channel_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Curso de Python - Módulo Tkinter",
                         "course_link": "https://www.youtube.com/watch?v=kSQDp20eeqE&list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE",
                         "channel_name": "eXcript",
-                        "channel_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg"
+                        "channel_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Curso de Python - Programação",
                         "course_link": "https://www.youtube.com/watch?v=wpqkZJ10Gmo&list=PLucm8g_ezqNrrtduPx7s4BM8phepMn9I2",
                         "channel_name": "Bóson Treinamentos",
-                        "channel_link": "https://www.youtube.com/c/bosontreinamentos"
+                        "channel_link": "https://www.youtube.com/c/bosontreinamentos",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Curso em vídeo - Python",
                         "course_link": "https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0",
                         "channel_name": "Curso em Vídeo",
-                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ"
+                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Curso Python 300",
                         "course_link": "https://www.youtube.com/watch?v=I5-LNy_R-0I&list=PL8eBmR3QtPL0j3QLEjQ6rcx8rVB8Ir893",
                         "channel_name": "Marcos Castro",
-                        "channel_link": "https://www.youtube.com/channel/UCdew-vmhSLvFJRck_hYZN8A"
+                        "channel_link": "https://www.youtube.com/channel/UCdew-vmhSLvFJRck_hYZN8A",
+                        "language": "Portuguese"
                     }
                 ],
                 "Django": {
@@ -271,61 +302,71 @@
                             "course_name": "Curso Django",
                             "course_link": "https://www.youtube.com/playlist?list=PLU8oAlHdN5BmfvwxFO7HdPciOCmmYneAB",
                             "channel_name": "pildorasinformaticas",
-                            "channel_link": "https://www.youtube.com/user/pildorasinformaticas"
+                            "channel_link": "https://www.youtube.com/user/pildorasinformaticas",
+                            "language": "Spanish"
                         },
                         {
                             "course_name": "Curso Django",
                             "course_link": "https://www.youtube.com/playlist?list=PLpOqH6AE0tNgL7Jg9Kx4SdfA5_oK6292j",
                             "channel_name": "codigofacilito",
-                            "channel_link": "https://www.youtube.com/user/codigofacilito"
+                            "channel_link": "https://www.youtube.com/user/codigofacilito",
+                            "language": "Spanish"
                         },
                         {
                             "course_name": "Curso de Django -  Construindo um Ecommerce",
                             "course_link": "https://www.youtube.com/playlist?list=PLeFetwYAi-F_9lT7em1UDEXS-3Gm9hjrI",
                             "channel_name": "Código Fluente",
-                            "channel_link": "https://www.youtube.com/user/toticavalcanti"
+                            "channel_link": "https://www.youtube.com/user/toticavalcanti",
+                            "language": "Portuguese"
                         },
                         {
                             "course_name": "Curso de Django - App Polls",
                             "course_link": "https://www.youtube.com/playlist?list=PLeFetwYAi-F99mfzHUTjVxDSjKIx1tW79",
                             "channel_name": "Código Fluente",
-                            "channel_link": "https://www.youtube.com/user/toticavalcanti"
+                            "channel_link": "https://www.youtube.com/user/toticavalcanti",
+                            "language": "Portuguese"
                         },
                         {
                             "course_name": "Curso de Django - Programação WEB com Python",
                             "course_link": "https://www.youtube.com/playlist?list=PLxNM4ef1BpxhlzYeZA9-wCEq8w-vMOepk",
                             "channel_name": "Hugo Vasconcelos",
-                            "channel_link": "https://www.youtube.com/user/tutoriais01"
+                            "channel_link": "https://www.youtube.com/user/tutoriais01",
+                            "language": "Portuguese"
                         },
                         {
                             "course_name": "Curso de Django Rest Framework",
                             "course_link": "https://www.youtube.com/playlist?list=PLsTx8TSx2fHY01FnuxBdwiBiOdZdPGik7",
                             "channel_name": "Fernando Rodrigues",
-                            "channel_link": "https://www.youtube.com/user/5Darks5"
+                            "channel_link": "https://www.youtube.com/user/5Darks5",
+                            "language": "Portuguese"
                         },
                         {
                             "course_name": "Curso de Python 3 e Django (SimpleMOOC",
                             "course_link": "https://www.youtube.com/playlist?list=PLPOyk_fKVcz5ilRDdKvqlM5ydOVkrmStQ",
                             "channel_name": "PyCursos",
-                            "channel_link": "https://www.youtube.com/user/PyCursos"
+                            "channel_link": "https://www.youtube.com/user/PyCursos",
+                            "language": "Portuguese"
                         },
                         {
                             "course_name": "Curso de introdução ao desenvolvimento Web com Python 3 e Django 2.2",
                             "course_link": "https://www.youtube.com/playlist?list=PLjv17QYEBJPpd6nI-MXpIa4qR7prKfPQz",
                             "channel_name": "Rafael Zottesso",
-                            "channel_link": "https://www.youtube.com/user/rafaelzottesso"
+                            "channel_link": "https://www.youtube.com/user/rafaelzottesso",
+                            "language": "Portuguese"
                         },
                         {
                             "course_name": "Django para Iniciantes",
                             "course_link": "https://www.youtube.com/playlist?list=PLfkVgm8720kzm6fmTekjtKyFcppyD4Ubd",
                             "channel_name": "Allisson Azevedo",
-                            "channel_link": "https://www.youtube.com/user/allissonazevedo"
+                            "channel_link": "https://www.youtube.com/user/allissonazevedo",
+                            "language": "Portuguese"
                         },
                         {
                             "course_name": "🚀 Curso DJANGO paso a paso para PRINCIPIANTES",
                             "course_link": "https://www.youtube.com/playlist?list=PL8ZnVqiE4oiY6fh6_vvNKwkxfutf3CiMY",
                             "channel_name": "Jon Vadillo",
-                            "channel_link": "https://www.youtube.com/user/padopadopado"
+                            "channel_link": "https://www.youtube.com/user/padopadopado",
+                            "language": "Spanish"
                         }
                     ]
                 }
@@ -337,38 +378,50 @@
                         "course_name": "Curso de ruby",
                         "course_link": "https://www.youtube.com/playlist?list=PL898C0B8D77D7F0C5",
                         "channel_name": "Luis Caballero",
-                        "channel_link": "https://www.youtube.com/user/puppet1990"},
+                        "channel_link": "https://www.youtube.com/user/puppet1990",
+                        "language": "Portuguese"
+                    },
                     {
                         "course_name": "Curso de Ruby",
                         "course_link": "https://www.youtube.com/playlist?list=PLEFC2D43C36013A70",
                         "channel_name": "codigofacilito",
-                        "channel_link": "https://www.youtube.com/user/codigofacilito"},
+                        "channel_link": "https://www.youtube.com/user/codigofacilito",
+                        "language": "Portuguese"
+                    },
                     {
                         "course_name": "Curso de Ruby on Rails para  Iniciantes",
                         "course_link": "https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP",
                         "channel_name": "Jackson Pires",
-                        "channel_link": "https://www.youtube.com/user/jacksonpiresjr"},
+                        "channel_link": "https://www.youtube.com/user/jacksonpiresjr",
+                        "language": "Portuguese"
+                    },
                     {
                         "course_name": "Curso Ruby on Rails 4 desde cero",
                         "course_link": "https://www.youtube.com/playlist?list=PLpOqH6AE0tNiQ-ofrDlbAUSc1r67r_AWv",
                         "channel_name": "codigofacilito",
-                        "channel_link": "https://www.youtube.com/user/codigofacilito"
+                        "channel_link": "https://www.youtube.com/user/codigofacilito",
+                        "language": "Spanish"
                     },
                     {
                         "course_name": "linguagem de programação ruby",
                         "course_link": "https://www.youtube.com/playlist?list=PLpqql3qzt0QZhJ-EzaW5S9saQOEh1o0Ed",
                         "channel_name": "jhonatan nunes",
-                        "channel_link": "https://www.youtube.com/user/bestfriend4997"},
+                        "channel_link": "https://www.youtube.com/user/bestfriend4997",
+                        "language": "Portuguese"
+                    },
                     {
                         "course_name": "Linguagem Ruby",
                         "course_link": "https://www.youtube.com/playlist?list=PLEdPHGYbHhldWUFs2Q-jSzXAv3NXh4wu0",
                         "channel_name": "Danilo Aparecido - Torne-se um programador",
-                        "channel_link": "https://www.youtube.com/user/Didox59"},
+                        "channel_link": "https://www.youtube.com/user/Didox59",
+                        "language": "Portuguese"
+                    },
                     {
                         "course_name": "Programação com Ruby",
                         "course_link": "https://www.youtube.com/playlist?list=PLucm8g_ezqNqMm1gdqjZzfhAMFQ9KrhFq",
                         "channel_name": "Bóson Treinamentos",
-                        "channel_link": "https://www.youtube.com/user/bosontreinamentos"
+                        "channel_link": "https://www.youtube.com/user/bosontreinamentos",
+                        "language": "Portuguese"
                     }
                 ]
             }
@@ -382,13 +435,15 @@
                         "course_name": "Curso de Git",
                         "course_link": "https://www.youtube.com/watch?v=YnVnFanIAzU&list=PLucm8g_ezqNq0dOgug6paAkH0AQSJPlIe",
                         "channel_name": "Bóson Treinamentos",
-                        "channel_link": "https://www.youtube.com/c/bosontreinamentos"
+                        "channel_link": "https://www.youtube.com/c/bosontreinamentos",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal",
                         "course_link": "https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA",
                         "channel_name": "Curso em Vídeo",
-                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ"
+                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ",
+                        "language": "Portuguese"
                     }
                 ]
             }
@@ -400,19 +455,22 @@
                     "course_name": "Curso de Lógica de Programação",
                     "course_link": "https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV",
                     "channel_name": "Curso em Vídeo",
-                    "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ"
+                    "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ",
+                    "language": "Portuguese"
                 },
                 {
                     "course_name": "Curso de Lógica de Programação",
                     "course_link": "https://www.youtube.com/watch?v=41ubXTEPFO0&list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd",
                     "channel_name": "Bóson Treinamentos",
-                    "channel_link": "https://www.youtube.com/c/bosontreinamentos"
+                    "channel_link": "https://www.youtube.com/c/bosontreinamentos",
+                    "language": "Portuguese"
                 },
                 {
                     "course_name": "Lógica de Programação com Scratch",
                     "course_link": "https://www.youtube.com/watch?v=HwqopjxdP7E&list=PLucm8g_ezqNqTtmGghrC2fk9rqM2lkn9O",
                     "channel_name": "Bóson Treinamentos",
-                    "channel_link": "https://www.youtube.com/c/bosontreinamentos"
+                    "channel_link": "https://www.youtube.com/c/bosontreinamentos",
+                    "language": "Portuguese"
                 }
             ]
         },
@@ -425,25 +483,29 @@
                         "course_name": "Certificação LPI Linux Essentials",
                         "course_link": "https://www.youtube.com/watch?v=MACP8F7MMPg&list=PLucm8g_ezqNqz-DVT9n_z-XjRkQ03m7U5",
                         "channel_name": "Bóson Treinamentos",
-                        "channel_link": "https://www.youtube.com/c/bosontreinamentos"
+                        "channel_link": "https://www.youtube.com/c/bosontreinamentos",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Curso de Linux Básico / Certificação LPIC - 1",
                         "course_link": "https://www.youtube.com/watch?v=UsHiWIgxj2M&list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7",
                         "channel_name": "Bóson Treinamentos",
-                        "channel_link": "https://www.youtube.com/c/bosontreinamentos"
+                        "channel_link": "https://www.youtube.com/c/bosontreinamentos",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Curso de Linux - Primeiros Passos",
                         "course_link": "https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV",
                         "channel_name": "Curso em Vídeo",
-                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ"
+                        "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Distribuições Linux e afins - Análise e Instalação",
                         "course_link": "https://www.youtube.com/watch?v=9bI0GWuUFhw&list=PLucm8g_ezqNoG9vpzNAw4BMtOpx7zxUMD",
                         "channel_name": "Bóson Treinamentos",
-                        "channel_link": "https://www.youtube.com/c/bosontreinamentos"
+                        "channel_link": "https://www.youtube.com/c/bosontreinamentos",
+                        "language": "Portuguese"
                     }
                 ]
             }
@@ -455,7 +517,8 @@
                     "course_name": "Segurança e Criptografia",
                     "course_link": "https://www.youtube.com/watch?v=cWld3rMD7Wk&list=PLucm8g_ezqNred_fII4GzZxMi91PKbney",
                     "channel_name": "Bóson Treinamentos",
-                    "channel_link": "https://www.youtube.com/c/bosontreinamentos"
+                    "channel_link": "https://www.youtube.com/c/bosontreinamentos",
+                    "language": "Portuguese"
                 }
             ]
         },
@@ -466,7 +529,8 @@
                     "course_name": "Virtualização",
                     "course_link": "https://www.youtube.com/watch?v=3dGsUH0XjPs&list=PLucm8g_ezqNq4AA0NuVvSswHdZcuFbJbb",
                     "channel_name": "Bóson Treinamentos",
-                    "channel_link": "https://www.youtube.com/c/bosontreinamentos"
+                    "channel_link": "https://www.youtube.com/c/bosontreinamentos",
+                    "language": "Portuguese"
                 }
             ]
         },
@@ -477,7 +541,8 @@
                     "course_name": "Curso de Windows Server 2012 - Servidores",
                     "course_link": "https://www.youtube.com/watch?v=Vpet9RHHmyM&list=PLucm8g_ezqNrU2KEuQNjZn1jA5tZyBnBc",
                     "channel_name": "Bóson Treinamentos",
-                    "channel_link": "https://www.youtube.com/c/bosontreinamentos"
+                    "channel_link": "https://www.youtube.com/c/bosontreinamentos",
+                    "language": "Portuguese"
                 }
             ]
         },
@@ -492,7 +557,8 @@
                             "course_name": "Curso de Excel 2016 Essencial",
                             "course_link": "https://www.youtube.com/watch?v=ZVURQLXZtIc&list=PLHz_AreHm4dkRZoc0-i4sQeot_62qKi4a",
                             "channel_name": "Curso em Vídeo",
-                            "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ"
+                            "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ",
+                            "language": "Portuguese"
                         }
                     ]
                 },
@@ -503,7 +569,8 @@
                             "course_name": "Curso de Word 2016 Essencial",
                             "course_link": "https://www.youtube.com/watch?v=59lDXVkqlqQ&list=PLHz_AreHm4dkxM_0dinX7l_WUxpG-VrC-",
                             "channel_name": "Curso em Vídeo",
-                            "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ"
+                            "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ",
+                            "language": "Portuguese"
                         }
                     ]
                 }
@@ -517,7 +584,8 @@
                             "course_name": "Curso de Photoshop CC",
                             "course_link": "https://www.youtube.com/watch?v=apyGxxabcZ4&list=PLHz_AreHm4dnj6cWEvVfRGNh2WaI0fDut",
                             "channel_name": "Curso em Vídeo",
-                            "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ"
+                            "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ",
+                            "language": "Portuguese"
                         }
                     ]
                 }
@@ -533,132 +601,152 @@
                     "course_name": "Avançado I - Inglês conversação e leitura de textos",
                     "course_link": "https://www.youtube.com/playlist?list=PLkeRgfDA-huq90Ohl9qXZDFcMqNgqZp-c",
                     "channel_name": "Você Aprende Agora",
-                    "channel_link": "https://www.youtube.com/user/VoceAprendeAgora"
+                    "channel_link": "https://www.youtube.com/user/VoceAprendeAgora",
+                    "language": "Portuguese"
                 },
                 {
                     "course_name": "CURSO COMPLETO DE INGLÉS - NIVEL PRINCIPIANTE",
                     "course_link": "https://www.youtube.com/playlist?list=PL93iwVYt7GG7OMmJZclmGo0ekKOzTi5o-",
                     "channel_name": "Inglés Paso a Paso con Lucie",
-                    "channel_link": "https://www.youtube.com/user/cursosdeinglesats"
+                    "channel_link": "https://www.youtube.com/user/cursosdeinglesats",
+                    "language": "Portuguese"
                 },
                 {
                     "course_name": "Curso de Inglês com Professor Felipe Dib",
                     "course_link": "https://www.youtube.com/playlist?list=PLlCJzwJDT_VZdO7A92RoKw_otNMsIjF4U",
                     "channel_name": "Luiz Gomes",
-                    "channel_link": "https://www.youtube.com/user/luizgomes63"
+                    "channel_link": "https://www.youtube.com/user/luizgomes63",
+                    "language": "Portuguese"
                 },
                 {
                     "course_name": "Curso de Inglês Completo Totalmente Gratuito",
                     "course_link": "https://www.youtube.com/playlist?list=PLBHaySgwEigzRShHeQjy7DlIoBVw5oPRZ",
                     "channel_name": "Aprendo e Compartilho",
-                    "channel_link": "https://www.youtube.com/user/davifreitasweb"
+                    "channel_link": "https://www.youtube.com/user/davifreitasweb",
+                    "language": "Portuguese"
                 },
                 {
                     "course_name": "CURSO DE INGLÊS COMPLETO - NIVEL BÁSICO - CERTIFICADO OPCIONAL",
                     "course_link": "https://www.youtube.com/playlist?list=PLcytaWNNrQHpnjw2rIjZZT1Tn_sZjmpNK",
                     "channel_name": "INT CURSOS",
-                    "channel_link": "https://www.youtube.com/user/INTCURSOS"
+                    "channel_link": "https://www.youtube.com/user/INTCURSOS",
+                    "language": "Portuguese"
                 },
                 {
                     "course_name": "Curso de Inglês Intermediário",
                     "course_link": "https://www.youtube.com/playlist?list=PLifNhj7vtELvpspP9zPxhliWAF1tOJB95",
                     "channel_name": "Inglês de Bolso",
-                    "channel_link": "https://www.youtube.com/user/InglesDeBolso"
+                    "channel_link": "https://www.youtube.com/user/InglesDeBolso",
+                    "language": "Portuguese"
                 },
                 {
                     "course_name": "Ensino Fundamental - Inglês",
                     "course_link": "https://www.youtube.com/playlist?list=PL3qONjKuaO2QyRsEFHiMHwuYOKyqi9ove",
                     "channel_name": "Novo Telecurso",
-                    "channel_link": "https://www.youtube.com/user/TelecursoNovo"
+                    "channel_link": "https://www.youtube.com/user/TelecursoNovo",
+                    "language": "Portuguese"
                 },
                 {
                     "course_name": "Inglês para iniciantes",
                     "course_link": "https://www.youtube.com/playlist?list=PLE67CF3D9E2C51F3A",
                     "channel_name": "Educação Ativa Idiomas",
-                    "channel_link": "https://www.youtube.com/user/supercheff1970"
+                    "channel_link": "https://www.youtube.com/user/supercheff1970",
+                    "language": "Portuguese"
                 },
                 {
                     "course_name": "Playlist: AULAS DE INGLÊS PARA INICIANTES - PROFESSOR KENNY",
                     "course_link": "https://www.youtube.com/playlist?list=PL41dMNqXopt85RhRgFp_jdoI5Bz7DUG-c",
                     "channel_name": "PROFESSOR KENNY",
-                    "channel_link": "https://www.youtube.com/user/ProfessorKennyMendes"
+                    "channel_link": "https://www.youtube.com/user/ProfessorKennyMendes",
+                    "language": "Portuguese"
                 },
                 {
                     "course_name": "Principiante - Vaughan Inglés 4.0",
                     "course_link": "https://www.youtube.com/playlist?list=PL4VBcBXfVRZbW9Gqy6o-G3oKGBiosslfa",
                     "channel_name": "AI TV BASIC",
-                    "channel_link": "https://www.youtube.com/user/aibasic"
+                    "channel_link": "https://www.youtube.com/user/aibasic",
+                    "language": "Spanish"
                 },
                 {
                     "course_name": "Web Inglés - Curso de Ingles Americano - Completo",
                     "course_link": "https://www.youtube.com/playlist?list=PLAD4A4CB21F73B485",
                     "channel_name": "Web Inglés",
-                    "channel_link": "https://www.youtube.com/user/Webingles"
+                    "channel_link": "https://www.youtube.com/user/Webingles",
+                    "language": "Spanish"
                 }
             ]
         },
         "Japonese":{
             "id": "japonese",
             "courses":[
- 
                 {
                     "course_name": "Aulas de Japonês - Curso de Japonês Online",
                     "course_link": "https://www.youtube.com/playlist?list=PL47hZ7Mbf5Bn1Mp18O1Z7-gtKF5UmKUqP",
                     "channel_name": "Programa Japonês Online",
-                    "channel_link": "https://www.youtube.com/user/aulasjapones"
+                    "channel_link": "https://www.youtube.com/user/aulasjapones",
+                    "language": "Portuguese"
                 },
                 {
                     "course_name": "CURSO DE JAPONÊS - INICIANTE ABSOLUTO",
                     "course_link": "https://www.youtube.com/playlist?list=PLmEl-ZDmyZUs65276eNCYH-UAEJK-cb7c",
                     "channel_name": "VideoAulasdeJapones",
-                    "channel_link": "https://www.youtube.com/user/VideoAulasdeJapones"
+                    "channel_link": "https://www.youtube.com/user/VideoAulasdeJapones",
+                    "language": "Portuguese"
                 },
                 {
                     "course_name": "Curso Básico Japonês - Básico 2",
                     "course_link": "https://www.youtube.com/playlist?list=PLdjf4CXA4wSY6lKcyhCqItomInRsnq3Kw",
                     "channel_name": "Japonês com Ayu",
-                    "channel_link": "https://www.youtube.com/user/ayuhitsuji"
+                    "channel_link": "https://www.youtube.com/user/ayuhitsuji",
+                    "language": "Portuguese"
                 },
                 {
                     "course_name": "Curso completo de Japones : 01 a 24",
                     "course_link": "https://www.youtube.com/playlist?list=PLy2H11M-DPqy2kEGiB_lOrnvfrQuQTOyE",
                     "channel_name": "CanalparaAnormal",
-                    "channel_link": "https://www.youtube.com/user/CanalparaAnormal"
+                    "channel_link": "https://www.youtube.com/user/CanalparaAnormal",
+                    "language": "Portuguese"
                 },
                 {
                     "course_name": "Curso de Japonês - fale em japonês",
                     "course_link": "https://www.youtube.com/playlist?list=PLTu5UPFyRDhYsHW0TEMljBLT3r7Z9qD5a",
                     "channel_name": "Carlos Yamagishi",
-                    "channel_link": "https://www.youtube.com/user/CarlosYamagishi"
+                    "channel_link": "https://www.youtube.com/user/CarlosYamagishi",
+                    "language": "Portuguese"
                 },
                 {
                     "course_name": "Curso de Japonês Marugoto Introdutório Katsudo A1",
                     "course_link": "https://www.youtube.com/playlist?list=PLdjf4CXA4wSZfHIfR5_z00-_sK5QVBk0e",
                     "channel_name": "Japonês com Ayu",
-                    "channel_link": "https://www.youtube.com/user/ayuhitsuji"
+                    "channel_link": "https://www.youtube.com/user/ayuhitsuji",
+                    "language": "Portuguese"
                 },
                 {
                     "course_name": "Curso de Japonês Marugoto Introdutório RIKAI A1",
                     "course_link": "https://www.youtube.com/playlist?list=PLdjf4CXA4wSapoxt-hPFb9vw5BPdS9sM5",
                     "channel_name": "Japonês com Ayu",
-                    "channel_link": "https://www.youtube.com/user/ayuhitsuji"
+                    "channel_link": "https://www.youtube.com/user/ayuhitsuji",
+                    "language": "Portuguese"
                 },
                 {  "course_name": "Curso de japonês (日本語を学ぶ",
                     "course_link": "https://www.youtube.com/playlist?list=PLvuySypz5mHpgW3pTkgixiVHMEY75wIOR",
                     "channel_name": "VideosLaw",
-                    "channel_link": "https://www.youtube.com/user/VideosLaw"
+                    "channel_link": "https://www.youtube.com/user/VideosLaw",
+                    "language": "Portuguese"
                 },
                 {
                     "course_name": "Curso de japonês",
                     "course_link": "https://www.youtube.com/playlist?list=PLB1wKDOp_4yuEhK8tZPDZO5GHUujVUrq6",
                     "channel_name": "Pedro Camilo",
-                    "channel_link": "https://www.youtube.com/user/camilomsdn"
+                    "channel_link": "https://www.youtube.com/user/camilomsdn",
+                    "language": "Portuguese"
                 },
                 {
                     "course_name": "Curso de japonês",
                     "course_link": "https://www.youtube.com/playlist?list=PLSZtPtB1YBb4P9OyalIwiIy4cct9LTDS2",
                     "channel_name": "Anderson fernandes",
-                    "channel_link": "https://www.youtube.com/user/yokayand"
+                    "channel_link": "https://www.youtube.com/user/yokayand",
+                    "language": "Portuguese"
                 }
             ]
         }
@@ -674,49 +762,57 @@
                         "course_name": "Curso auto Maquiagem",
                         "course_link": "https://www.youtube.com/watch?v=yZNvJXTKbF8&list=PL3w01NMwRB-OIUOtJXjZdtu5XEDjopxgJ",
                         "channel_name": "Amanda Pastore",
-                        "channel_link": "https://www.youtube.com/channel/UCtcVFZjsblXS0aFJb2cWFSA"
+                        "channel_link": "https://www.youtube.com/channel/UCtcVFZjsblXS0aFJb2cWFSA",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Curso de Automaquiagem",
                         "course_link": "https://www.youtube.com/watch?v=zhciEGSDdiM&list=PLTwEj_G8gbA3oyY6sli1u7RjNLQeUTXHGv",
                         "channel_name": "JoyceBraga",
-                        "channel_link": "https://www.youtube.com/channel/UCjK0vmja6XKOPJDakYt7Gcg"
+                        "channel_link": "https://www.youtube.com/channel/UCjK0vmja6XKOPJDakYt7Gcg",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Curso de Automaquiagem Completo",
                         "course_link": "https://www.youtube.com/watch?v=jjZ89DlhSXM&list=PLILsiTj7Fn2th3M--Amw-OPVXAbvCxV7x",
                         "channel_name": "Roberta Kretzer",
-                        "channel_link": "https://www.youtube.com/channel/UCalO99QRyq_-LbQcvjCSyaQ"
+                        "channel_link": "https://www.youtube.com/channel/UCalO99QRyq_-LbQcvjCSyaQ",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Curso de maquiagem",
                         "course_link": "https://www.youtube.com/watch?v=0cPGwhz_3Us&list=PLE8jXjQtMVlu0HtLxNVYGRuHMbZ9l4Uez",
                         "channel_name": "Sandra Pinnato",
-                        "channel_link": "https://www.youtube.com/channel/UCumnDsJShDtL2-10-1ZiLXQ"
+                        "channel_link": "https://www.youtube.com/channel/UCumnDsJShDtL2-10-1ZiLXQ",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Curso de maquiagem online",
                         "course_link": "https://www.youtube.com/watch?v=GCKMCf34rgs&list=PL_-_5E3pDc1-U7zXPfeeSosWZVBSzw7PL",
                         "channel_name": "Sandra Pinnato",
-                        "channel_link": "https://www.youtube.com/channel/UCumnDsJShDtL2-10-1ZiLXQ"
+                        "channel_link": "https://www.youtube.com/channel/UCumnDsJShDtL2-10-1ZiLXQ",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Curso de Maquiagem Online Grátis",
                         "course_link": "https://www.youtube.com/watch?v=u7B33_j8mgU&list=PL-QAz5R5Rlm7oGTs7CCUy8bKYl-TOv-ls",
                         "channel_name": "Certificado Cursos Online",
-                        "channel_link": "https://www.youtube.com/channel/UCu4Y3A_DuBKmwvFXc0rqC2A"
+                        "channel_link": "https://www.youtube.com/channel/UCu4Y3A_DuBKmwvFXc0rqC2A",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Curso de Maquiagem 2018",
                         "course_link": "https://www.youtube.com/watch?v=s6L5s8nT21s&list=PL_-_5E3pDc1-NrZlWPpe2OIZrZ0Cpe4un",
                         "channel_name": "Sandra Pinnato",
-                        "channel_link": "https://www.youtube.com/channel/UCumnDsJShDtL2-10-1ZiLXQ"
+                        "channel_link": "https://www.youtube.com/channel/UCumnDsJShDtL2-10-1ZiLXQ",
+                        "language": "Portuguese"
                     },
                     {
                         "course_name": "Curso de Maquiagem 2020",
                         "course_link": "https://www.youtube.com/watch?v=wvymetTBCHc&list=PL_-_5E3pDc1-W7lx61nVC8d2IYjzyv44G",
                         "channel_name": "Sandra Pinnato",
-                        "channel_link": "https://www.youtube.com/channel/UCumnDsJShDtL2-10-1ZiLXQ"
+                        "channel_link": "https://www.youtube.com/channel/UCumnDsJShDtL2-10-1ZiLXQ",
+                        "language": "Portuguese"
                     }
                 ]
             }
@@ -728,7 +824,8 @@
                     "course_name": "Curso de Marketing Digital",
                     "course_link": "https://www.youtube.com/watch?v=vqdnQqLgGRo&list=PLHz_AreHm4dmmqFmLT17KMjoaE0Y4LqRv",
                     "channel_name": "Curso em Vídeo",
-                    "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ"
+                    "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ",
+                "language": "Portuguese"
                 }
             ]
         }
