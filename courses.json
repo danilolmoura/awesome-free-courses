@@ -251,7 +251,6 @@
             "Python":{
                 "id": "python",
                 "courses": [
-
                     {
                         "course_name": "Curso de Python",
                         "course_link": "https://www.youtube.com/watch?v=j94IGZmwtYI&list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj",
@@ -427,9 +426,9 @@
             }
         },
         "Programming Tools":{
-            "id": "programming-logic",
+            "id": "programming-tools",
             "Git":{
-                "id": "programming-logic",
+                "id": "git",
                 "courses":[
                     {
                         "course_name": "Curso de Git",
