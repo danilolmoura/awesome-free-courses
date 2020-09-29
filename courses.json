@@ -443,6 +443,13 @@
                         "channel_name": "Curso em Vídeo",
                         "channel_link": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ",
                         "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso prático GIT e GITHUB",
+                        "course_link": "https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj",
+                        "channel_name": "Professor José de Assis",
+                        "channel_link": "https://www.youtube.com/c/RoboticapraticaBr",
+                        "language": "Portuguese"
                     }
                 ]
             }
