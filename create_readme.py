@@ -9,11 +9,29 @@ TABLE_LINE = '| [{}]({}) | {} | [{}]({}) '
 TABLE_OF_CONTENTS_INDENT = '  '
 TABLE_OF_CONTENTS_FORMAT = '{}* [{}](#{})\n'
 
-def write_header(readme):
-    readme.write('# awesome-free-courses\n')
-    readme.write('A collection of all amazing free courses\n\n')
-    readme.write('[![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) ')
-    readme.write('[![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors)')
+def count_courses(json_file):
+    total_courses = 0
+
+    for key in json_file.keys():
+        if key == 'id':
+            continue
+
+        if key == 'courses':
+            total_courses += len(json_file[key])
+            continue
+
+        total_courses += count_courses(json_file[key])
+
+    return total_courses
+
+
+def write_header(readme_file, total_courses):
+    readme_file.write('# awesome-free-courses\n')
+    readme_file.write('A collection of all amazing free courses\n\n')
+    readme_file.write(' [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE)')
+    readme_file.write(' [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors)')
+    readme_file.write(' ![Total Courses contributors](https://img.shields.io/badge/total--courses-{}-blue)'.format(total_courses))
+
 
 def write_table_of_contents(json_file, level, readme_file, category_name=None):
     if level == 0:
@@ -67,7 +85,9 @@ if __name__ == '__main__':
     json_file = json.loads(j.read())
     readme_file = open('README.md', 'w')
 
-    write_header(readme_file)
+    total_courses = count_courses(json_file)
+
+    write_header(readme_file, total_courses)
     readme_file.write(NEW_LINE)
     write_table_of_contents(json_file, level, readme_file)
     write_readme(json_file, level, readme_file)
