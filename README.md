@@ -195,6 +195,7 @@ A collection of all amazing free courses
 | [Curso de Git](https://www.youtube.com/watch?v=YnVnFanIAzU&list=PLucm8g_ezqNq0dOgug6paAkH0AQSJPlIe) | Portuguese | [Bóson Treinamentos](https://www.youtube.com/c/bosontreinamentos) 
 | [Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) | Portuguese | [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) 
 | [Curso prático GIT e GITHUB](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj) | Portuguese | [Professor José de Assis](https://www.youtube.com/c/RoboticapraticaBr) 
+| [Dominando o Git](https://www.youtube.com/playlist?list=PL9aKtVrF05DzbNiE7jcm7s6z6Lg-u72Rq) | Portuguese | [Mango](https://www.youtube.com/c/MangoDeveloper) 
 
 
 ## Programming Logic

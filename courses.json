@@ -450,6 +450,13 @@
                         "channel_name": "Professor José de Assis",
                         "channel_link": "https://www.youtube.com/c/RoboticapraticaBr",
                         "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Dominando o Git",
+                        "course_link": "https://www.youtube.com/playlist?list=PL9aKtVrF05DzbNiE7jcm7s6z6Lg-u72Rq",
+                        "channel_name": "Mango",
+                        "channel_link": "https://www.youtube.com/c/MangoDeveloper",
+                        "language": "Portuguese"
                     }
                 ]
             }
