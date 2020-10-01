@@ -13,7 +13,7 @@ First, create a new branch
 
     git branch -b <branch_name>
 
-Add the course information to the (courses.json file)[https://github.com/danilolmoura/awesome-free-courses/blob/master/courses.json], you can add more than one course at a time
+Add the course information to the [courses.json file](https://github.com/danilolmoura/awesome-free-courses/blob/master/courses.json), you can add more than one course at a time
 
     {
         "course_name": "<course_name>",
