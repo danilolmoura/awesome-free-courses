@@ -169,6 +169,13 @@
                         "channel_name": "Marcos Castro",
                         "channel_link": "https://www.youtube.com/channel/UCdew-vmhSLvFJRck_hYZN8A",
                         "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "C++ Qt Programming",
+                        "course_link": "https://www.youtube.com/playlist?list=PL2D1942A4688E9D63",
+                        "channel_name": "VoidRealms",
+                        "channel_link": "https://www.youtube.com/user/VoidRealms",
+                        "language": "English"
                     }
                 ]
             },

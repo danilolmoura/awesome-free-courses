@@ -1,7 +1,7 @@
 # awesome-free-courses
 A collection of all amazing free courses
 
- [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors) ![Total Courses contributors](https://img.shields.io/badge/total--courses-96-blue)
+ [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors) ![Total Courses contributors](https://img.shields.io/badge/total--courses-97-blue)
 
 # Table of contents
   * [Programming and Computer Science](#programming-and-computer-science)
@@ -119,6 +119,7 @@ A collection of all amazing free courses
 |------|---------|--------|
 | [Curso C++](https://www.youtube.com/watch?v=5W9YsbqnX0U&list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo) | Portuguese | [eXcript](https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg) 
 | [Curso C++ para iniciantes](https://www.youtube.com/watch?v=p2RsIed0hnA&list=PL8eBmR3QtPL13Dkn5eEfmG9TmzPpTp0cV) | Portuguese | [Marcos Castro](https://www.youtube.com/channel/UCdew-vmhSLvFJRck_hYZN8A) 
+| [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) | English | [VoidRealms](https://www.youtube.com/user/VoidRealms) 
 
 
 ### Go
