@@ -1,7 +1,7 @@
 # awesome-free-courses
 A collection of all amazing free courses
 
- [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors) ![Total Courses contributors](https://img.shields.io/badge/total--courses-95-blue)
+ [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors) ![Total Courses contributors](https://img.shields.io/badge/total--courses-96-blue)
 
 # Table of contents
   * [Programming and Computer Science](#programming-and-computer-science)
@@ -17,6 +17,7 @@ A collection of all amazing free courses
     * [Programming Languages](#programming-languages)
       * [C](#c)
       * [C++](#c-1)
+      * [Go](#go)
       * [Haskell](#haskell)
       * [Java](#java)
       * [Javascript](#javascript)
@@ -118,6 +119,12 @@ A collection of all amazing free courses
 |------|---------|--------|
 | [Curso C++](https://www.youtube.com/watch?v=5W9YsbqnX0U&list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo) | Portuguese | [eXcript](https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg) 
 | [Curso C++ para iniciantes](https://www.youtube.com/watch?v=p2RsIed0hnA&list=PL8eBmR3QtPL13Dkn5eEfmG9TmzPpTp0cV) | Portuguese | [Marcos Castro](https://www.youtube.com/channel/UCdew-vmhSLvFJRck_hYZN8A) 
+
+
+### Go
+| Name | Language| Channel|
+|------|---------|--------|
+| [Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) | Portuguese | [Aprenda Go](https://www.youtube.com/c/AprendaGo) 
 
 
 ### Haskell
