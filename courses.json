@@ -75,7 +75,7 @@
                     "channel_link": "https://www.youtube.com/c/bosontreinamentos",
                     "language": "Portuguese"
                 }
-                
+
             ]
         },
         "Databases":{
@@ -172,9 +172,21 @@
                     }
                 ]
             },
+            "Go":{
+                "id": "go",
+                "courses": [
+                    {
+                        "course_name": "Aprenda Go",
+                        "course_link": "https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg",
+                        "channel_name": "Aprenda Go",
+                        "channel_link": "https://www.youtube.com/c/AprendaGo",
+                        "language": "Portuguese"
+                    }
+                ]
+            },
             "Haskell":{
                 "id": "haskell",
-                "courses": [ 
+                "courses": [
                     {
                         "course_name": "Curso de Haskell",
                         "course_link": "https://www.youtube.com/watch?v=L_GvP5XTJj4&list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z",
@@ -207,7 +219,7 @@
                         "channel_name": "eXcript",
                         "channel_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg",
                         "language": "Portuguese"
-                    }                    
+                    }
                 ]
             },
             "Javascript": {
