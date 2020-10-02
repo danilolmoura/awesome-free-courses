@@ -188,6 +188,104 @@
                         "channel_name": "Aprenda Go",
                         "channel_link": "https://www.youtube.com/c/AprendaGo",
                         "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso Desarrollo Web con Go (Golang)",
+                        "course_link": "https://www.youtube.com/watch?v=Cn4sZV7rXKU&list=PLl_hIu4u7P64sjDc4TlbUT050tWyqi6MG",
+                        "channel_name": "G Coding Academy",
+                        "channel_link": "https://www.youtube.com/channel/UCs87sSRsCqs9CYlgRUlPcww",
+                        "language": "Spanish"
+                    },
+                    {
+                        "course_name": "Curso de Go",
+                        "course_link": "https://www.youtube.com/watch?v=TgPpr0BHhJQ&list=PLeFetwYAi-F-h1RyywJAysOy74nvUs6i-",
+                        "channel_name": "Código Fluente",
+                        "channel_link": "https://www.youtube.com/user/toticavalcanti",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso de GO",
+                        "course_link": "https://www.youtube.com/watch?v=Wad9LTV0a5A&list=PL1xeVkd9tTFhEyLQIJHGCHUX2XYmh0Ige",
+                        "channel_name": "JAORSOFTWARE",
+                        "channel_link": "https://www.youtube.com/channel/UCssOl3P6LC2tMPGHYg6AVFw",
+                        "language": "Spanish"
+                    },
+                    {
+                        "course_name": "Curso de Go",
+                        "course_link": "https://www.youtube.com/watch?v=e37Q4SLC-30&list=PL-QXxECiZFr1e-NlrsYf25foYfMNKL-f-",
+                        "channel_name": "Mario Jiménez Carrasco",
+                        "channel_link": "https://www.youtube.com/user/isccarrasco",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso de Go (Golang)",
+                        "course_link": "https://www.youtube.com/watch?v=F_wmIVb_wBs&list=PLz50rwjpxdLFo6H91idmRbyTVd4AqC9xd",
+                        "channel_name": "Gcd Coder",
+                        "channel_link": "https://www.youtube.com/channel/UCwkisgTJdCx3mNZMaaHAaVA",
+                        "language": "Spanish"
+                    },
+                    {
+                        "course_name": "Curso de Introdução a Linguagem Go (Golang)",
+                        "course_link": "https://www.youtube.com/watch?v=SyNz6uos_qA&list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI",
+                        "channel_name": "Eliseu Codinhoto",
+                        "channel_link": "https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso Introducción a Go",
+                        "course_link": "https://www.youtube.com/watch?v=EZNNXzbderc&list=PLQpe1zyko1piqPg8YFuKivMD0PgR7XwFD",
+                        "channel_name": "KeepCoding - Cursos en programación",
+                        "channel_link": "https://www.youtube.com/channel/UCz-oGx94gqD1lICJQZGniLA",
+                        "language": "Spanish"
+                    },
+                    {
+                        "course_name": "Curso go",
+                        "course_link": "https://www.youtube.com/watch?v=8IZwgBnwcJk&list=PLpOqH6AE0tNiuc0qiAcKdlaJBASZ9W2Yn",
+                        "channel_name": "codigofacilito",
+                        "channel_link": "https://www.youtube.com/user/codigofacilito",
+                        "language": "Spanish"
+                    },
+                    {
+                        "course_name": "Cursos GOLANG",
+                        "course_link": "https://www.youtube.com/watch?v=Bosxe8sLKIY&list=PL3IMfVHTpXw14FL_TRIdHfeYTeOet1GS9",
+                        "channel_name": "Canal do Desenvolvedor",
+                        "channel_link": "https://www.youtube.com/user/CanalAlltrainingSP",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso Go - CodigoFacilito",
+                        "course_link": "https://www.youtube.com/watch?v=e37Q4SLC-30&list=PLdKnuzc4h6gFmPLeous4S0xn0j9Ik2s3Y",
+                        "channel_name": "Erick Platica",
+                        "channel_link": "https://www.youtube.com/user/ErickPlatica",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso GO (Golang Español) - De 0 a 100",
+                        "course_link": "https://www.youtube.com/watch?v=7SIIyt5-XK0&list=PLl_hIu4u7P64MEJpR3eVwQ1l_FtJq4a5g",
+                        "channel_name": "G Coding Academy",
+                        "channel_link": "https://www.youtube.com/channel/UCs87sSRsCqs9CYlgRUlPcww",
+                        "language": "Spanish"
+                    },
+                    {
+                        "course_name": "Curso Programação Golang",
+                        "course_link": "https://www.youtube.com/watch?v=K-i_BHCRy1s&list=PLpZslZJHL2Q2hZXShelGADqCR_fcOhF9K",
+                        "channel_name": "SubZero_ Knowledge",
+                        "channel_link": "https://www.youtube.com/channel/UCEFzzEt3fkRBbgKyMRZApyw",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso Programación Go",
+                        "course_link": "https://www.youtube.com/watch?v=D_RdV8xe9eM&list=PLtB7CL7EG7pCoT_FVy57PeGH5RPbRHjDw",
+                        "channel_name": "Dude the Builder",
+                        "channel_link": "https://www.youtube.com/channel/UC5tzGpWWEqHGD71h7TRmdeA",
+                        "language": "Spanish"
+                    },
+                    {
+                        "course_name": "Programación en GO",
+                        "course_link": "https://www.youtube.com/watch?v=iuATFYVwp7g&list=PLfHn_OMWQAHAw15KsSuL3-UW_pAK9olvi",
+                        "channel_name": "Alexys Lozada",
+                        "channel_link": "https://www.youtube.com/user/Alexyslozada",
+                        "language": "Spanish"
                     }
                 ]
             },

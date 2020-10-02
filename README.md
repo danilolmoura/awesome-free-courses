@@ -1,7 +1,7 @@
 # awesome-free-courses
 A collection of all amazing free courses
 
- [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors) ![Total Courses contributors](https://img.shields.io/badge/total--courses-97-blue)
+ [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors) ![Total Courses contributors](https://img.shields.io/badge/total--courses-111-blue)
 
 # Table of contents
   * [Programming and Computer Science](#programming-and-computer-science)
@@ -126,6 +126,20 @@ A collection of all amazing free courses
 | Name | Language| Channel|
 |------|---------|--------|
 | [Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) | Portuguese | [Aprenda Go](https://www.youtube.com/c/AprendaGo) 
+| [Curso Desarrollo Web con Go (Golang)](https://www.youtube.com/watch?v=Cn4sZV7rXKU&list=PLl_hIu4u7P64sjDc4TlbUT050tWyqi6MG) | Spanish | [G Coding Academy](https://www.youtube.com/channel/UCs87sSRsCqs9CYlgRUlPcww) 
+| [Curso de Go](https://www.youtube.com/watch?v=TgPpr0BHhJQ&list=PLeFetwYAi-F-h1RyywJAysOy74nvUs6i-) | Portuguese | [Código Fluente](https://www.youtube.com/user/toticavalcanti) 
+| [Curso de GO](https://www.youtube.com/watch?v=Wad9LTV0a5A&list=PL1xeVkd9tTFhEyLQIJHGCHUX2XYmh0Ige) | Spanish | [JAORSOFTWARE](https://www.youtube.com/channel/UCssOl3P6LC2tMPGHYg6AVFw) 
+| [Curso de Go](https://www.youtube.com/watch?v=e37Q4SLC-30&list=PL-QXxECiZFr1e-NlrsYf25foYfMNKL-f-) | Portuguese | [Mario Jiménez Carrasco](https://www.youtube.com/user/isccarrasco) 
+| [Curso de Go (Golang)](https://www.youtube.com/watch?v=F_wmIVb_wBs&list=PLz50rwjpxdLFo6H91idmRbyTVd4AqC9xd) | Spanish | [Gcd Coder](https://www.youtube.com/channel/UCwkisgTJdCx3mNZMaaHAaVA) 
+| [Curso de Introdução a Linguagem Go (Golang)](https://www.youtube.com/watch?v=SyNz6uos_qA&list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) | Portuguese | [Eliseu Codinhoto](https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA) 
+| [Curso Introducción a Go](https://www.youtube.com/watch?v=EZNNXzbderc&list=PLQpe1zyko1piqPg8YFuKivMD0PgR7XwFD) | Spanish | [KeepCoding - Cursos en programación](https://www.youtube.com/channel/UCz-oGx94gqD1lICJQZGniLA) 
+| [Curso go](https://www.youtube.com/watch?v=8IZwgBnwcJk&list=PLpOqH6AE0tNiuc0qiAcKdlaJBASZ9W2Yn) | Spanish | [codigofacilito](https://www.youtube.com/user/codigofacilito) 
+| [Cursos GOLANG](https://www.youtube.com/watch?v=Bosxe8sLKIY&list=PL3IMfVHTpXw14FL_TRIdHfeYTeOet1GS9) | Portuguese | [Canal do Desenvolvedor](https://www.youtube.com/user/CanalAlltrainingSP) 
+| [Curso Go - CodigoFacilito](https://www.youtube.com/watch?v=e37Q4SLC-30&list=PLdKnuzc4h6gFmPLeous4S0xn0j9Ik2s3Y) | Portuguese | [Erick Platica](https://www.youtube.com/user/ErickPlatica) 
+| [Curso GO (Golang Español) - De 0 a 100](https://www.youtube.com/watch?v=7SIIyt5-XK0&list=PLl_hIu4u7P64MEJpR3eVwQ1l_FtJq4a5g) | Spanish | [G Coding Academy](https://www.youtube.com/channel/UCs87sSRsCqs9CYlgRUlPcww) 
+| [Curso Programação Golang](https://www.youtube.com/watch?v=K-i_BHCRy1s&list=PLpZslZJHL2Q2hZXShelGADqCR_fcOhF9K) | Portuguese | [SubZero_ Knowledge](https://www.youtube.com/channel/UCEFzzEt3fkRBbgKyMRZApyw) 
+| [Curso Programación Go](https://www.youtube.com/watch?v=D_RdV8xe9eM&list=PLtB7CL7EG7pCoT_FVy57PeGH5RPbRHjDw) | Spanish | [Dude the Builder](https://www.youtube.com/channel/UC5tzGpWWEqHGD71h7TRmdeA) 
+| [Programación en GO](https://www.youtube.com/watch?v=iuATFYVwp7g&list=PLfHn_OMWQAHAw15KsSuL3-UW_pAK9olvi) | Spanish | [Alexys Lozada](https://www.youtube.com/user/Alexyslozada) 
 
 
 ### Haskell
