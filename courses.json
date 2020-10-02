@@ -287,7 +287,19 @@
                         "channel_link": "https://www.youtube.com/user/Alexyslozada",
                         "language": "Spanish"
                     }
-                ]
+                ],
+                "Fiber":{
+                    "id": "fiber",
+                    "courses":[
+                        {
+                            "course_name": "Curso: Criando Api Rest com Go + Fiber",
+                            "course_link": "https://www.youtube.com/watch?v=KirJ2pEzNm0&list=PLZ8sofC1-EAaYObNrSAgAybm8Z_lzMq-f",
+                            "channel_name": "Spacedevs",
+                            "channel_link": "https://www.youtube.com/channel/UCedHFDY78egBPEJXL2d8OiQ",
+                            "language": "Portuguese"
+                        }
+                    ]
+                }
             },
             "Haskell":{
                 "id": "haskell",

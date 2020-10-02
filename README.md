@@ -1,7 +1,7 @@
 # awesome-free-courses
 A collection of all amazing free courses
 
- [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors) ![Total Courses contributors](https://img.shields.io/badge/total--courses-111-blue)
+ [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors) ![Total Courses contributors](https://img.shields.io/badge/total--courses-112-blue)
 
 # Table of contents
   * [Programming and Computer Science](#programming-and-computer-science)
@@ -18,6 +18,7 @@ A collection of all amazing free courses
       * [C](#c)
       * [C++](#c-1)
       * [Go](#go)
+        * [Fiber](#fiber)
       * [Haskell](#haskell)
       * [Java](#java)
       * [Javascript](#javascript)
@@ -140,6 +141,12 @@ A collection of all amazing free courses
 | [Curso Programação Golang](https://www.youtube.com/watch?v=K-i_BHCRy1s&list=PLpZslZJHL2Q2hZXShelGADqCR_fcOhF9K) | Portuguese | [SubZero_ Knowledge](https://www.youtube.com/channel/UCEFzzEt3fkRBbgKyMRZApyw) 
 | [Curso Programación Go](https://www.youtube.com/watch?v=D_RdV8xe9eM&list=PLtB7CL7EG7pCoT_FVy57PeGH5RPbRHjDw) | Spanish | [Dude the Builder](https://www.youtube.com/channel/UC5tzGpWWEqHGD71h7TRmdeA) 
 | [Programación en GO](https://www.youtube.com/watch?v=iuATFYVwp7g&list=PLfHn_OMWQAHAw15KsSuL3-UW_pAK9olvi) | Spanish | [Alexys Lozada](https://www.youtube.com/user/Alexyslozada) 
+
+
+#### Fiber
+| Name | Language| Channel|
+|------|---------|--------|
+| [Curso: Criando Api Rest com Go + Fiber](https://www.youtube.com/watch?v=KirJ2pEzNm0&list=PLZ8sofC1-EAaYObNrSAgAybm8Z_lzMq-f) | Portuguese | [Spacedevs](https://www.youtube.com/channel/UCedHFDY78egBPEJXL2d8OiQ) 
 
 
 ### Haskell
