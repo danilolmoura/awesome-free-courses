@@ -139,7 +139,7 @@ A collection of all amazing free courses
 | [Curso GO (Golang Español) - De 0 a 100](https://www.youtube.com/watch?v=7SIIyt5-XK0&list=PLl_hIu4u7P64MEJpR3eVwQ1l_FtJq4a5g) | Spanish | [G Coding Academy](https://www.youtube.com/channel/UCs87sSRsCqs9CYlgRUlPcww) 
 | [Curso Programação Golang](https://www.youtube.com/watch?v=K-i_BHCRy1s&list=PLpZslZJHL2Q2hZXShelGADqCR_fcOhF9K) | Portuguese | [SubZero_ Knowledge](https://www.youtube.com/channel/UCEFzzEt3fkRBbgKyMRZApyw) 
 | [Curso Programación Go](https://www.youtube.com/watch?v=D_RdV8xe9eM&list=PLtB7CL7EG7pCoT_FVy57PeGH5RPbRHjDw) | Spanish | [Dude the Builder](https://www.youtube.com/channel/UC5tzGpWWEqHGD71h7TRmdeA) 
-| [Programación en GO](https://www.youtube.com/watch?v=iuATFYVwp7g&list=PLfHn_OMWQAHAw15KsSuL3-UW_pAK9olvi) | Portuguese | [Alexys Lozada](https://www.youtube.com/user/Alexyslozada) 
+| [Programación en GO](https://www.youtube.com/watch?v=iuATFYVwp7g&list=PLfHn_OMWQAHAw15KsSuL3-UW_pAK9olvi) | Spanish | [Alexys Lozada](https://www.youtube.com/user/Alexyslozada) 
 
 
 ### Haskell
