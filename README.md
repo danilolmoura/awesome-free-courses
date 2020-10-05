@@ -1,7 +1,7 @@
 # awesome-free-courses
 A collection of all amazing free courses
 
- [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors) ![Total Courses contributors](https://img.shields.io/badge/total--courses-112-blue)
+ [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors) ![Total Courses contributors](https://img.shields.io/badge/total--courses-122-blue)
 
 # Table of contents
   * [Programming and Computer Science](#programming-and-computer-science)
@@ -43,6 +43,7 @@ A collection of all amazing free courses
   * [Languages](#languages)
     * [English](#english)
     * [Japonese](#japonese)
+    * [Mandarin](#mandarin)
   * [Other](#other)
     * [Beauty](#beauty)
       * [Makeup](#makeup)
@@ -324,6 +325,21 @@ A collection of all amazing free courses
 | [Curso de japonês (日本語を学ぶ](https://www.youtube.com/playlist?list=PLvuySypz5mHpgW3pTkgixiVHMEY75wIOR) | Portuguese | [VideosLaw](https://www.youtube.com/user/VideosLaw) 
 | [Curso de japonês](https://www.youtube.com/playlist?list=PLB1wKDOp_4yuEhK8tZPDZO5GHUujVUrq6) | Portuguese | [Pedro Camilo](https://www.youtube.com/user/camilomsdn) 
 | [Curso de japonês](https://www.youtube.com/playlist?list=PLSZtPtB1YBb4P9OyalIwiIy4cct9LTDS2) | Portuguese | [Anderson fernandes](https://www.youtube.com/user/yokayand) 
+
+
+## Mandarin
+| Name | Language| Channel|
+|------|---------|--------|
+| [Aprender CHINO - MANDARIN gratis](https://www.youtube.com/watch?v=dXW0l0yzbe0&list=PLKQEL9j11yiWx5TMEtgtmf_WD8Yy92vzo) | Portuguese | [Aprender Idiomas y Cultura General con Rodrigo](https://www.youtube.com/https://www.youtube.com/channel/UCR6K-ZudJ0CNJjNVDqeMYBA) 
+| [Chinês Mandarim Básico - Curso Completo](https://www.youtube.com/watch?v=CbMxdPOiGxs&list=PL6bz3QJWMzluMVAU2BHg72tUgDz3vLxUq) | Portuguese | [Chinês Já](https://www.youtube.com/https://www.youtube.com/channel/UCjA7BcsIWjqb46UYHgpQDgQ) 
+| [Chino para Principiantes | el MEJOR curso completo… cero. Aprender conversación. Escribir caracteres](https://www.youtube.com/watch?v=GhPQuzkBrfQ&list=PLIwFw9wPfsVq12dlI6YrOA2ZOrOFWoOSB) | Spanish | [Chinese with Oliver](https://www.youtube.com/https://www.youtube.com/user/arjanoliver) 
+| [Curso Completo Chino Mandarin](https://www.youtube.com/watch?v=UlCLn1Ll1IY&list=PLr75vgUXxeaYeSvzyzHxXoo5z016YhYvl) | Spanish | [Aprendiendo con PETER](https://www.youtube.com/https://www.youtube.com/channel/UC3TwQdSAme2lXBKKomvzQhw) 
+| [Curso de chinês mandarim Grátis (Curso ao Vivo e Gratuito)](https://www.youtube.com/watch?v=dfDMYVVwAuA&list=PLSA_5IcZ3282g5B1luYSP6IxPaLigxErG) | Portuguese | [Xiao Mandarim - curso de chinês](https://www.youtube.com/https://www.youtube.com/channel/UC5FM9qiDsd1hYl5RXOSG6pQ) 
+| [Curso de Chino de Hoy Volumen I](https://www.youtube.com/watch?v=D3S9RvhoOtQ&list=PL8UPfcaNQBCSoh1bY7xvtDkbDu37O4lj8) | Spanish | [Arte Financiero](https://www.youtube.com/https://www.youtube.com/user/sedena) 
+| [Curso de CHINO MANDARÍN](https://www.youtube.com/watch?v=Un0aI1tPszM&list=PLujYJzENGMQ7fdSopUmadLqG7115nQX0P) | Spanish | [Dímelo en Chino](https://www.youtube.com/channel/UCy7mlWY4WqFJ4sUWf7gO_6Q) 
+| [Curso de mandarín](https://www.youtube.com/watch?v=MR1r21wafsk&list=PLz2Hg98M-a02ZJMC7upvVtqZjguR95umU) | Spanish | [TaiwanICDF School](https://www.youtube.com/https://www.youtube.com/channel/UCYqXGCjMSsIRqP1RHKxm5Nw) 
+| [Curso Sintético de Chinês Mandarim](https://www.youtube.com/watch?v=3xNxpAkR0VE&list=PLJSYS6BnCqDQ-RlQv1Q9TAwlDVF1iB7Cu) | Portuguese | [Mandarim Tupiniquim](https://www.youtube.com/https://www.youtube.com/user/mongechapolin) 
+| [HSK 1 Curso de chino mandarín en español](https://www.youtube.com/watch?v=tQKn1W3qgpU&list=PL8omWj984_9E7M41AUb0SX57DbleXu-BV) | Portuguese | [Pan y Arroz TV /Learning language is awesome](https://www.youtube.com/https://www.youtube.com/channel/UChowAXqY-4JBGzYiQlRAnWg) 
 
 
 # Other
