@@ -517,20 +517,6 @@
                         "language": "Portuguese"
                     },
                     {
-                        "course_name": "Curso de Ruby on Rails para  Iniciantes",
-                        "course_link": "https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP",
-                        "channel_name": "Jackson Pires",
-                        "channel_link": "https://www.youtube.com/user/jacksonpiresjr",
-                        "language": "Portuguese"
-                    },
-                    {
-                        "course_name": "Curso Ruby on Rails 4 desde cero",
-                        "course_link": "https://www.youtube.com/playlist?list=PLpOqH6AE0tNiQ-ofrDlbAUSc1r67r_AWv",
-                        "channel_name": "codigofacilito",
-                        "channel_link": "https://www.youtube.com/user/codigofacilito",
-                        "language": "Spanish"
-                    },
-                    {
                         "course_name": "linguagem de programação ruby",
                         "course_link": "https://www.youtube.com/playlist?list=PLpqql3qzt0QZhJ-EzaW5S9saQOEh1o0Ed",
                         "channel_name": "jhonatan nunes",
@@ -551,7 +537,96 @@
                         "channel_link": "https://www.youtube.com/user/bosontreinamentos",
                         "language": "Portuguese"
                     }
-                ]
+                ],
+                "Ruby on rails": {
+                    "id": "rails",
+                    "courses":[
+                        {
+                            "course_name": "Curso básico de Ruby on Rails",
+                            "course_link": "https://www.youtube.com/watch?v=O5egMv92AHg&list=PLxyfMWnjW2kvQC_djcS9NmuOfSW66a8zj",
+                            "channel_name": "Make it Real",
+                            "channel_link": "https://www.youtube.com/channel/UCcHBDdSPzOaWMsLFyO_HJYw",
+                            "language": "Spanish"
+                        },
+                        {
+                            "course_name": "Curso básico de Ruby on Rails 4",
+                            "course_link": "https://www.youtube.com/watch?v=lGLade0I8xw&list=PLQCgNGUqLK4l4vHyqkOenCxSPHNp6RGUq",
+                            "channel_name": "DevCode",
+                            "channel_link": "https://www.youtube.com/user/DevCodela",
+                            "language": "Spanish"
+                        },
+                        {
+                            "course_name": "Curso completo de Ruby",
+                            "course_link": "https://www.youtube.com/watch?v=2js9Q_BMD-8&list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ",
+                            "channel_name": "One Bit Code",
+                            "channel_link": "https://www.youtube.com/channel/UC44Mzz2-5TpyfklUCQ5NuxQ",
+                            "language": "Portuguese"
+                        },
+                        {
+                            "course_name": "Curso de Ruby on Rails",
+                            "course_link": "https://www.youtube.com/watch?v=sYIbuW7jPlE&list=PLbP-b3gf8hAXQF22GlGEt1jYNO5tsZIl1",
+                            "channel_name": "César Cancino",
+                            "channel_link": "https://www.youtube.com/user/peligrocesar",
+                            "language": "Spanish"
+                        },
+                        {
+                            "course_name": "Curso Ruby On Rails",
+                            "course_link": "https://www.youtube.com/watch?v=3eh6yRdJrGM&list=PL85E7B83EDB1EF18A",
+                            "channel_name": "cspmoreno",
+                            "channel_link": "https://www.youtube.com/user/cspmoreno",
+                            "language": "Spanish"
+                        },
+                        {
+                            "course_name": "Curso de Ruby on Rails",
+                            "course_link": "https://www.youtube.com/watch?v=di60mvq5ImA&list=PLpOqH6AE0tNidmau9GfsWkNd2qRRJq3Wp",
+                            "channel_name": "codigofacilito",
+                            "channel_link": "https://www.youtube.com/user/codigofacilito",
+                            "language": "Spanish"
+                        },
+                        {
+                            "course_name": "Curso de Ruby on rails básico",
+                            "course_link": "https://www.youtube.com/watch?v=2SEKJdKzwNU&list=PLFeyfVYazTkJN6uM5opCfSN_xjxrMybXV",
+                            "channel_name": "Codifike",
+                            "channel_link": "https://www.youtube.com/channel/UCk8a_ETbXVLOlfmMBKgDlug",
+                            "language": "Portuguese"
+                        },
+                        {
+                            "course_name": "Curso de Ruby On Rails Completo",
+                            "course_link": "https://www.youtube.com/watch?v=J7sp9gCP0Mw&list=PLBSSqhAuYfgiziSqC_0jcdAflA4VUCqrC",
+                            "channel_name": "Chiara Piccinini",
+                            "channel_link": "https://www.youtube.com/channel/UCetnkSXm7kCfdeVD4eeGe5g",
+                            "language": "Spanish"
+                        },
+                        {
+                            "course_name": "Curso de Ruby on Rails para Iniciantes",
+                            "course_link": "https://www.youtube.com/watch?v=ZHPondVB9RQ&list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP",
+                            "channel_name": "Jackson Pires",
+                            "channel_link": "https://www.youtube.com/user/jacksonpiresjr",
+                            "language": "Portuguese"
+                        },
+                        {
+                            "course_name": "Curso de Ruby on Rails 5",
+                            "course_link": "https://www.youtube.com/watch?v=Nqwbp5djGtM&list=PLIddmSRJEJ0uaT5imV49pJqP8CGSqN-7E",
+                            "channel_name": "Raul Palacios",
+                            "channel_link": "https://www.youtube.com/channel/UC07xim4Gg8kOk3uZwMrGNeQ",
+                            "language": "Spanish"
+                        },
+                        {
+                            "course_name": "Curso Ruby on Rails 4 desde cero",
+                            "course_link": "https://www.youtube.com/watch?v=LMD3P97gXa0&list=PLpOqH6AE0tNiQ-ofrDlbAUSc1r67r_AWv",
+                            "channel_name": "codigofacilito",
+                            "channel_link": "https://www.youtube.com/user/codigofacilito",
+                            "language": "Spanish"
+                        },
+                        {
+                            "course_name": "Curso de Ruby on Rails 5",
+                            "course_link": "https://www.youtube.com/watch?v=QPkpjQnYjYU&list=PLa8OODhatbXbzMW-mUi1jVEc3eF1Hcg-Q",
+                            "channel_name": "TecnoSoftware",
+                            "channel_link": "https://www.youtube.com/channel/UCvA6w-hX64We5oZjWk365RQ",
+                            "language": "Spanish"
+                        }
+                    ]
+                }
             }
         },
         "Programming Tools":{
@@ -1048,3 +1123,5 @@
         }
     }
 }
+
+

@@ -1,7 +1,7 @@
 # awesome-free-courses
 A collection of all amazing free courses
 
- [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors) ![Total Courses contributors](https://img.shields.io/badge/total--courses-122-blue)
+ [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors) ![Total Courses contributors](https://img.shields.io/badge/total--courses-132-blue)
 
 # Table of contents
   * [Programming and Computer Science](#programming-and-computer-science)
@@ -26,6 +26,7 @@ A collection of all amazing free courses
       * [Python](#python)
         * [Django](#django)
       * [Ruby](#ruby)
+        * [Ruby on rails](#rails)
     * [Programming Tools](#programming-tools)
       * [Git](#git)
     * [Programming Logic](#programming-logic)
@@ -209,11 +210,26 @@ A collection of all amazing free courses
 |------|---------|--------|
 | [Curso de ruby](https://www.youtube.com/playlist?list=PL898C0B8D77D7F0C5) | Portuguese | [Luis Caballero](https://www.youtube.com/user/puppet1990) 
 | [Curso de Ruby](https://www.youtube.com/playlist?list=PLEFC2D43C36013A70) | Portuguese | [codigofacilito](https://www.youtube.com/user/codigofacilito) 
-| [Curso de Ruby on Rails para  Iniciantes](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) | Portuguese | [Jackson Pires](https://www.youtube.com/user/jacksonpiresjr) 
-| [Curso Ruby on Rails 4 desde cero](https://www.youtube.com/playlist?list=PLpOqH6AE0tNiQ-ofrDlbAUSc1r67r_AWv) | Spanish | [codigofacilito](https://www.youtube.com/user/codigofacilito) 
 | [linguagem de programação ruby](https://www.youtube.com/playlist?list=PLpqql3qzt0QZhJ-EzaW5S9saQOEh1o0Ed) | Portuguese | [jhonatan nunes](https://www.youtube.com/user/bestfriend4997) 
 | [Linguagem Ruby](https://www.youtube.com/playlist?list=PLEdPHGYbHhldWUFs2Q-jSzXAv3NXh4wu0) | Portuguese | [Danilo Aparecido - Torne-se um programador](https://www.youtube.com/user/Didox59) 
 | [Programação com Ruby](https://www.youtube.com/playlist?list=PLucm8g_ezqNqMm1gdqjZzfhAMFQ9KrhFq) | Portuguese | [Bóson Treinamentos](https://www.youtube.com/user/bosontreinamentos) 
+
+
+#### Ruby on rails
+| Name | Language| Channel|
+|------|---------|--------|
+| [Curso básico de Ruby on Rails](https://www.youtube.com/watch?v=O5egMv92AHg&list=PLxyfMWnjW2kvQC_djcS9NmuOfSW66a8zj) | Spanish | [Make it Real](https://www.youtube.com/channel/UCcHBDdSPzOaWMsLFyO_HJYw) 
+| [Curso básico de Ruby on Rails 4](https://www.youtube.com/watch?v=lGLade0I8xw&list=PLQCgNGUqLK4l4vHyqkOenCxSPHNp6RGUq) | Spanish | [DevCode](https://www.youtube.com/user/DevCodela) 
+| [Curso completo de Ruby](https://www.youtube.com/watch?v=2js9Q_BMD-8&list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ) | Portuguese | [One Bit Code](https://www.youtube.com/channel/UC44Mzz2-5TpyfklUCQ5NuxQ) 
+| [Curso de Ruby on Rails](https://www.youtube.com/watch?v=sYIbuW7jPlE&list=PLbP-b3gf8hAXQF22GlGEt1jYNO5tsZIl1) | Spanish | [César Cancino](https://www.youtube.com/user/peligrocesar) 
+| [Curso Ruby On Rails](https://www.youtube.com/watch?v=3eh6yRdJrGM&list=PL85E7B83EDB1EF18A) | Spanish | [cspmoreno](https://www.youtube.com/user/cspmoreno) 
+| [Curso de Ruby on Rails](https://www.youtube.com/watch?v=di60mvq5ImA&list=PLpOqH6AE0tNidmau9GfsWkNd2qRRJq3Wp) | Spanish | [codigofacilito](https://www.youtube.com/user/codigofacilito) 
+| [Curso de Ruby on rails básico](https://www.youtube.com/watch?v=2SEKJdKzwNU&list=PLFeyfVYazTkJN6uM5opCfSN_xjxrMybXV) | Portuguese | [Codifike](https://www.youtube.com/channel/UCk8a_ETbXVLOlfmMBKgDlug) 
+| [Curso de Ruby On Rails Completo](https://www.youtube.com/watch?v=J7sp9gCP0Mw&list=PLBSSqhAuYfgiziSqC_0jcdAflA4VUCqrC) | Spanish | [Chiara Piccinini](https://www.youtube.com/channel/UCetnkSXm7kCfdeVD4eeGe5g) 
+| [Curso de Ruby on Rails para Iniciantes](https://www.youtube.com/watch?v=ZHPondVB9RQ&list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) | Portuguese | [Jackson Pires](https://www.youtube.com/user/jacksonpiresjr) 
+| [Curso de Ruby on Rails 5](https://www.youtube.com/watch?v=Nqwbp5djGtM&list=PLIddmSRJEJ0uaT5imV49pJqP8CGSqN-7E) | Spanish | [Raul Palacios](https://www.youtube.com/channel/UC07xim4Gg8kOk3uZwMrGNeQ) 
+| [Curso Ruby on Rails 4 desde cero](https://www.youtube.com/watch?v=LMD3P97gXa0&list=PLpOqH6AE0tNiQ-ofrDlbAUSc1r67r_AWv) | Spanish | [codigofacilito](https://www.youtube.com/user/codigofacilito) 
+| [Curso de Ruby on Rails 5](https://www.youtube.com/watch?v=QPkpjQnYjYU&list=PLa8OODhatbXbzMW-mUi1jVEc3eF1Hcg-Q) | Spanish | [TecnoSoftware](https://www.youtube.com/channel/UCvA6w-hX64We5oZjWk365RQ) 
 
 
 ## Programming Tools
