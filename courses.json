@@ -110,6 +110,123 @@
                         "language": "Portuguese"
                     }
                 ]
+            },
+            "PostgreSQL":{
+                "id": "postgresql",
+                "courses":[
+                    {
+                        "course_name": "Banco de Dados com PostgreSQL",
+                        "course_link": "https://www.youtube.com/watch?v=k4wYRoMvBwE&list=PLWd_VnthxxLe660ABLFZH26CW3G-uQIv-",
+                        "channel_name": "Descompila",
+                        "channel_link": "https://www.youtube.com/user/CanalSamuelson",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso de Banco de Dados - PostgreSQL",
+                        "course_link": "https://www.youtube.com/watch?v=g_bN7ZkBE7s&list=PLO38D8juJBEMkXqT6QXzkGA4YLmtV4GW7",
+                        "channel_name": "Java Plugados",
+                        "channel_link": "https://www.youtube.com/channel/UC_8SElusYdENzVw1Fsk0Nbg",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso Base de Datos Postgres",
+                        "course_link": "https://www.youtube.com/watch?v=ZyigxSbEWzg&list=PLnHuzXvoUKPySlYto7pCoVMnuowigN2N1",
+                        "channel_name": "Slemmor",
+                        "channel_link": "https://www.youtube.com/channel/UCYPAf3Jw9rXtID-8v11lUpQ",
+                        "language": "Spanish"
+                    },
+                    {
+                        "course_name": "CURSO DE POSTGRES CREANDO BASES DE DATOS",
+                        "course_link": "https://www.youtube.com/watch?v=twa_RUCCqlw&list=PLOHH1mG7rOAlbEpYZ7OQtpLAor0dN9vXS",
+                        "channel_name": "DIANA GIRALDO",
+                        "channel_link": "https://www.youtube.com/channel/UCe7K6CIz_jgHNP42Oee2NlQ",
+                        "language": "Spanish"
+                    },
+                    {
+                        "course_name": "Curso de PostgreSQL",
+                        "course_link": "https://www.youtube.com/watch?v=jxIEDKzGrOs&list=PL8gxzfBmzgezMknCY9-mnOXYoVuV2YYXO",
+                        "channel_name": "Tecnología Binaria;",
+                        "channel_link": "https://www.youtube.com/user/tutoralessymas",
+                        "language": "Spanish"
+                    },
+                    {
+                        "course_name": "Curso de PostgreSQL",
+                        "course_link": "https://www.youtube.com/watch?v=_ccMbzh9Ji0&list=PLAF4831DDBDB8E841",
+                        "channel_name": "Jesús Conde",
+                        "channel_link": "https://www.youtube.com/user/0utKast",
+                        "language": "Spanish"
+                    },
+                    {
+                        "course_name": "Curso de PostgreSQL de Cero a Experto",
+                        "course_link": "https://www.youtube.com/watch?v=lNSWgMn9VSs&list=PLyhniB-ngFwvzlnfcB0vxu2a_7mXbexmb",
+                        "channel_name": "Horacio Ureña",
+                        "channel_link": "https://www.youtube.com/channel/UCiSyXoQe62hx25h0SojvjPg",
+                        "language": "Spanish"
+                    },
+                    {
+                        "course_name": "Curso de PostgreSql - Básico ao Avançado",
+                        "course_link": "https://www.youtube.com/watch?v=7CI2LCQpE2k&list=PLIGlfkzBSfnC7Wz09POTws-jvzRI8oZdg",
+                        "channel_name": "Mechanical Tecnologia",
+                        "channel_link": "https://www.youtube.com/channel/UC6uzWivw4zKLwrAuthGPqDg",
+                        "language": "Spanish"
+                    },
+                    {
+                        "course_name": "Curso Gratuito de PostgreSQL",
+                        "course_link": "https://www.youtube.com/watch?v=grJlOnbZYus&list=PLiLrXujC4CW0YEyTxomRYXiyQEzJB4P0l",
+                        "channel_name": "Daniel Morais Infocotidiano",
+                        "channel_link": "https://www.youtube.com/user/infocotidiano",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "CURSO POSTGRESQL",
+                        "course_link": "https://www.youtube.com/watch?v=JVjePFENFM4&list=PLqOsZwuqMnN5GMHwnVO1B-kykBl6AepG7",
+                        "channel_name": "CodeProfe",
+                        "channel_link": "https://www.youtube.com/user/silversolfer",
+                        "language": "Spanish"
+                    },
+                    {
+                        "course_name": "Cuso postgreSQL para principiantes 2020",
+                        "course_link": "https://www.youtube.com/watch?v=RYA1HqbC0Lg&list=PLqOsZwuqMnN6Iwp4lrKb0HBUncQODHX_I",
+                        "channel_name": "CodeProfe",
+                        "channel_link": "https://www.youtube.com/user/silversolfer",
+                        "language": "Spanish"
+                    },
+                    {
+                        "course_name": "Curso prático de Banco de Dados - PostgreSQL",
+                        "course_link": "https://www.youtube.com/watch?v=JdPGdwgCcJQ&list=PLPCQv3jj4oavUjte0UVcw7Zi54ZhBKoLz",
+                        "channel_name": "Professor Wandré",
+                        "channel_link": "https://www.youtube.com/channel/UCjgxj-xgNsHpGsXJnvdkjfQ",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Guia Completo PostgreSQL",
+                        "course_link": "https://www.youtube.com/watch?v=Wmg_JfwkODU&list=PLDqAb8tE7SQZzMWvPG4PYevQAW1cDsbD0",
+                        "channel_name": "Os Brasileiros Sabem Programar",
+                        "channel_link": "https://www.youtube.com/channel/UCEBieECyJD82RNCmAAmw77A",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "PostgreSQL",
+                        "course_link": "https://www.youtube.com/watch?v=Z_SPrzlT4Fc&list=PLucm8g_ezqNoAkYKXN_zWupyH6hQCAwxY",
+                        "channel_name": "Bóson Treinamentos",
+                        "channel_link": "https://www.youtube.com/user/bosontreinamentos",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "PostGreSQL - Curso Interativo",
+                        "course_link": "https://www.youtube.com/watch?v=-Y6rcbf-0Hs&list=PL0EF10A61AA27C742",
+                        "channel_name": "Cursos Interativos",
+                        "channel_link": "https://www.youtube.com/user/CursosInterativos",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "►[ Curso de PostgreSQL 2017 - 2019 ]◄ APRENDE a USAR esta BASE de DATOS desde CERO",
+                        "course_link": "https://www.youtube.com/watch?v=jxIEDKzGrOs&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2",
+                        "channel_name": "Tecnología Binaria;",
+                        "channel_link": "https://www.youtube.com/user/tutoralessymas",
+                        "language": "Spanish"
+                    }
+                ]
             }
         },
         "Hardware":{

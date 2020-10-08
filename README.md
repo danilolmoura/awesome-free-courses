@@ -1,7 +1,7 @@
 # awesome-free-courses
 A collection of all amazing free courses
 
- [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors) ![Total Courses contributors](https://img.shields.io/badge/total--courses-132-blue)
+ [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors) ![Total Courses contributors](https://img.shields.io/badge/total--courses-148-blue)
 
 # Table of contents
   * [Programming and Computer Science](#programming-and-computer-science)
@@ -11,6 +11,7 @@ A collection of all amazing free courses
     * [Databases](#databases)
       * [Data Modeling](#data-modeling)
       * [MySQL](#mysql)
+      * [PostgreSQL](#postgresql)
     * [Hardware](#hardware)
       * [Arduino](#arduino)
       * [PC](#pc)
@@ -91,6 +92,27 @@ A collection of all amazing free courses
 |------|---------|--------|
 | [Curso de Banco de Dados MySQL](https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r) | Portuguese | [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) 
 | [Curso de MySQL](https://www.youtube.com/watch?v=fmerTu7dWk8&list=PLucm8g_ezqNrWAQH2B_0AnrFY5dJcgOLR) | Portuguese | [Bóson Treinamentos](https://www.youtube.com/c/bosontreinamentos) 
+
+
+### PostgreSQL
+| Name | Language| Channel|
+|------|---------|--------|
+| [Banco de Dados com PostgreSQL](https://www.youtube.com/watch?v=k4wYRoMvBwE&list=PLWd_VnthxxLe660ABLFZH26CW3G-uQIv-) | Portuguese | [Descompila](https://www.youtube.com/user/CanalSamuelson) 
+| [Curso de Banco de Dados - PostgreSQL](https://www.youtube.com/watch?v=g_bN7ZkBE7s&list=PLO38D8juJBEMkXqT6QXzkGA4YLmtV4GW7) | Portuguese | [Java Plugados](https://www.youtube.com/channel/UC_8SElusYdENzVw1Fsk0Nbg) 
+| [Curso Base de Datos Postgres](https://www.youtube.com/watch?v=ZyigxSbEWzg&list=PLnHuzXvoUKPySlYto7pCoVMnuowigN2N1) | Spanish | [Slemmor](https://www.youtube.com/channel/UCYPAf3Jw9rXtID-8v11lUpQ) 
+| [CURSO DE POSTGRES CREANDO BASES DE DATOS](https://www.youtube.com/watch?v=twa_RUCCqlw&list=PLOHH1mG7rOAlbEpYZ7OQtpLAor0dN9vXS) | Spanish | [DIANA GIRALDO](https://www.youtube.com/channel/UCe7K6CIz_jgHNP42Oee2NlQ) 
+| [Curso de PostgreSQL](https://www.youtube.com/watch?v=jxIEDKzGrOs&list=PL8gxzfBmzgezMknCY9-mnOXYoVuV2YYXO) | Spanish | [Tecnología Binaria;](https://www.youtube.com/user/tutoralessymas) 
+| [Curso de PostgreSQL](https://www.youtube.com/watch?v=_ccMbzh9Ji0&list=PLAF4831DDBDB8E841) | Spanish | [Jesús Conde](https://www.youtube.com/user/0utKast) 
+| [Curso de PostgreSQL de Cero a Experto](https://www.youtube.com/watch?v=lNSWgMn9VSs&list=PLyhniB-ngFwvzlnfcB0vxu2a_7mXbexmb) | Spanish | [Horacio Ureña](https://www.youtube.com/channel/UCiSyXoQe62hx25h0SojvjPg) 
+| [Curso de PostgreSql - Básico ao Avançado](https://www.youtube.com/watch?v=7CI2LCQpE2k&list=PLIGlfkzBSfnC7Wz09POTws-jvzRI8oZdg) | Spanish | [Mechanical Tecnologia](https://www.youtube.com/channel/UC6uzWivw4zKLwrAuthGPqDg) 
+| [Curso Gratuito de PostgreSQL](https://www.youtube.com/watch?v=grJlOnbZYus&list=PLiLrXujC4CW0YEyTxomRYXiyQEzJB4P0l) | Portuguese | [Daniel Morais Infocotidiano](https://www.youtube.com/user/infocotidiano) 
+| [CURSO POSTGRESQL](https://www.youtube.com/watch?v=JVjePFENFM4&list=PLqOsZwuqMnN5GMHwnVO1B-kykBl6AepG7) | Spanish | [CodeProfe](https://www.youtube.com/user/silversolfer) 
+| [Cuso postgreSQL para principiantes 2020](https://www.youtube.com/watch?v=RYA1HqbC0Lg&list=PLqOsZwuqMnN6Iwp4lrKb0HBUncQODHX_I) | Spanish | [CodeProfe](https://www.youtube.com/user/silversolfer) 
+| [Curso prático de Banco de Dados - PostgreSQL](https://www.youtube.com/watch?v=JdPGdwgCcJQ&list=PLPCQv3jj4oavUjte0UVcw7Zi54ZhBKoLz) | Portuguese | [Professor Wandré](https://www.youtube.com/channel/UCjgxj-xgNsHpGsXJnvdkjfQ) 
+| [Guia Completo PostgreSQL](https://www.youtube.com/watch?v=Wmg_JfwkODU&list=PLDqAb8tE7SQZzMWvPG4PYevQAW1cDsbD0) | Portuguese | [Os Brasileiros Sabem Programar](https://www.youtube.com/channel/UCEBieECyJD82RNCmAAmw77A) 
+| [PostgreSQL](https://www.youtube.com/watch?v=Z_SPrzlT4Fc&list=PLucm8g_ezqNoAkYKXN_zWupyH6hQCAwxY) | Portuguese | [Bóson Treinamentos](https://www.youtube.com/user/bosontreinamentos) 
+| [PostGreSQL - Curso Interativo](https://www.youtube.com/watch?v=-Y6rcbf-0Hs&list=PL0EF10A61AA27C742) | Portuguese | [Cursos Interativos](https://www.youtube.com/user/CursosInterativos) 
+| [►[ Curso de PostgreSQL 2017 - 2019 ]◄ APRENDE a USAR esta BASE de DATOS desde CERO](https://www.youtube.com/watch?v=jxIEDKzGrOs&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2) | Spanish | [Tecnología Binaria;](https://www.youtube.com/user/tutoralessymas) 
 
 
 ## Hardware
