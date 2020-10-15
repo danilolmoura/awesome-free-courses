@@ -1,4 +1,238 @@
 {
+    "Languages":{
+        "id": "languages",
+        "English":{
+            "id": "english",
+            "courses":[
+                {
+                    "course_name": "Avançado I - Inglês conversação e leitura de textos",
+                    "course_link": "https://www.youtube.com/playlist?list=PLkeRgfDA-huq90Ohl9qXZDFcMqNgqZp-c",
+                    "channel_name": "Você Aprende Agora",
+                    "channel_link": "https://www.youtube.com/user/VoceAprendeAgora",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "CURSO COMPLETO DE INGLÉS - NIVEL PRINCIPIANTE",
+                    "course_link": "https://www.youtube.com/playlist?list=PL93iwVYt7GG7OMmJZclmGo0ekKOzTi5o-",
+                    "channel_name": "Inglés Paso a Paso con Lucie",
+                    "channel_link": "https://www.youtube.com/user/cursosdeinglesats",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Curso de Inglês com Professor Felipe Dib",
+                    "course_link": "https://www.youtube.com/playlist?list=PLlCJzwJDT_VZdO7A92RoKw_otNMsIjF4U",
+                    "channel_name": "Luiz Gomes",
+                    "channel_link": "https://www.youtube.com/user/luizgomes63",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Curso de Inglês Completo Totalmente Gratuito",
+                    "course_link": "https://www.youtube.com/playlist?list=PLBHaySgwEigzRShHeQjy7DlIoBVw5oPRZ",
+                    "channel_name": "Aprendo e Compartilho",
+                    "channel_link": "https://www.youtube.com/user/davifreitasweb",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "CURSO DE INGLÊS COMPLETO - NIVEL BÁSICO - CERTIFICADO OPCIONAL",
+                    "course_link": "https://www.youtube.com/playlist?list=PLcytaWNNrQHpnjw2rIjZZT1Tn_sZjmpNK",
+                    "channel_name": "INT CURSOS",
+                    "channel_link": "https://www.youtube.com/user/INTCURSOS",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Curso de Inglês Intermediário",
+                    "course_link": "https://www.youtube.com/playlist?list=PLifNhj7vtELvpspP9zPxhliWAF1tOJB95",
+                    "channel_name": "Inglês de Bolso",
+                    "channel_link": "https://www.youtube.com/user/InglesDeBolso",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Ensino Fundamental - Inglês",
+                    "course_link": "https://www.youtube.com/playlist?list=PL3qONjKuaO2QyRsEFHiMHwuYOKyqi9ove",
+                    "channel_name": "Novo Telecurso",
+                    "channel_link": "https://www.youtube.com/user/TelecursoNovo",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Inglês para iniciantes",
+                    "course_link": "https://www.youtube.com/playlist?list=PLE67CF3D9E2C51F3A",
+                    "channel_name": "Educação Ativa Idiomas",
+                    "channel_link": "https://www.youtube.com/user/supercheff1970",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Playlist: AULAS DE INGLÊS PARA INICIANTES - PROFESSOR KENNY",
+                    "course_link": "https://www.youtube.com/playlist?list=PL41dMNqXopt85RhRgFp_jdoI5Bz7DUG-c",
+                    "channel_name": "PROFESSOR KENNY",
+                    "channel_link": "https://www.youtube.com/user/ProfessorKennyMendes",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Principiante - Vaughan Inglés 4.0",
+                    "course_link": "https://www.youtube.com/playlist?list=PL4VBcBXfVRZbW9Gqy6o-G3oKGBiosslfa",
+                    "channel_name": "AI TV BASIC",
+                    "channel_link": "https://www.youtube.com/user/aibasic",
+                    "language": "Spanish"
+                },
+                {
+                    "course_name": "Web Inglés - Curso de Ingles Americano - Completo",
+                    "course_link": "https://www.youtube.com/playlist?list=PLAD4A4CB21F73B485",
+                    "channel_name": "Web Inglés",
+                    "channel_link": "https://www.youtube.com/user/Webingles",
+                    "language": "Spanish"
+                }
+            ]
+        },
+        "Japonese":{
+            "id": "japonese",
+            "courses":[
+                {
+                    "course_name": "Aulas de Japonês - Curso de Japonês Online",
+                    "course_link": "https://www.youtube.com/playlist?list=PL47hZ7Mbf5Bn1Mp18O1Z7-gtKF5UmKUqP",
+                    "channel_name": "Programa Japonês Online",
+                    "channel_link": "https://www.youtube.com/user/aulasjapones",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "CURSO DE JAPONÊS - INICIANTE ABSOLUTO",
+                    "course_link": "https://www.youtube.com/playlist?list=PLmEl-ZDmyZUs65276eNCYH-UAEJK-cb7c",
+                    "channel_name": "VideoAulasdeJapones",
+                    "channel_link": "https://www.youtube.com/user/VideoAulasdeJapones",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Curso Básico Japonês - Básico 2",
+                    "course_link": "https://www.youtube.com/playlist?list=PLdjf4CXA4wSY6lKcyhCqItomInRsnq3Kw",
+                    "channel_name": "Japonês com Ayu",
+                    "channel_link": "https://www.youtube.com/user/ayuhitsuji",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Curso completo de Japones : 01 a 24",
+                    "course_link": "https://www.youtube.com/playlist?list=PLy2H11M-DPqy2kEGiB_lOrnvfrQuQTOyE",
+                    "channel_name": "CanalparaAnormal",
+                    "channel_link": "https://www.youtube.com/user/CanalparaAnormal",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Curso de Japonês - fale em japonês",
+                    "course_link": "https://www.youtube.com/playlist?list=PLTu5UPFyRDhYsHW0TEMljBLT3r7Z9qD5a",
+                    "channel_name": "Carlos Yamagishi",
+                    "channel_link": "https://www.youtube.com/user/CarlosYamagishi",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Curso de Japonês Marugoto Introdutório Katsudo A1",
+                    "course_link": "https://www.youtube.com/playlist?list=PLdjf4CXA4wSZfHIfR5_z00-_sK5QVBk0e",
+                    "channel_name": "Japonês com Ayu",
+                    "channel_link": "https://www.youtube.com/user/ayuhitsuji",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Curso de Japonês Marugoto Introdutório RIKAI A1",
+                    "course_link": "https://www.youtube.com/playlist?list=PLdjf4CXA4wSapoxt-hPFb9vw5BPdS9sM5",
+                    "channel_name": "Japonês com Ayu",
+                    "channel_link": "https://www.youtube.com/user/ayuhitsuji",
+                    "language": "Portuguese"
+                },
+                {  "course_name": "Curso de japonês (日本語を学ぶ",
+                    "course_link": "https://www.youtube.com/playlist?list=PLvuySypz5mHpgW3pTkgixiVHMEY75wIOR",
+                    "channel_name": "VideosLaw",
+                    "channel_link": "https://www.youtube.com/user/VideosLaw",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Curso de japonês",
+                    "course_link": "https://www.youtube.com/playlist?list=PLB1wKDOp_4yuEhK8tZPDZO5GHUujVUrq6",
+                    "channel_name": "Pedro Camilo",
+                    "channel_link": "https://www.youtube.com/user/camilomsdn",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Curso de japonês",
+                    "course_link": "https://www.youtube.com/playlist?list=PLSZtPtB1YBb4P9OyalIwiIy4cct9LTDS2",
+                    "channel_name": "Anderson fernandes",
+                    "channel_link": "https://www.youtube.com/user/yokayand",
+                    "language": "Portuguese"
+                }
+            ]
+        },
+        "Mandarin":{
+            "id": "mandarin",
+            "courses":[
+                {
+                    "course_name": "Aprender CHINO - MANDARIN gratis",
+                    "course_link": "https://www.youtube.com/watch?v=dXW0l0yzbe0&list=PLKQEL9j11yiWx5TMEtgtmf_WD8Yy92vzo",
+                    "channel_name": "Aprender Idiomas y Cultura General con Rodrigo",
+                    "channel_link": "https://www.youtube.com/https://www.youtube.com/channel/UCR6K-ZudJ0CNJjNVDqeMYBA",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Chinês Mandarim Básico - Curso Completo",
+                    "course_link": "https://www.youtube.com/watch?v=CbMxdPOiGxs&list=PL6bz3QJWMzluMVAU2BHg72tUgDz3vLxUq",
+                    "channel_name": "Chinês Já",
+                    "channel_link": "https://www.youtube.com/https://www.youtube.com/channel/UCjA7BcsIWjqb46UYHgpQDgQ",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Chino para Principiantes | el MEJOR curso completo… cero. Aprender conversación. Escribir caracteres",
+                    "course_link": "https://www.youtube.com/watch?v=GhPQuzkBrfQ&list=PLIwFw9wPfsVq12dlI6YrOA2ZOrOFWoOSB",
+                    "channel_name": "Chinese with Oliver",
+                    "channel_link": "https://www.youtube.com/https://www.youtube.com/user/arjanoliver",
+                    "language": "Spanish"
+                },
+                {
+                    "course_name": "Curso Completo Chino Mandarin",
+                    "course_link": "https://www.youtube.com/watch?v=UlCLn1Ll1IY&list=PLr75vgUXxeaYeSvzyzHxXoo5z016YhYvl",
+                    "channel_name": "Aprendiendo con PETER",
+                    "channel_link": "https://www.youtube.com/https://www.youtube.com/channel/UC3TwQdSAme2lXBKKomvzQhw",
+                    "language": "Spanish"
+                },
+                {
+                    "course_name": "Curso de chinês mandarim Grátis (Curso ao Vivo e Gratuito)",
+                    "course_link": "https://www.youtube.com/watch?v=dfDMYVVwAuA&list=PLSA_5IcZ3282g5B1luYSP6IxPaLigxErG",
+                    "channel_name": "Xiao Mandarim - curso de chinês",
+                    "channel_link": "https://www.youtube.com/https://www.youtube.com/channel/UC5FM9qiDsd1hYl5RXOSG6pQ",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Curso de Chino de Hoy Volumen I",
+                    "course_link": "https://www.youtube.com/watch?v=D3S9RvhoOtQ&list=PL8UPfcaNQBCSoh1bY7xvtDkbDu37O4lj8",
+                    "channel_name": "Arte Financiero",
+                    "channel_link": "https://www.youtube.com/https://www.youtube.com/user/sedena",
+                    "language": "Spanish"
+                },
+                {
+                    "course_name": "Curso de CHINO MANDARÍN",
+                    "course_link": "https://www.youtube.com/watch?v=Un0aI1tPszM&list=PLujYJzENGMQ7fdSopUmadLqG7115nQX0P",
+                    "channel_name": "Dímelo en Chino",
+                    "channel_link": "https://www.youtube.com/channel/UCy7mlWY4WqFJ4sUWf7gO_6Q",
+                    "language": "Spanish"
+                },
+                {
+                    "course_name": "Curso de mandarín",
+                    "course_link": "https://www.youtube.com/watch?v=MR1r21wafsk&list=PLz2Hg98M-a02ZJMC7upvVtqZjguR95umU",
+                    "channel_name": "TaiwanICDF School",
+                    "channel_link": "https://www.youtube.com/https://www.youtube.com/channel/UCYqXGCjMSsIRqP1RHKxm5Nw",
+                    "language": "Spanish"
+                },
+                {
+                    "course_name": "Curso Sintético de Chinês Mandarim",
+                    "course_link": "https://www.youtube.com/watch?v=3xNxpAkR0VE&list=PLJSYS6BnCqDQ-RlQv1Q9TAwlDVF1iB7Cu",
+                    "channel_name": "Mandarim Tupiniquim",
+                    "channel_link": "https://www.youtube.com/https://www.youtube.com/user/mongechapolin",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "HSK 1 Curso de chino mandarín en español",
+                    "course_link": "https://www.youtube.com/watch?v=tQKn1W3qgpU&list=PL8omWj984_9E7M41AUb0SX57DbleXu-BV",
+                    "channel_name": "Pan y Arroz TV /Learning language is awesome",
+                    "channel_link": "https://www.youtube.com/https://www.youtube.com/channel/UChowAXqY-4JBGzYiQlRAnWg",
+                    "language": "Portuguese"
+                }
+            ]
+        }
+    },
     "Programming and Computer Science":{
         "id": "programming-and-computer-science",
         "CMS":{
@@ -924,240 +1158,6 @@
                     ]
                 }
             }
-        }
-    },
-    "Languages":{
-        "id": "languages",
-        "English":{
-            "id": "english",
-            "courses":[
-                {
-                    "course_name": "Avançado I - Inglês conversação e leitura de textos",
-                    "course_link": "https://www.youtube.com/playlist?list=PLkeRgfDA-huq90Ohl9qXZDFcMqNgqZp-c",
-                    "channel_name": "Você Aprende Agora",
-                    "channel_link": "https://www.youtube.com/user/VoceAprendeAgora",
-                    "language": "Portuguese"
-                },
-                {
-                    "course_name": "CURSO COMPLETO DE INGLÉS - NIVEL PRINCIPIANTE",
-                    "course_link": "https://www.youtube.com/playlist?list=PL93iwVYt7GG7OMmJZclmGo0ekKOzTi5o-",
-                    "channel_name": "Inglés Paso a Paso con Lucie",
-                    "channel_link": "https://www.youtube.com/user/cursosdeinglesats",
-                    "language": "Portuguese"
-                },
-                {
-                    "course_name": "Curso de Inglês com Professor Felipe Dib",
-                    "course_link": "https://www.youtube.com/playlist?list=PLlCJzwJDT_VZdO7A92RoKw_otNMsIjF4U",
-                    "channel_name": "Luiz Gomes",
-                    "channel_link": "https://www.youtube.com/user/luizgomes63",
-                    "language": "Portuguese"
-                },
-                {
-                    "course_name": "Curso de Inglês Completo Totalmente Gratuito",
-                    "course_link": "https://www.youtube.com/playlist?list=PLBHaySgwEigzRShHeQjy7DlIoBVw5oPRZ",
-                    "channel_name": "Aprendo e Compartilho",
-                    "channel_link": "https://www.youtube.com/user/davifreitasweb",
-                    "language": "Portuguese"
-                },
-                {
-                    "course_name": "CURSO DE INGLÊS COMPLETO - NIVEL BÁSICO - CERTIFICADO OPCIONAL",
-                    "course_link": "https://www.youtube.com/playlist?list=PLcytaWNNrQHpnjw2rIjZZT1Tn_sZjmpNK",
-                    "channel_name": "INT CURSOS",
-                    "channel_link": "https://www.youtube.com/user/INTCURSOS",
-                    "language": "Portuguese"
-                },
-                {
-                    "course_name": "Curso de Inglês Intermediário",
-                    "course_link": "https://www.youtube.com/playlist?list=PLifNhj7vtELvpspP9zPxhliWAF1tOJB95",
-                    "channel_name": "Inglês de Bolso",
-                    "channel_link": "https://www.youtube.com/user/InglesDeBolso",
-                    "language": "Portuguese"
-                },
-                {
-                    "course_name": "Ensino Fundamental - Inglês",
-                    "course_link": "https://www.youtube.com/playlist?list=PL3qONjKuaO2QyRsEFHiMHwuYOKyqi9ove",
-                    "channel_name": "Novo Telecurso",
-                    "channel_link": "https://www.youtube.com/user/TelecursoNovo",
-                    "language": "Portuguese"
-                },
-                {
-                    "course_name": "Inglês para iniciantes",
-                    "course_link": "https://www.youtube.com/playlist?list=PLE67CF3D9E2C51F3A",
-                    "channel_name": "Educação Ativa Idiomas",
-                    "channel_link": "https://www.youtube.com/user/supercheff1970",
-                    "language": "Portuguese"
-                },
-                {
-                    "course_name": "Playlist: AULAS DE INGLÊS PARA INICIANTES - PROFESSOR KENNY",
-                    "course_link": "https://www.youtube.com/playlist?list=PL41dMNqXopt85RhRgFp_jdoI5Bz7DUG-c",
-                    "channel_name": "PROFESSOR KENNY",
-                    "channel_link": "https://www.youtube.com/user/ProfessorKennyMendes",
-                    "language": "Portuguese"
-                },
-                {
-                    "course_name": "Principiante - Vaughan Inglés 4.0",
-                    "course_link": "https://www.youtube.com/playlist?list=PL4VBcBXfVRZbW9Gqy6o-G3oKGBiosslfa",
-                    "channel_name": "AI TV BASIC",
-                    "channel_link": "https://www.youtube.com/user/aibasic",
-                    "language": "Spanish"
-                },
-                {
-                    "course_name": "Web Inglés - Curso de Ingles Americano - Completo",
-                    "course_link": "https://www.youtube.com/playlist?list=PLAD4A4CB21F73B485",
-                    "channel_name": "Web Inglés",
-                    "channel_link": "https://www.youtube.com/user/Webingles",
-                    "language": "Spanish"
-                }
-            ]
-        },
-        "Japonese":{
-            "id": "japonese",
-            "courses":[
-                {
-                    "course_name": "Aulas de Japonês - Curso de Japonês Online",
-                    "course_link": "https://www.youtube.com/playlist?list=PL47hZ7Mbf5Bn1Mp18O1Z7-gtKF5UmKUqP",
-                    "channel_name": "Programa Japonês Online",
-                    "channel_link": "https://www.youtube.com/user/aulasjapones",
-                    "language": "Portuguese"
-                },
-                {
-                    "course_name": "CURSO DE JAPONÊS - INICIANTE ABSOLUTO",
-                    "course_link": "https://www.youtube.com/playlist?list=PLmEl-ZDmyZUs65276eNCYH-UAEJK-cb7c",
-                    "channel_name": "VideoAulasdeJapones",
-                    "channel_link": "https://www.youtube.com/user/VideoAulasdeJapones",
-                    "language": "Portuguese"
-                },
-                {
-                    "course_name": "Curso Básico Japonês - Básico 2",
-                    "course_link": "https://www.youtube.com/playlist?list=PLdjf4CXA4wSY6lKcyhCqItomInRsnq3Kw",
-                    "channel_name": "Japonês com Ayu",
-                    "channel_link": "https://www.youtube.com/user/ayuhitsuji",
-                    "language": "Portuguese"
-                },
-                {
-                    "course_name": "Curso completo de Japones : 01 a 24",
-                    "course_link": "https://www.youtube.com/playlist?list=PLy2H11M-DPqy2kEGiB_lOrnvfrQuQTOyE",
-                    "channel_name": "CanalparaAnormal",
-                    "channel_link": "https://www.youtube.com/user/CanalparaAnormal",
-                    "language": "Portuguese"
-                },
-                {
-                    "course_name": "Curso de Japonês - fale em japonês",
-                    "course_link": "https://www.youtube.com/playlist?list=PLTu5UPFyRDhYsHW0TEMljBLT3r7Z9qD5a",
-                    "channel_name": "Carlos Yamagishi",
-                    "channel_link": "https://www.youtube.com/user/CarlosYamagishi",
-                    "language": "Portuguese"
-                },
-                {
-                    "course_name": "Curso de Japonês Marugoto Introdutório Katsudo A1",
-                    "course_link": "https://www.youtube.com/playlist?list=PLdjf4CXA4wSZfHIfR5_z00-_sK5QVBk0e",
-                    "channel_name": "Japonês com Ayu",
-                    "channel_link": "https://www.youtube.com/user/ayuhitsuji",
-                    "language": "Portuguese"
-                },
-                {
-                    "course_name": "Curso de Japonês Marugoto Introdutório RIKAI A1",
-                    "course_link": "https://www.youtube.com/playlist?list=PLdjf4CXA4wSapoxt-hPFb9vw5BPdS9sM5",
-                    "channel_name": "Japonês com Ayu",
-                    "channel_link": "https://www.youtube.com/user/ayuhitsuji",
-                    "language": "Portuguese"
-                },
-                {  "course_name": "Curso de japonês (日本語を学ぶ",
-                    "course_link": "https://www.youtube.com/playlist?list=PLvuySypz5mHpgW3pTkgixiVHMEY75wIOR",
-                    "channel_name": "VideosLaw",
-                    "channel_link": "https://www.youtube.com/user/VideosLaw",
-                    "language": "Portuguese"
-                },
-                {
-                    "course_name": "Curso de japonês",
-                    "course_link": "https://www.youtube.com/playlist?list=PLB1wKDOp_4yuEhK8tZPDZO5GHUujVUrq6",
-                    "channel_name": "Pedro Camilo",
-                    "channel_link": "https://www.youtube.com/user/camilomsdn",
-                    "language": "Portuguese"
-                },
-                {
-                    "course_name": "Curso de japonês",
-                    "course_link": "https://www.youtube.com/playlist?list=PLSZtPtB1YBb4P9OyalIwiIy4cct9LTDS2",
-                    "channel_name": "Anderson fernandes",
-                    "channel_link": "https://www.youtube.com/user/yokayand",
-                    "language": "Portuguese"
-                }
-            ]
-        },
-        "Mandarin":{
-            "id": "mandarin",
-            "courses":[
-                {
-                    "course_name": "Aprender CHINO - MANDARIN gratis",
-                    "course_link": "https://www.youtube.com/watch?v=dXW0l0yzbe0&list=PLKQEL9j11yiWx5TMEtgtmf_WD8Yy92vzo",
-                    "channel_name": "Aprender Idiomas y Cultura General con Rodrigo",
-                    "channel_link": "https://www.youtube.com/https://www.youtube.com/channel/UCR6K-ZudJ0CNJjNVDqeMYBA",
-                    "language": "Portuguese"
-                },
-                {
-                    "course_name": "Chinês Mandarim Básico - Curso Completo",
-                    "course_link": "https://www.youtube.com/watch?v=CbMxdPOiGxs&list=PL6bz3QJWMzluMVAU2BHg72tUgDz3vLxUq",
-                    "channel_name": "Chinês Já",
-                    "channel_link": "https://www.youtube.com/https://www.youtube.com/channel/UCjA7BcsIWjqb46UYHgpQDgQ",
-                    "language": "Portuguese"
-                },
-                {
-                    "course_name": "Chino para Principiantes | el MEJOR curso completo… cero. Aprender conversación. Escribir caracteres",
-                    "course_link": "https://www.youtube.com/watch?v=GhPQuzkBrfQ&list=PLIwFw9wPfsVq12dlI6YrOA2ZOrOFWoOSB",
-                    "channel_name": "Chinese with Oliver",
-                    "channel_link": "https://www.youtube.com/https://www.youtube.com/user/arjanoliver",
-                    "language": "Spanish"
-                },
-                {
-                    "course_name": "Curso Completo Chino Mandarin",
-                    "course_link": "https://www.youtube.com/watch?v=UlCLn1Ll1IY&list=PLr75vgUXxeaYeSvzyzHxXoo5z016YhYvl",
-                    "channel_name": "Aprendiendo con PETER",
-                    "channel_link": "https://www.youtube.com/https://www.youtube.com/channel/UC3TwQdSAme2lXBKKomvzQhw",
-                    "language": "Spanish"
-                },
-                {
-                    "course_name": "Curso de chinês mandarim Grátis (Curso ao Vivo e Gratuito)",
-                    "course_link": "https://www.youtube.com/watch?v=dfDMYVVwAuA&list=PLSA_5IcZ3282g5B1luYSP6IxPaLigxErG",
-                    "channel_name": "Xiao Mandarim - curso de chinês",
-                    "channel_link": "https://www.youtube.com/https://www.youtube.com/channel/UC5FM9qiDsd1hYl5RXOSG6pQ",
-                    "language": "Portuguese"
-                },
-                {
-                    "course_name": "Curso de Chino de Hoy Volumen I",
-                    "course_link": "https://www.youtube.com/watch?v=D3S9RvhoOtQ&list=PL8UPfcaNQBCSoh1bY7xvtDkbDu37O4lj8",
-                    "channel_name": "Arte Financiero",
-                    "channel_link": "https://www.youtube.com/https://www.youtube.com/user/sedena",
-                    "language": "Spanish"
-                },
-                {
-                    "course_name": "Curso de CHINO MANDARÍN",
-                    "course_link": "https://www.youtube.com/watch?v=Un0aI1tPszM&list=PLujYJzENGMQ7fdSopUmadLqG7115nQX0P",
-                    "channel_name": "Dímelo en Chino",
-                    "channel_link": "https://www.youtube.com/channel/UCy7mlWY4WqFJ4sUWf7gO_6Q",
-                    "language": "Spanish"
-                },
-                {
-                    "course_name": "Curso de mandarín",
-                    "course_link": "https://www.youtube.com/watch?v=MR1r21wafsk&list=PLz2Hg98M-a02ZJMC7upvVtqZjguR95umU",
-                    "channel_name": "TaiwanICDF School",
-                    "channel_link": "https://www.youtube.com/https://www.youtube.com/channel/UCYqXGCjMSsIRqP1RHKxm5Nw",
-                    "language": "Spanish"
-                },
-                {
-                    "course_name": "Curso Sintético de Chinês Mandarim",
-                    "course_link": "https://www.youtube.com/watch?v=3xNxpAkR0VE&list=PLJSYS6BnCqDQ-RlQv1Q9TAwlDVF1iB7Cu",
-                    "channel_name": "Mandarim Tupiniquim",
-                    "channel_link": "https://www.youtube.com/https://www.youtube.com/user/mongechapolin",
-                    "language": "Portuguese"
-                },
-                {
-                    "course_name": "HSK 1 Curso de chino mandarín en español",
-                    "course_link": "https://www.youtube.com/watch?v=tQKn1W3qgpU&list=PL8omWj984_9E7M41AUb0SX57DbleXu-BV",
-                    "channel_name": "Pan y Arroz TV /Learning language is awesome",
-                    "channel_link": "https://www.youtube.com/https://www.youtube.com/channel/UChowAXqY-4JBGzYiQlRAnWg",
-                    "language": "Portuguese"
-                }
-            ]
         }
     },
     "Other":{
