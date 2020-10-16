@@ -98,7 +98,7 @@ A collection of all amazing free courses
 |------|---------|--------|
 | [Biologia Celular 2020](https://www.youtube.com/watch?v=XHTi5uYPr78&list=PLjCZd6M7z-gTw-AvTeESjvSP1ehHATazY) | Portuguese | [ZoOmZoOm dA CiênCia](https://www.youtube.com/channel/UCqr2NGGy0r2PEIrbHy7sWCA) 
 | [Biologia Molecular e Celular](https://www.youtube.com/watch?v=9erujVzMeLY&list=PLB37BD7A3D50FFCAB) | Portuguese | [EscolaCVI](https://www.youtube.com/user/EscolaCVI) 
-| [Biología e Intro. a la Biología Celular - Tutorías en línea](https://www.youtube.com/watch?v=1Qkp7XauuaE&list=PL71h9nkUDIJek1a21NA6vnb-lZRszJuRT) | Portuguese | [UBAXXI](https://www.youtube.com/user/UBAXXI) 
+| [Biología e Intro. a la Biología Celular - Tutorías en línea](https://www.youtube.com/watch?v=1Qkp7XauuaE&list=PL71h9nkUDIJek1a21NA6vnb-lZRszJuRT) | Spanish | [UBAXXI](https://www.youtube.com/user/UBAXXI) 
 | [IV Curso BFM](https://www.youtube.com/watch?v=lbA7SEFg6H8&list=PLRR45Amhr-Kl9lQI4TgEiCEqKrKVl83R5) | Portuguese | [Curso em Biologia Funcional e Molecular](https://www.youtube.com/channel/UCRoBxt89ZIyb-TWKjmzUA_g) 
 | [Licenciatura em Biologia - Células e Tecidos - 09º Bimestre](https://www.youtube.com/watch?v=xWiLW3mdA2Y&list=PLxI8Can9yAHdXaX9jkObe3EvFGLYHcBpK) | Portuguese | [UNIVESP](https://www.youtube.com/user/univesptv) 
 | [Módulo I: Bioquímica e Biologia Celular](https://www.youtube.com/watch?v=3tlEtGZz4Vo&list=PLJiArVwxXtwDnp21qw4radmtLCNPIZggC) | Portuguese | [Biologia Prof. Guilherme](https://www.youtube.com/channel/UCKjZcHxpvFJyjcyrYSFghTw) 
