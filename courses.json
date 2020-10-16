@@ -1,4 +1,278 @@
 {
+    "Biology":{
+        "id": "biology",
+        "courses":[
+            {
+                "course_name": "Biologia",
+                "course_link": "https://www.youtube.com/watch?v=i6Gq-CS2L2c&list=PL7ZN1a5zH59BGgdW94MLNBimXZqJsdmjb",
+                "channel_name": "Curso Vilarejo",
+                "channel_link": "https://www.youtube.com/channel/UC-c-VgKdh5Pc3vAPR80Mbag",
+                "language": "Portuguese"
+            },
+            {
+                "course_name": "Biologia",
+                "course_link": "https://www.youtube.com/watch?v=WLzehSVCTvw&list=PLF2J-8QoLzYF0AE7L2qUktGiW4HKj0cZU",
+                "channel_name": "Aula De",
+                "channel_link": "https://www.youtube.com/user/AulaDeOnline",
+                "language": "Portuguese"
+            },
+            {
+                "course_name": "Biologia - 1º ANO/2018",
+                "course_link": "https://www.youtube.com/watch?v=77DrRpjEHoo&list=PLdHFV2cY-Hr-AS9P6ZRX5xSG8OL1jAM_z",
+                "channel_name": "Mediação Tecnológica Rondônia",
+                "channel_link": "https://www.youtube.com/channel/UCFF8qjuFRMmg6iLOf4ECmrQ",
+                "language": "Portuguese"
+            },
+            {
+                "course_name": "Biologia - Curso rápido",
+                "course_link": "https://www.youtube.com/watch?v=FxGMnHfmolc&list=PL7zWZkC-XyXXMPcZ2joKQ19FdKStsfSmp",
+                "channel_name": "Fabiano Melo",
+                "channel_link": "https://www.youtube.com/channel/UCyslv1AB7CyhO3NfHh918Eg",
+                "language": "Portuguese"
+            },
+            {
+                "course_name": "Biologia completa CARECAS DE SABER",
+                "course_link": "https://www.youtube.com/watch?v=FVHey9UzRaY&list=PL-xwM0e5miEwahVaNUv9u7Uu9Nq0YCau0",
+                "channel_name": "Carecas de Saber Videoaulas",
+                "channel_link": "https://www.youtube.com/channel/UC673UzgymxrQBKWFtj3vKFA",
+                "language": "Portuguese"
+            },
+            {
+                "course_name": "Biología UNAM",
+                "course_link": "https://www.youtube.com/watch?v=6mekb6oXrh8&list=PLmv1xylxI4_IBiZIPnuqEyHQtZPImNjo0",
+                "channel_name": "Juan David Profe",
+                "channel_link": "https://www.youtube.com/channel/UCp4dO9P522JyaDdRt-KCZNw",
+                "language": "Spanish"
+            },
+            {
+                "course_name": "Biología clases 2019",
+                "course_link": "https://www.youtube.com/watch?v=uzE70V-BD5s&list=PLiG_ZAUipsjsUujdyVb1WcZNpl2bywKIZ",
+                "channel_name": "PuntajeNacional Chile",
+                "channel_link": "https://www.youtube.com/user/puntajenacionalcl",
+                "language": "Spanish"
+            },
+            {
+                "course_name": "Clases Biología 2016",
+                "course_link": "https://www.youtube.com/watch?v=EifOux1Zdj0&list=PLiG_ZAUipsjt_-3AaHaJRz6QlHLv2_GgT",
+                "channel_name": "PuntajeNacional Chile",
+                "channel_link": "https://www.youtube.com/user/puntajenacionalcl",
+                "language": "Spanish"
+            },
+            {
+                "course_name": "Curso Completo de Biologia",
+                "course_link": "https://www.youtube.com/watch?v=gBAmAm6r24k&list=PLXjyL-9JDdT2kajT47jtkLci2DidzlB8h",
+                "channel_name": "Biologia Sem Limites",
+                "channel_link": "https://www.youtube.com/user/CreativePSS",
+                "language": "Portuguese"
+            },
+            {
+                "course_name": "Curso de Biologia",
+                "course_link": "https://www.youtube.com/watch?v=IoX5GTGNHVg&list=PLGJdm641W8RlDN3UhfTmQ_9Lo13J8lJNt",
+                "channel_name": "Biologia Aprova",
+                "channel_link": "https://www.youtube.com/channel/UCuolE1BPgaa1DWBRh7ttLGQ",
+                "language": "Portuguese"
+            },
+            {
+                "course_name": "ENEM - Biologia",
+                "course_link": "https://www.youtube.com/watch?v=jYAtuTcHNqo&list=PL8vXuI6zmpdgu7TOyarRBU42MXOrUJnOS",
+                "channel_name": "Kultivi",
+                "channel_link": "https://www.youtube.com/channel/UCBKUycq5CFEIlIFK9vdx3RA",
+                "language": "Portuguese"
+            },
+            {
+                "course_name": "Ensino Médio - Biologia",
+                "course_link": "https://www.youtube.com/watch?v=8sew-9SeUFk&list=PL3qONjKuaO2QJ0yIYQMd4jUybuyH8Vqva",
+                "channel_name": "Novo Telecurso",
+                "channel_link": "https://www.youtube.com/user/TelecursoNovo",
+                "language": "Portuguese"
+            },
+            {
+                "course_name": "Licenciatura Univesp - Biologia Geral - 06º Bimestre",
+                "course_link": "https://www.youtube.com/watch?v=6EepQG_eRZU&list=PLxI8Can9yAHcbJRlzmQL5j-IBaEffLteO",
+                "channel_name": "UNIVESP",
+                "channel_link": "https://www.youtube.com/user/univesptv",
+                "language": "Portuguese"
+            }
+        ],
+        "Botany":{
+            "id": "botany",
+            "courses":[
+                {
+                    "course_name": "Módulo V: Botânica",
+                    "course_link": "https://www.youtube.com/watch?v=KQCFWpaCguU&list=PLJiArVwxXtwBEJhSmt3G6jCI96PAmNCZP",
+                    "channel_name": "Biologia Prof. Guilherme",
+                    "channel_link": "https://www.youtube.com/channel/UCKjZcHxpvFJyjcyrYSFghTw",
+                    "language": "Portuguese"
+                }
+            ]
+        },
+        "Biochemistry":{
+            "id": "biochemistry",
+            "courses":[
+                {
+                    "course_name": "Licenciatura em Biologia - Bioquímica - 11º Bimestre",
+                    "course_link": "https://www.youtube.com/watch?v=fivcA6e-ScY&list=PLxI8Can9yAHcSwQ857F80LP_lKJlqXmUj",
+                    "channel_name": "UNIVESP",
+                    "channel_link": "https://www.youtube.com/user/univesptv",
+                    "language": "Portuguese"
+                }
+            ]
+        },
+        "Cell Biology":{
+            "id": "cell-biology",
+            "courses":[
+                {
+                    "course_name": "Biologia Celular 2020",
+                    "course_link": "https://www.youtube.com/watch?v=XHTi5uYPr78&list=PLjCZd6M7z-gTw-AvTeESjvSP1ehHATazY",
+                    "channel_name": "ZoOmZoOm dA CiênCia",
+                    "channel_link": "https://www.youtube.com/channel/UCqr2NGGy0r2PEIrbHy7sWCA",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Biologia Molecular e Celular",
+                    "course_link": "https://www.youtube.com/watch?v=9erujVzMeLY&list=PLB37BD7A3D50FFCAB",
+                    "channel_name": "EscolaCVI",
+                    "channel_link": "https://www.youtube.com/user/EscolaCVI",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Biología e Intro. a la Biología Celular - Tutorías en línea",
+                    "course_link": "https://www.youtube.com/watch?v=1Qkp7XauuaE&list=PL71h9nkUDIJek1a21NA6vnb-lZRszJuRT",
+                    "channel_name": "UBAXXI",
+                    "channel_link": "https://www.youtube.com/user/UBAXXI",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "IV Curso BFM",
+                    "course_link": "https://www.youtube.com/watch?v=lbA7SEFg6H8&list=PLRR45Amhr-Kl9lQI4TgEiCEqKrKVl83R5",
+                    "channel_name": "Curso em Biologia Funcional e Molecular",
+                    "channel_link": "https://www.youtube.com/channel/UCRoBxt89ZIyb-TWKjmzUA_g",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Licenciatura em Biologia - Células e Tecidos - 09º Bimestre",
+                    "course_link": "https://www.youtube.com/watch?v=xWiLW3mdA2Y&list=PLxI8Can9yAHdXaX9jkObe3EvFGLYHcBpK",
+                    "channel_name": "UNIVESP",
+                    "channel_link": "https://www.youtube.com/user/univesptv",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Módulo I: Bioquímica e Biologia Celular",
+                    "course_link": "https://www.youtube.com/watch?v=3tlEtGZz4Vo&list=PLJiArVwxXtwDnp21qw4radmtLCNPIZggC",
+                    "channel_name": "Biologia Prof. Guilherme",
+                    "channel_link": "https://www.youtube.com/channel/UCKjZcHxpvFJyjcyrYSFghTw",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "MOOC. Biología Molecular",
+                    "course_link": "https://www.youtube.com/watch?v=sOqksY1XNDY&list=PLiPJNI1xCP1va7yKLgEkwmLUHiD4K_rOG",
+                    "channel_name": "SFPIE UV",
+                    "channel_link": "https://www.youtube.com/channel/UC2EBSUca51EEO5DeVNcWG3w",
+                    "language": "Spanish"
+                }
+            ]
+        },
+        "Cytology":{
+            "id": "cytology",
+            "courses":[
+                {
+                    "course_name": "Biologia - Citologia",
+                    "course_link": "https://www.youtube.com/watch?v=rdxI7sPupQ8&list=PLf1lowbdbFIBdXfo8VFObm6SGl4eskR0a",
+                    "channel_name": "Me Salva! ENEM 2020",
+                    "channel_link": "https://www.youtube.com/user/migandorffy",
+                    "language": "Portuguese"
+                }
+            ]
+        },
+        "Ecology":{
+            "id": "ecology",
+            "courses":[
+                {
+                    "course_name": "Biologia - Ecologia",
+                    "course_link": "https://www.youtube.com/watch?v=PXZ2f77Mtzg&list=PLf1lowbdbFIADKPBpotE-E6QFAH1OHRSN",
+                    "channel_name": "Me Salva! ENEM 2020",
+                    "channel_link": "https://www.youtube.com/user/migandorffy",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "CURSO: BIOMAS DO BRASIL",
+                    "course_link": "https://www.youtube.com/playlist?list=PLXXIkklJqmKm8ynmzHcQUeKvk9tq6VrpJ",
+                    "channel_name": "Biologia Total",
+                    "channel_link": "https://www.youtube.com/user/jubilut",
+                    "language": "Portuguese"
+                }
+            ]
+        },
+        "Genetics":{
+            "id": "genetics",
+            "courses":[
+                {
+                    "course_name": "GENÉTICA (Completo no Site Bioexplica)",
+                    "course_link": "https://www.youtube.com/watch?v=5WYppSqaCrE&list=PLtAclSZ01ON5CuQvc5XX_vN4-ARdtGsum",
+                    "channel_name": "Kennedy Ramos",
+                    "channel_link": "https://www.youtube.com/user/kennedyramosbio",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Módulo II: Genética",
+                    "course_link": "https://www.youtube.com/watch?v=Xl8fN49EQtQ&list=PLJiArVwxXtwBH_m_8WJicy9eZxKfyuKhj",
+                    "channel_name": "Biologia Prof. Guilherme",
+                    "channel_link": "https://www.youtube.com/channel/UCKjZcHxpvFJyjcyrYSFghTw",
+                    "language": "Portuguese"
+                }
+            ]
+        },
+        "Microbiology":{
+            "id": "microbiology",
+            "courses":[
+                {
+                    "course_name": "Licenciatura em Biologia - Microbiologia e Imunologia - 15º Bimestre",
+                    "course_link": "https://www.youtube.com/watch?v=VAwXVGstQTM&list=PLxI8Can9yAHeTZzuVTNYmih1bKdpR9tnx",
+                    "channel_name": "UNIVESP",
+                    "channel_link": "https://www.youtube.com/user/univesptv",
+                    "language": "Portuguese"
+                }
+            ]
+        },
+        "Physiology":{
+            "id": "physiology",
+            "courses":[
+                {
+                    "course_name": "FISIOLOGIA HUMANA",
+                    "course_link": "https://www.youtube.com/watch?v=HuX4YySqRmg&list=PLXXIkklJqmKnPR69EvV7KTbGVlY2tT6zQ",
+                    "channel_name": "Biologia Total",
+                    "channel_link": "https://www.youtube.com/user/jubilut",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "Módulo VII: Histologia e Fisiologia Humana",
+                    "course_link": "https://www.youtube.com/watch?v=RZWnVvvZ_7w&list=PLJiArVwxXtwBcAwt1MxHSOjjbc0sAtL9L",
+                    "channel_name": "Biologia Prof. Guilherme",
+                    "channel_link": "https://www.youtube.com/channel/UCKjZcHxpvFJyjcyrYSFghTw",
+                    "language": "Portuguese"
+                }
+            ]
+        },
+        "Zoology":{
+            "id": "zoology",
+            "courses":[
+                {
+                    "course_name": "Licenciatura em Biologia - Zoologia dos Invertebrados - 09º Bimestre",
+                    "course_link": "https://www.youtube.com/watch?v=irigKT9UiKU&list=PLxI8Can9yAHcy25cft4jD8tRvHiHuv_pd",
+                    "channel_name": "UNIVESP",
+                    "channel_link": "https://www.youtube.com/user/univesptv",
+                    "language": "Portuguese"
+                },
+                {
+                    "course_name": "ZOOLOGIA",
+                    "course_link": "https://www.youtube.com/watch?v=wX2T2CaVmaA&list=PLj4yVuRqCKGEqZKk3heq70oIw9eWUnLrg",
+                    "channel_name": "Biologia com Samuel Cunha",
+                    "channel_link": "https://www.youtube.com/channel/UCdLt2OhiWNLRsGNF-0DE4-A",
+                    "language": "Portuguese"
+                }
+            ]
+        }
+    },
     "Languages":{
         "id": "languages",
         "English":{
@@ -1240,5 +1514,3 @@
         }
     }
 }
-
-

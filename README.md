@@ -1,9 +1,19 @@
 # awesome-free-courses
 A collection of all amazing free courses
 
- [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors) ![Total Courses contributors](https://img.shields.io/badge/total--courses-148-blue)
+ [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors) ![Total Courses contributors](https://img.shields.io/badge/total--courses-180-blue)
 
 # Table of contents
+  * [Biology](#biology)
+    * [Botany](#botany)
+    * [Biochemistry](#biochemistry)
+    * [Cell Biology](#cell-biology)
+    * [Cytology](#cytology)
+    * [Ecology](#ecology)
+    * [Genetics](#genetics)
+    * [Microbiology](#microbiology)
+    * [Physiology](#physiology)
+    * [Zoology](#zoology)
   * [Languages](#languages)
     * [English](#english)
     * [Japonese](#japonese)
@@ -51,6 +61,88 @@ A collection of all amazing free courses
       * [Makeup](#makeup)
     * [Digital Marketing](#digital-marketing)
 
+
+
+# Biology
+| Name | Language| Channel|
+|------|---------|--------|
+| [Biologia](https://www.youtube.com/watch?v=i6Gq-CS2L2c&list=PL7ZN1a5zH59BGgdW94MLNBimXZqJsdmjb) | Portuguese | [Curso Vilarejo](https://www.youtube.com/channel/UC-c-VgKdh5Pc3vAPR80Mbag) 
+| [Biologia](https://www.youtube.com/watch?v=WLzehSVCTvw&list=PLF2J-8QoLzYF0AE7L2qUktGiW4HKj0cZU) | Portuguese | [Aula De](https://www.youtube.com/user/AulaDeOnline) 
+| [Biologia - 1º ANO/2018](https://www.youtube.com/watch?v=77DrRpjEHoo&list=PLdHFV2cY-Hr-AS9P6ZRX5xSG8OL1jAM_z) | Portuguese | [Mediação Tecnológica Rondônia](https://www.youtube.com/channel/UCFF8qjuFRMmg6iLOf4ECmrQ) 
+| [Biologia - Curso rápido](https://www.youtube.com/watch?v=FxGMnHfmolc&list=PL7zWZkC-XyXXMPcZ2joKQ19FdKStsfSmp) | Portuguese | [Fabiano Melo](https://www.youtube.com/channel/UCyslv1AB7CyhO3NfHh918Eg) 
+| [Biologia completa CARECAS DE SABER](https://www.youtube.com/watch?v=FVHey9UzRaY&list=PL-xwM0e5miEwahVaNUv9u7Uu9Nq0YCau0) | Portuguese | [Carecas de Saber Videoaulas](https://www.youtube.com/channel/UC673UzgymxrQBKWFtj3vKFA) 
+| [Biología UNAM](https://www.youtube.com/watch?v=6mekb6oXrh8&list=PLmv1xylxI4_IBiZIPnuqEyHQtZPImNjo0) | Spanish | [Juan David Profe](https://www.youtube.com/channel/UCp4dO9P522JyaDdRt-KCZNw) 
+| [Biología clases 2019](https://www.youtube.com/watch?v=uzE70V-BD5s&list=PLiG_ZAUipsjsUujdyVb1WcZNpl2bywKIZ) | Spanish | [PuntajeNacional Chile](https://www.youtube.com/user/puntajenacionalcl) 
+| [Clases Biología 2016](https://www.youtube.com/watch?v=EifOux1Zdj0&list=PLiG_ZAUipsjt_-3AaHaJRz6QlHLv2_GgT) | Spanish | [PuntajeNacional Chile](https://www.youtube.com/user/puntajenacionalcl) 
+| [Curso Completo de Biologia](https://www.youtube.com/watch?v=gBAmAm6r24k&list=PLXjyL-9JDdT2kajT47jtkLci2DidzlB8h) | Portuguese | [Biologia Sem Limites](https://www.youtube.com/user/CreativePSS) 
+| [Curso de Biologia](https://www.youtube.com/watch?v=IoX5GTGNHVg&list=PLGJdm641W8RlDN3UhfTmQ_9Lo13J8lJNt) | Portuguese | [Biologia Aprova](https://www.youtube.com/channel/UCuolE1BPgaa1DWBRh7ttLGQ) 
+| [ENEM - Biologia](https://www.youtube.com/watch?v=jYAtuTcHNqo&list=PL8vXuI6zmpdgu7TOyarRBU42MXOrUJnOS) | Portuguese | [Kultivi](https://www.youtube.com/channel/UCBKUycq5CFEIlIFK9vdx3RA) 
+| [Ensino Médio - Biologia](https://www.youtube.com/watch?v=8sew-9SeUFk&list=PL3qONjKuaO2QJ0yIYQMd4jUybuyH8Vqva) | Portuguese | [Novo Telecurso](https://www.youtube.com/user/TelecursoNovo) 
+| [Licenciatura Univesp - Biologia Geral - 06º Bimestre](https://www.youtube.com/watch?v=6EepQG_eRZU&list=PLxI8Can9yAHcbJRlzmQL5j-IBaEffLteO) | Portuguese | [UNIVESP](https://www.youtube.com/user/univesptv) 
+
+
+## Botany
+| Name | Language| Channel|
+|------|---------|--------|
+| [Módulo V: Botânica](https://www.youtube.com/watch?v=KQCFWpaCguU&list=PLJiArVwxXtwBEJhSmt3G6jCI96PAmNCZP) | Portuguese | [Biologia Prof. Guilherme](https://www.youtube.com/channel/UCKjZcHxpvFJyjcyrYSFghTw) 
+
+
+## Biochemistry
+| Name | Language| Channel|
+|------|---------|--------|
+| [Licenciatura em Biologia - Bioquímica - 11º Bimestre](https://www.youtube.com/watch?v=fivcA6e-ScY&list=PLxI8Can9yAHcSwQ857F80LP_lKJlqXmUj) | Portuguese | [UNIVESP](https://www.youtube.com/user/univesptv) 
+
+
+## Cell Biology
+| Name | Language| Channel|
+|------|---------|--------|
+| [Biologia Celular 2020](https://www.youtube.com/watch?v=XHTi5uYPr78&list=PLjCZd6M7z-gTw-AvTeESjvSP1ehHATazY) | Portuguese | [ZoOmZoOm dA CiênCia](https://www.youtube.com/channel/UCqr2NGGy0r2PEIrbHy7sWCA) 
+| [Biologia Molecular e Celular](https://www.youtube.com/watch?v=9erujVzMeLY&list=PLB37BD7A3D50FFCAB) | Portuguese | [EscolaCVI](https://www.youtube.com/user/EscolaCVI) 
+| [Biología e Intro. a la Biología Celular - Tutorías en línea](https://www.youtube.com/watch?v=1Qkp7XauuaE&list=PL71h9nkUDIJek1a21NA6vnb-lZRszJuRT) | Portuguese | [UBAXXI](https://www.youtube.com/user/UBAXXI) 
+| [IV Curso BFM](https://www.youtube.com/watch?v=lbA7SEFg6H8&list=PLRR45Amhr-Kl9lQI4TgEiCEqKrKVl83R5) | Portuguese | [Curso em Biologia Funcional e Molecular](https://www.youtube.com/channel/UCRoBxt89ZIyb-TWKjmzUA_g) 
+| [Licenciatura em Biologia - Células e Tecidos - 09º Bimestre](https://www.youtube.com/watch?v=xWiLW3mdA2Y&list=PLxI8Can9yAHdXaX9jkObe3EvFGLYHcBpK) | Portuguese | [UNIVESP](https://www.youtube.com/user/univesptv) 
+| [Módulo I: Bioquímica e Biologia Celular](https://www.youtube.com/watch?v=3tlEtGZz4Vo&list=PLJiArVwxXtwDnp21qw4radmtLCNPIZggC) | Portuguese | [Biologia Prof. Guilherme](https://www.youtube.com/channel/UCKjZcHxpvFJyjcyrYSFghTw) 
+| [MOOC. Biología Molecular](https://www.youtube.com/watch?v=sOqksY1XNDY&list=PLiPJNI1xCP1va7yKLgEkwmLUHiD4K_rOG) | Spanish | [SFPIE UV](https://www.youtube.com/channel/UC2EBSUca51EEO5DeVNcWG3w) 
+
+
+## Cytology
+| Name | Language| Channel|
+|------|---------|--------|
+| [Biologia - Citologia](https://www.youtube.com/watch?v=rdxI7sPupQ8&list=PLf1lowbdbFIBdXfo8VFObm6SGl4eskR0a) | Portuguese | [Me Salva! ENEM 2020](https://www.youtube.com/user/migandorffy) 
+
+
+## Ecology
+| Name | Language| Channel|
+|------|---------|--------|
+| [Biologia - Ecologia](https://www.youtube.com/watch?v=PXZ2f77Mtzg&list=PLf1lowbdbFIADKPBpotE-E6QFAH1OHRSN) | Portuguese | [Me Salva! ENEM 2020](https://www.youtube.com/user/migandorffy) 
+| [CURSO: BIOMAS DO BRASIL](https://www.youtube.com/playlist?list=PLXXIkklJqmKm8ynmzHcQUeKvk9tq6VrpJ) | Portuguese | [Biologia Total](https://www.youtube.com/user/jubilut) 
+
+
+## Genetics
+| Name | Language| Channel|
+|------|---------|--------|
+| [GENÉTICA (Completo no Site Bioexplica)](https://www.youtube.com/watch?v=5WYppSqaCrE&list=PLtAclSZ01ON5CuQvc5XX_vN4-ARdtGsum) | Portuguese | [Kennedy Ramos](https://www.youtube.com/user/kennedyramosbio) 
+| [Módulo II: Genética](https://www.youtube.com/watch?v=Xl8fN49EQtQ&list=PLJiArVwxXtwBH_m_8WJicy9eZxKfyuKhj) | Portuguese | [Biologia Prof. Guilherme](https://www.youtube.com/channel/UCKjZcHxpvFJyjcyrYSFghTw) 
+
+
+## Microbiology
+| Name | Language| Channel|
+|------|---------|--------|
+| [Licenciatura em Biologia - Microbiologia e Imunologia - 15º Bimestre](https://www.youtube.com/watch?v=VAwXVGstQTM&list=PLxI8Can9yAHeTZzuVTNYmih1bKdpR9tnx) | Portuguese | [UNIVESP](https://www.youtube.com/user/univesptv) 
+
+
+## Physiology
+| Name | Language| Channel|
+|------|---------|--------|
+| [FISIOLOGIA HUMANA](https://www.youtube.com/watch?v=HuX4YySqRmg&list=PLXXIkklJqmKnPR69EvV7KTbGVlY2tT6zQ) | Portuguese | [Biologia Total](https://www.youtube.com/user/jubilut) 
+| [Módulo VII: Histologia e Fisiologia Humana](https://www.youtube.com/watch?v=RZWnVvvZ_7w&list=PLJiArVwxXtwBcAwt1MxHSOjjbc0sAtL9L) | Portuguese | [Biologia Prof. Guilherme](https://www.youtube.com/channel/UCKjZcHxpvFJyjcyrYSFghTw) 
+
+
+## Zoology
+| Name | Language| Channel|
+|------|---------|--------|
+| [Licenciatura em Biologia - Zoologia dos Invertebrados - 09º Bimestre](https://www.youtube.com/watch?v=irigKT9UiKU&list=PLxI8Can9yAHcy25cft4jD8tRvHiHuv_pd) | Portuguese | [UNIVESP](https://www.youtube.com/user/univesptv) 
+| [ZOOLOGIA](https://www.youtube.com/watch?v=wX2T2CaVmaA&list=PLj4yVuRqCKGEqZKk3heq70oIw9eWUnLrg) | Portuguese | [Biologia com Samuel Cunha](https://www.youtube.com/channel/UCdLt2OhiWNLRsGNF-0DE4-A) 
 
 
 # Languages
