@@ -1,9 +1,12 @@
 # awesome-free-courses
 A collection of all amazing free courses
 
- [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors) ![Total Courses contributors](https://img.shields.io/badge/total--courses-180-blue)
+ [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors) ![Total Courses contributors](https://img.shields.io/badge/total--courses-202-blue)
 
 # Table of contents
+  * [Astronomy](#astronomy)
+    * [Astronautics](#astronautics)
+    * [Astrophysics](#astrophysics)
   * [Biology](#biology)
     * [Botany](#botany)
     * [Biochemistry](#biochemistry)
@@ -61,6 +64,43 @@ A collection of all amazing free courses
       * [Makeup](#makeup)
     * [Digital Marketing](#digital-marketing)
 
+
+
+# Astronomy
+| Name | Language| Channel|
+|------|---------|--------|
+| [ARPIT-2018 Course on Astronomy and Astrophysics](https://www.youtube.com/watch?v=QJjT9QPlnJs&list=PLQAvibmFRM2_Qd5cljyKphpIlTrWuBwnA) | English | [ACE-NRC IUCAA](https://www.youtube.com/channel/UCesFa27zj4j9KlKcOCgXdgg) 
+| [Astronomia - Uma visão geral I](https://www.youtube.com/watch?v=Mr97PrJZCag&list=PLxI8Can9yAHd7kUPviBHxr-49QEl7PRXR) | Portuguese | [UNIVESP](https://www.youtube.com/user/univesptv) 
+| [Astronomia - Uma visão geral II](https://www.youtube.com/watch?v=nSKeFKWFiDo&list=PLxI8Can9yAHfJ2sGxMii8mJ6maoCj9AtU) | Portuguese | [UNIVESP](https://www.youtube.com/user/univesptv) 
+| [Astronomia Geral](https://www.youtube.com/watch?v=dQtzW0wx1IA&list=PLU6gdokjSiYwGH8h5L9h4aBMBfq7Tkcl6) | Portuguese | [gustavo guerrero](https://www.youtube.com/user/tavobuk) 
+| [Astronomy](https://www.youtube.com/watch?v=0rHUDWjR5gg&list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL) | English | [CrashCourse](https://www.youtube.com/user/crashcourse) 
+| [Astronomy Course](https://www.youtube.com/watch?v=iGgOSfYTxFA&list=PLuFh6JDcV1KUuc6hWoYXHEv8mHU2b-Ri0) | English | [horeshas](https://www.youtube.com/user/horeshas) 
+| [ASTRONOMY COURSE](https://www.youtube.com/watch?v=D2yzzkWGlpI&list=PLTkAyZQDGrLZfqEs1Q7JRqaoWrcy7VHb2) | English | [Physics Insight](https://www.youtube.com/channel/UCR_usUmtP0Mz_frrohgV63A) 
+| [Astronomy Lectures](https://www.youtube.com/watch?v=MOecUTFctLA&list=PL2yn_e5rlIW0bsNIOc3dEadJ6YwTOoj-Z) | English | [Viken Kiledjian](https://www.youtube.com/user/vkiledj) 
+| [Aulas USP - Astronomia - Uma Visão Geral I](https://www.youtube.com/watch?v=Tt2dttH1NhY&list=PLAudUnJeNg4sCipUkVJOe8hyN5E_mZqqs) | Portuguese | [Canal USP](https://www.youtube.com/user/usponline) 
+| [Cosmology and Astronomy](https://www.youtube.com/watch?v=GZx3U0dbASg&list=PL2186CFB2CE12A8B5) | English | [Khan Academy](https://www.youtube.com/user/khanacademy) 
+| [Course of Astronomy](https://www.youtube.com/watch?v=Izcd2M2Nzhg&list=PLLf3gjprv9JfAewlkQhj01d9KUn_aF4qT) | Portuguese | [Singularidade](https://www.youtube.com/channel/UCA6-1g_4e3iuT1qeXe6xNuA) 
+| [Curso Astronomia](https://www.youtube.com/watch?v=rlTOBFykOdQ&list=PL1lsP5xlUuwnUVg-hcnyCbvdwTbZlvXn_) | Spanish | [José Miguel Pérez](https://www.youtube.com/user/teteyone) 
+| [Curso de ASTRONOMÍA 101](https://www.youtube.com/watch?v=nQf0JIbcQ1U&list=PLM_zSdjBCCUCLEyST5rRAbm9-h_kpbkgo) | Spanish | [Atómica](https://www.youtube.com/channel/UCkEDaRJKeR6ysOmcgIqnYKQ) 
+| [Curso de Astronomía General con Julieta Fierro](https://www.youtube.com/watch?v=n353mYG8mmw&list=PLiD-IJzweXR-Vbr-HXPB-s3KRxd00OjR_) | Spanish | [Ciencias TV](https://www.youtube.com/channel/UCAvg7yOE4-25TPDUeKFUztA) 
+| [Curso de Astronomía Online](https://www.youtube.com/watch?v=EueStucKy6U&list=PLARMmzpaP0Gs2vUfcTsj2eRgzZImC8_1h) | Spanish | [Neurona Red](https://www.youtube.com/channel/UCJYka7KFymn-LMODpVV5LiQ) 
+| [Descomplicando a Astronomia](https://www.youtube.com/watch?v=oGY2m2z9vsM&list=PLLrJ8l3JzATFLD6VFut8VJPBMexke6-xi) | Portuguese | [Canal do Schwarza](https://www.youtube.com/user/poligonautas) 
+| [Fundamentos de Astronomia e Astrofísica](https://www.youtube.com/watch?v=sMOE99bioB4&list=PLl2gYO4hw15F0UMmKNA_vrFsn53anExCo) | Portuguese | [napead](https://www.youtube.com/channel/UCd6Szm-BLfCTiHHBo6_jpFA) 
+| [General Astronomy](https://www.youtube.com/watch?v=suc8-l2ZHvY&list=PLNycEeeRg4mXbYSrbzsAdubj1qcubqsz-) | English | [Alexander Spahn](https://www.youtube.com/channel/UCmdTJKCLBVMQdPC3_kE7t1w) 
+| [Introductory Astronomy](https://www.youtube.com/watch?v=OO7qvAETCMs&list=PL8EC4ACB40CB37B9D) | English | [ThePhysicsX](https://www.youtube.com/user/ThePhysicsX) 
+
+
+## Astronautics
+| Name | Language| Channel|
+|------|---------|--------|
+| [Astronomia e Astronáutica, nível Galileu](https://www.youtube.com/watch?v=ocirZcqoJjg&list=PL_my-TwWaWBixtv77UBLlrqSQ4_StZPs1) | Portuguese | [Astrofísica para Todos](https://www.youtube.com/user/alexandremzabot) 
+
+
+## Astrophysics
+| Name | Language| Channel|
+|------|---------|--------|
+| [Astrofísica Geral, nível Lemaître](https://www.youtube.com/watch?v=xB1jAhjeg8E&list=PL_my-TwWaWBi1NAEhmKzv0U0jAbyh4d7o) | Portuguese | [Astrofísica para Todos](https://www.youtube.com/user/alexandremzabot) 
+| [Frontiers/Controversies in Astrophysics with Charles Bailyn](https://www.youtube.com/watch?v=nzmFc2gjUo4&list=PLD1515420F4E601A4) | English | [YaleCourses](https://www.youtube.com/user/YaleCourses) 
 
 
 # Biology
