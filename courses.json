@@ -221,6 +221,20 @@
                 "language": "Spanish"
             },
             {
+                "course_name": "Biology",
+                "course_link": "https://www.youtube.com/watch?v=QnQe0xW_JY4&list=PL3EED4C1D684D3ADF",
+                "channel_name": "CrashCourse",
+                "channel_link": "https://www.youtube.com/user/crashcourse",
+                "language": "English"
+            },
+            {
+                "course_name": "Biology Video Lecture for NEET / Sandeep Sir / Career Point Kota",
+                "course_link": "https://www.youtube.com/watch?v=fzPsqMyigeE&list=PL0jJeUAVly67msLjvyD4A0opiKAbtW3Dr",
+                "channel_name": "eCareerPoint-NEET",
+                "channel_link": "https://www.youtube.com/user/careerpointlabs",
+                "language": "English"
+            },
+            {
                 "course_name": "Clases Biología 2016",
                 "course_link": "https://www.youtube.com/watch?v=EifOux1Zdj0&list=PLiG_ZAUipsjt_-3AaHaJRz6QlHLv2_GgT",
                 "channel_name": "PuntajeNacional Chile",
@@ -261,25 +275,18 @@
                 "channel_name": "UNIVESP",
                 "channel_link": "https://www.youtube.com/user/univesptv",
                 "language": "Portuguese"
+            },
+            {
+                "course_name": "MIT 7.016 Introductory Biology, Fall 2018",
+                "course_link": "https://www.youtube.com/watch?v=KlVHqq38KJU&list=PLUl4u3cNGP63LmSVIVzy584-ZbjbJ-Y63",
+                "channel_name": "MIT OpenCourseWare",
+                "channel_link": "https://www.youtube.com/user/MIT",
+                "language": "English"
             }
         ],
         "Botany":{
             "id": "botany",
             "courses":[
-                {
-                    "course_name": "Biology",
-                    "course_link": "https://www.youtube.com/watch?v=QnQe0xW_JY4&list=PL3EED4C1D684D3ADF",
-                    "channel_name": "CrashCourse",
-                    "channel_link": "https://www.youtube.com/user/crashcourse",
-                    "language": "English"
-                },
-                {
-                    "course_name": "Biology Video Lecture for NEET | Sandeep Sir | Career Point Kota",
-                    "course_link": "https://www.youtube.com/watch?v=fzPsqMyigeE&list=PL0jJeUAVly67msLjvyD4A0opiKAbtW3Dr",
-                    "channel_name": "eCareerPoint-NEET",
-                    "channel_link": "https://www.youtube.com/user/careerpointlabs",
-                    "language": "English"
-                },
                 {
                     "course_name": "BOTANY CRASH COURSE/RAPID REVISION",
                     "course_link": "https://www.youtube.com/watch?v=GblbkbSGl-U&list=PLMChuy5zq7jQ9-s-6L_TSt3cLOzhZg0J-",
@@ -302,17 +309,10 @@
                     "language": "English"
                 },
                 {
-                    "course_name": "Live Classes for Botany NEET 2020 | NEET Preparation | Gradeup JEE",
+                    "course_name": "Live Classes for Botany NEET 2020 / NEET Preparation / Gradeup JEE",
                     "course_link": "https://www.youtube.com/watch?v=CTtFqNOZbG8&list=PL8753RXtwFBjjOsZYvQYPd87RNOcTOHu8",
                     "channel_name": "Goprep: JEE Main & Advanced Exam Preparation",
                     "channel_link": "https://www.youtube.com/channel/UC6WeBGasfkDuIhuLFE8cq4g",
-                    "language": "English"
-                },
-                {
-                    "course_name": "MIT 7.016 Introductory Biology, Fall 2018",
-                    "course_link": "https://www.youtube.com/watch?v=KlVHqq38KJU&list=PLUl4u3cNGP63LmSVIVzy584-ZbjbJ-Y63",
-                    "channel_name": "MIT OpenCourseWare",
-                    "channel_link": "https://www.youtube.com/user/MIT",
                     "language": "English"
                 },
                 {
