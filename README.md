@@ -1,7 +1,7 @@
 # awesome-free-courses
 A collection of all amazing free courses
 
- [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors) ![Total Courses contributors](https://img.shields.io/badge/total--courses-202-blue)
+ [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors) ![Total Courses contributors](https://img.shields.io/badge/total--courses-209-blue)
 
 # Table of contents
   * [Astronomy](#astronomy)
@@ -124,6 +124,13 @@ A collection of all amazing free courses
 ## Botany
 | Name | Language| Channel|
 |------|---------|--------|
+| [Biology](https://www.youtube.com/watch?v=QnQe0xW_JY4&list=PL3EED4C1D684D3ADF) | English | [CrashCourse](https://www.youtube.com/user/crashcourse) 
+| [Biology Video Lecture for NEET | Sandeep Sir | Career Point Kota](https://www.youtube.com/watch?v=fzPsqMyigeE&list=PL0jJeUAVly67msLjvyD4A0opiKAbtW3Dr) | English | [eCareerPoint-NEET](https://www.youtube.com/user/careerpointlabs) 
+| [BOTANY CRASH COURSE/RAPID REVISION](https://www.youtube.com/watch?v=GblbkbSGl-U&list=PLMChuy5zq7jQ9-s-6L_TSt3cLOzhZg0J-) | English | [MGCI](https://www.youtube.com/channel/UC5SEhljARm5SmKUstx0j3oA) 
+| [Crash Course Botany](https://www.youtube.com/watch?v=MiiiUhqgl9M&list=PLsTFo684XvuBeKmJoMgcnJind0VMgjJyr) | English | [Amar classes](https://www.youtube.com/channel/UCUlwWnfM-XiDeEfaanPVoPg) 
+| [IFS - Botany Optional](https://www.youtube.com/watch?v=7GwFcROp8bw&list=PLw1bYULUoXdDMbc_LgN8huGLKWHmQvXEw) | English | [Botany Optional For UPSC](https://www.youtube.com/channel/UCHPzmff5wO-8SIWJhGEP_Sw) 
+| [Live Classes for Botany NEET 2020 | NEET Preparation | Gradeup JEE](https://www.youtube.com/watch?v=CTtFqNOZbG8&list=PL8753RXtwFBjjOsZYvQYPd87RNOcTOHu8) | English | [Goprep: JEE Main & Advanced Exam Preparation](https://www.youtube.com/channel/UC6WeBGasfkDuIhuLFE8cq4g) 
+| [MIT 7.016 Introductory Biology, Fall 2018](https://www.youtube.com/watch?v=KlVHqq38KJU&list=PLUl4u3cNGP63LmSVIVzy584-ZbjbJ-Y63) | English | [MIT OpenCourseWare](https://www.youtube.com/user/MIT) 
 | [Módulo V: Botânica](https://www.youtube.com/watch?v=KQCFWpaCguU&list=PLJiArVwxXtwBEJhSmt3G6jCI96PAmNCZP) | Portuguese | [Biologia Prof. Guilherme](https://www.youtube.com/channel/UCKjZcHxpvFJyjcyrYSFghTw) 
 
 
