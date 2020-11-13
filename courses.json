@@ -988,11 +988,396 @@
                 "id": "c",
                 "courses": [
                     {
-                        "course_name": "Programação em C",
+                        "course_name": "A Crash Course in C (Appendix A)",
+                        "course_link": "https://www.youtube.com/watch?v=tVInDFCDVZA&list=PLggLP4f-rq02gmlePH-vQJ8PF6hyf08CN",
+                        "channel_name": "Northwestern Robotics",
+                        "channel_link": "https://www.youtube.com/user/kevinl2145",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "C Course : Chapter 1 Basics",
+                        "course_link": "https://www.youtube.com/watch?v=mZh7swJpx1c&list=PLERiwjsBFfsjEfHtHw7lzhzIN1sHb6eKm",
+                        "channel_name": "Ahmad Zaid",
+                        "channel_link": "https://www.youtube.com/channel/UCRsODY-KcNGa3nNpTrxeW1g",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "C Language Tutorial Videos | Mr. Srinivas",
+                        "course_link": "https://www.youtube.com/watch?v=si-KFFOW2gw&list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh",
+                        "channel_name": "Naresh i Technologies",
+                        "channel_link": "https://www.youtube.com/user/nareshtechnologies",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "C Language Tutorials In Hindi",
+                        "course_link": "https://www.youtube.com/watch?v=7Dh73z3icd8&list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR",
+                        "channel_name": "CodeWithHarry",
+                        "channel_link": "https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "C Language tutorials||C language by Sivaramayya",
+                        "course_link": "https://www.youtube.com/watch?v=SqqglqOF1Rk&list=PLd3UqWTnYXOniMKgcS0a_2O35jkRFcLR3",
+                        "channel_name": "Durga Software Solutions",
+                        "channel_link": "https://www.youtube.com/user/durgasoftware",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "C Prgramming Course (ARABIC)",
+                        "course_link": "https://www.youtube.com/watch?v=YbEFz82ViUA&list=PLehVg80Do2L8h8BFrj_8jKw35F4Gbs6WU",
+                        "channel_name": "Darsh Academy",
+                        "channel_link": "https://www.youtube.com/channel/UCxqAAsJTSDEY46HJsa0KG-w",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "C PROGRAMMING",
+                        "course_link": "https://www.youtube.com/watch?v=aUqO-dgzMw4&list=PLLOxZwkBK52AE9jFVOGZTJxaiAC_xB8Yy",
+                        "channel_name": "Sundeep Saradhi Kanthety",
+                        "channel_link": "https://www.youtube.com/channel/UC63URkuUvnugRBeTNqmToKg",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "C Programming",
+                        "course_link": "https://www.youtube.com/watch?v=PmMRCUqeBqs&list=PLUtTaqnx2RJLSUZgv0zp0aNWy9e1cbKd9",
+                        "channel_name": "Ankpro Training",
+                        "channel_link": "https://www.youtube.com/channel/UC1VyPyEWsnMJpuJy7YYZz5Q",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "C Programming",
+                        "course_link": "https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR",
+                        "channel_name": "Neso Academy",
+                        "channel_link": "https://www.youtube.com/user/nesoacademy",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "c programming Bangla Tutorials (সবার জন্য সি প্রোগ্রামিং)",
+                        "course_link": "https://www.youtube.com/watch?v=6nOavbvFvbY&list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz",
+                        "channel_name": "Anisul Islam",
+                        "channel_link": "https://www.youtube.com/user/ANIS3730",
+                        "language": "Bengali"
+                    },
+                    {
+                        "course_name": "C Programming Course",
+                        "course_link": "https://www.youtube.com/watch?v=66kRuxqUyPs&list=PLvjrPFAyGW8D53DCnPu1pqkAk_GNCDICa",
+                        "channel_name": "Akram Ahmed",
+                        "channel_link": "https://www.youtube.com/channel/UC8DgQsT9DuKr5N1pYsAGwOA",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "C Programming Course",
+                        "course_link": "https://www.youtube.com/watch?v=cfNXhrTOZKg&list=PLN1y0ZkXPS1XNM1d-T22zNNQWvEpLd6eb",
+                        "channel_name": "Islam Haggag",
+                        "channel_link": "https://www.youtube.com/channel/UCNDQMIV2Dq5sAQ8hj6BwSzw",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "C PROGRAMMING FULL COURSE",
+                        "course_link": "https://www.youtube.com/watch?v=7obzNzH9au8&list=PLy6JR9IR8VKMpCoBTcP-3gMsQMItB0KjU",
+                        "channel_name": "Ed Technology",
+                        "channel_link": "https://www.youtube.com/channel/UCASRnU5JL7bcaQGM3ITTFqQ",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "C programming language Course",
+                        "course_link": "https://www.youtube.com/watch?v=V8zFk7p990k&list=PLm3niNYXzr7sRNMZv8vkTILoAIpua0F-9",
+                        "channel_name": "Bassam Hesham",
+                        "channel_link": "https://www.youtube.com/channel/UCCAa51DO1aaA0hi2vmJHgDQ",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "C Programming NPTEL",
+                        "course_link": "https://www.youtube.com/watch?v=XTiIiI-LOY8&list=PLJvIzs_rP6R73WlvumJvCQJrOY3U5zq1j",
+                        "channel_name": "Mayank Shrivastava",
+                        "channel_link": "https://www.youtube.com/channel/UC-_UfZ0d_BsQ23SXUZTuJNA",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "C Programming Tutorial : Learn Data Structures and Algorithms in C",
+                        "course_link": "https://www.youtube.com/watch?v=5eQOeA5BPeY&list=PLEJxKK7AcSEHYGhDJG9rNld2lju_fPSbt",
+                        "channel_name": "Xoviabcs",
+                        "channel_link": "https://www.youtube.com/channel/UCJX7nhz3Wa75yR3pEIKjPBw",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "C Programming Tutorial for Beginners",
+                        "course_link": "https://www.youtube.com/watch?v=wKoGImLA2KA&list=PLsyeobzWxl7oBxHp43xQTFrw9f1CDPR6C",
+                        "channel_name": "Telusko",
+                        "channel_link": "https://www.youtube.com/user/javaboynavin",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "C Programming Tutorial for Beginners - Full Course",
+                        "course_link": "https://www.youtube.com/watch?v=AJhkHo-mNfU&list=PLmGElG-9wxc98lHaDo1NyF9qaV1KTlBCS",
+                        "channel_name": "WsCube Tech Programming Concepts",
+                        "channel_link": "https://www.youtube.com/channel/UCzAjKbXXWnsJ58bTrUvUBAA",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "C Programming Tutorials",
+                        "course_link": "https://www.youtube.com/watch?v=2NWeucMKrLI&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq",
+                        "channel_name": "thenewboston",
+                        "channel_link": "https://www.youtube.com/user/thenewboston",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "C programming tutorials |Learn C programming |C programming full course for beginners",
+                        "course_link": "https://www.youtube.com/watch?v=U-fkagbroxE&list=PL4LMHo7xnPUCm9YMuSFRdDmJHvz4FiSWr",
+                        "channel_name": "Programming Master",
+                        "channel_link": "https://www.youtube.com/channel/UC2IihXf0QkU9cGSyqBUn4kQ",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "C programming- Lectures",
+                        "course_link": "https://www.youtube.com/watch?v=C9MdnCYFn2k&list=PLEVDNf7p-wYxDqOoD4wZuT2LoOPVpHUfi",
+                        "channel_name": "Applied Course",
+                        "channel_link": "https://www.youtube.com/channel/UC4_AV_DlLXKdtYDV94Y4Jow",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "Curso - Primeiros passos com a Linguagem C",
+                        "course_link": "https://www.youtube.com/watch?v=COgylca8qYw&list=PLbEOwbQR9lqxHno2S-IiG9-lePyRNOO_E",
+                        "channel_name": "Professor José de Assis",
+                        "channel_link": "https://www.youtube.com/user/ProfessorJosedeAssis",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso C",
+                        "course_link": "https://www.youtube.com/watch?v=rEsSxd0L4GI&list=PLpOqH6AE0tNgqknxjMAJ8bX_L1a7lnBaH",
+                        "channel_name": "codigofacilito",
+                        "channel_link": "https://www.youtube.com/user/codigofacilito",
+                        "language": "Spanish"
+                    },
+                    {
+                        "course_name": "Curso de Algoritmo e Lógica de Programação em C",
+                        "course_link": "https://www.youtube.com/watch?v=joiwqS2wd1A&list=PL9PzDKD_B1nNpJxJ9kKFEWtN7Uzk6RpFa",
+                        "channel_name": "EscolaTi",
+                        "channel_link": "https://www.youtube.com/channel/UCKg83nPH-AUzqZilcU1Wukw",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso de C",
                         "course_link": "https://www.youtube.com/watch?v=FH7YrE0RjWE&list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4",
                         "channel_name": "eXcript",
-                        "channel_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg",
+                        "channel_link": "https://www.youtube.com/user/excriptvideo",
                         "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso de C",
+                        "course_link": "https://www.youtube.com/watch?v=R9n7j-u9ijc&list=PLIygiKpYTC_6zHLTjI6cFIRZm1BCT3CuV",
+                        "channel_name": "diego moisset de espanes",
+                        "channel_link": "https://www.youtube.com/channel/UCG8jvt0QlVdWcKyU_gNNs3A",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso de C",
+                        "course_link": "https://www.youtube.com/watch?v=I1deXJ7e8lU&list=PL1xeVkd9tTFia0OIUe0g0wiwKI3ptWEBi",
+                        "channel_name": "JAORSOFTWARE",
+                        "channel_link": "https://www.youtube.com/channel/UCssOl3P6LC2tMPGHYg6AVFw",
+                        "language": "Spanish"
+                    },
+                    {
+                        "course_name": "Curso de C",
+                        "course_link": "https://www.youtube.com/watch?v=mW_L--v96LU&list=PLpzrwX2yvfYgIhZhsYFU6kcbqVE-kmSoP",
+                        "channel_name": "PET Elétrica UFPR",
+                        "channel_link": "https://www.youtube.com/user/peteufpr",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso de C",
+                        "course_link": "https://www.youtube.com/watch?v=s8KpDvLnJrc&list=PLAEIPepIOW5BFuJ5GWsjp9eUhM4JdP6q8",
+                        "channel_name": "Rafael Vieira Coelho",
+                        "channel_link": "https://www.youtube.com/channel/UCjzw4JBvbjbZkRiwJ78c5nA",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso de C e C++",
+                        "course_link": "https://www.youtube.com/watch?v=jg-QHbBWkco&list=PL5EmR7zuTn_bONyjFxSO4ZCE-SVVNFGkS",
+                        "channel_name": "daves tecnologia",
+                        "channel_link": "https://www.youtube.com/channel/UC7ygw1xiFDO-zDcBwYzjjjA",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso de C/C++",
+                        "course_link": "https://www.youtube.com/watch?v=EnxNfeo7esA&list=PLtYU0VNVeQl1Avot8E61yB_6c8A-KYYLk",
+                        "channel_name": "TIFLIX",
+                        "channel_link": "https://www.youtube.com/channel/UCnwb09LH2nxN1M77QY7--_A",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso de Linguagem C",
+                        "course_link": "https://www.youtube.com/watch?v=7DkCovAAmXo&list=PLQsPKMMVIdmKG-BCsSbyHJ_5omQVrW6xC",
+                        "channel_name": "Ellen Mota Tutoriais",
+                        "channel_link": "https://www.youtube.com/user/ellenmotatutoriais",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso de Linguagem C (ANSI)",
+                        "course_link": "https://www.youtube.com/watch?v=mYQmbpWOj1o&list=PLZ8dBTV2_5HTGGtrPxDB7zx8J5VMuXdob",
+                        "channel_name": "WR Kits",
+                        "channel_link": "https://www.youtube.com/user/canalwrkits",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso de Linguagem C para Iniciantes",
+                        "course_link": "https://www.youtube.com/watch?v=MHmXIpeF-cQ&list=PLGgRtySq3SDMLV8ee7p-rA9y032AU3zT8",
+                        "channel_name": "One Day Code",
+                        "channel_link": "https://www.youtube.com/channel/UCAdjZWj-R4Mq8N2GDr6C-0A",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso de Lógica e programação em C",
+                        "course_link": "https://www.youtube.com/watch?v=31ZObWUjtLI&list=PLtnFngjANe7EMzARU48QgecpyQdzWapoT",
+                        "channel_name": "AulaMasterBr",
+                        "channel_link": "https://www.youtube.com/user/AulaMasterBr",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso de Programação C",
+                        "course_link": "https://www.youtube.com/watch?v=ZKB6ItgJ794&list=PLxNM4ef1BpxhXmunXtAtGALDE-G0k5VbE",
+                        "channel_name": "Hugo Vasconcelos",
+                        "channel_link": "https://www.youtube.com/user/tutoriais01",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso de programação C",
+                        "course_link": "https://www.youtube.com/watch?v=XmZxiZv8qbw&list=PL2yLhHB3z5zzRni2P-cMKsQ3dJsA5cjg4",
+                        "channel_name": "Descomplica Paulo Jorge",
+                        "channel_link": "https://www.youtube.com/channel/UCfzOCrrpvwSARNaGsYBtSDw",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso de Programação em C",
+                        "course_link": "https://www.youtube.com/watch?v=I7rspSvOgzQ&list=PLtchvIBq_CRQvSbv3uu66yZIQURgqUDf4",
+                        "channel_name": "Carlos Henrique Java",
+                        "channel_link": "https://www.youtube.com/user/carlinbh27",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso de programação em C para iniciantes",
+                        "course_link": "https://www.youtube.com/watch?v=3_kvlGGgfW8&list=PL65GXbMNWBWZ85GBjUBuG6lwjO8WwihKH",
+                        "channel_name": "Pixel Tutoriais por: Allan Portes",
+                        "channel_link": "https://www.youtube.com/user/allancarloos2",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso de Programação em Linguagem C",
+                        "course_link": "https://www.youtube.com/watch?v=cZRuFwzjJ8E&list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R",
+                        "channel_name": "Bóson Treinamentos",
+                        "channel_link": "https://www.youtube.com/user/bosontreinamentos",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso de Programação Linguagem C (PT-PT)",
+                        "course_link": "https://www.youtube.com/watch?v=oIjHWbud03g&list=PL-Q3Gqb3sLjFNHM-J91kG4P3onG9s4ysM",
+                        "channel_name": "PorqueEUprogramo",
+                        "channel_link": "https://www.youtube.com/channel/UCyE9IgBv8D-EdRWVtn7EMPg",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso de Programação: Linguagem C",
+                        "course_link": "https://www.youtube.com/watch?v=sokAuwGTpnM&list=PLx7PdTf3p0_tYsawmsAdav6Ev5CAus7Qw",
+                        "channel_name": "Responde em Códigos",
+                        "channel_link": "https://www.youtube.com/channel/UCOk2OeW4w48_yfIRX5MsZIg",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "curso em c",
+                        "course_link": "https://www.youtube.com/watch?v=QNVX53tE96A&list=PLaohyT2MapCsYwMRaZE8IuSHFeIKZ6Lx6",
+                        "channel_name": "Niell Bogard",
+                        "channel_link": "https://www.youtube.com/channel/UCbjUPiw9VE3fygdprGdcvMw",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Curso Programação em C/C++",
+                        "course_link": "https://www.youtube.com/watch?v=1nd5yEDxO0g&list=PLC9E87254BD7A875B",
+                        "channel_name": "G-Tech Soluções",
+                        "channel_link": "https://www.youtube.com/user/gtechinfor",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Cursos de C Para Hackers Iniciantes",
+                        "course_link": "https://www.youtube.com/watch?v=SUvSCy_xKVk&list=PLkdzCsbqQcv3-3FZfnSPolps1hCO9Cru3",
+                        "channel_name": "HOTWYL WILLFROMBRASIL",
+                        "channel_link": "https://www.youtube.com/user/WYLHOTWILL",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Free Online Programming Course in C for Beginners",
+                        "course_link": "https://www.youtube.com/watch?v=Jlbs8ly6OKA&list=PL76809ED684A081F3",
+                        "channel_name": "Carl Herold",
+                        "channel_link": "https://www.youtube.com/channel/UCbNxlZZVmfP8n84ag-rGpMg",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "Introduction to C Programming Arabic",
+                        "course_link": "https://www.youtube.com/watch?v=F4TMVkMsyHs&list=PLoUXv0yUQc1346jgxT4zKvxJsIQQGPBEE",
+                        "channel_name": "Embedded Training from Amr Ali",
+                        "channel_link": "https://www.youtube.com/channel/UC5NTpGcnlx3XwGAlFaYJnBg",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "Introduction to Computer Science - Harvard's CS50",
+                        "course_link": "https://www.youtube.com/watch?v=F0WoVEr0-44&list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi",
+                        "channel_name": "freeCodeCamp.org",
+                        "channel_link": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "Learn C programming",
+                        "course_link": "https://www.youtube.com/watch?v=8PopR3x-VMY&list=PL9ooVrP1hQOFrNo8jK9Yb2g2eMHz7hTu9",
+                        "channel_name": "edureka!",
+                        "channel_link": "https://www.youtube.com/user/edurekaIN",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "Learn C Programming Visually | Animated Course",
+                        "course_link": "https://www.youtube.com/watch?v=lJ4dRc_mn0w&list=PLhb7SOmGNUc5oQfFU2EbR7lNxU5sBA8fc",
+                        "channel_name": "Log2Base2",
+                        "channel_link": "https://www.youtube.com/channel/UCuVPIqVvmzW0Lp31gEzW_gA",
+                        "language": "English"
+                    },
+                    {
+                        "course_name": "Linguagem C",
+                        "course_link": "https://www.youtube.com/watch?v=VnH7OVFj_pA&list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW",
+                        "channel_name": "De aluno para aluno",
+                        "channel_link": "https://www.youtube.com/user/italogross",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Linguagem C",
+                        "course_link": "https://www.youtube.com/watch?v=8glJiHqehjE&list=PLOXIs3c4k2TeQOyb-uQwHkKkpT1zPTWm6",
+                        "channel_name": "Eduardo Casavella",
+                        "channel_link": "https://www.youtube.com/user/IntellectualeTec",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Linguagem C - Curso de Programação Completo para I…iantes e Profissionais - Videoaulas da Flatech TI",
+                        "course_link": "https://www.youtube.com/watch?v=5RhWr9wdFYI&list=PLrqNiweLEMonijPwsHckWX7fVbgT2jS3P",
+                        "channel_name": "Gabriel Skrilatt",
+                        "channel_link": "https://www.youtube.com/user/GSorkut",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Programación en C || Programación ATS",
+                        "course_link": "https://www.youtube.com/watch?v=5O1srQNyJXo&list=PLWtYZ2ejMVJmUTNE2QVaCd1y_6GslOeZ6",
+                        "channel_name": "Programación ATS",
+                        "channel_link": "https://www.youtube.com/channel/UC7QoKU6bj1QbXQuNIjan82Q",
+                        "language": "Spanish"
+                    },
+                    {
+                        "course_name": "Programação Moderna em C",
+                        "course_link": "https://www.youtube.com/watch?v=oZeezrNHxVo&list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE",
+                        "channel_name": "Papo Binário",
+                        "channel_link": "https://www.youtube.com/channel/UCuQ8zW9VmVyml7KytSqJDzg",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Udemy C programming",
+                        "course_link": "https://www.youtube.com/watch?v=qxn_-XRdd4s&list=PLEJrhcUdxylO--5dMngk7wQK4N7-SaVV8",
+                        "channel_name": "Udemy Free Course",
+                        "channel_link": "https://www.youtube.com/channel/UCs9snxDMPi7E8MuIvPj5psg",
+                        "language": "English"
                     }
                 ]
             },
