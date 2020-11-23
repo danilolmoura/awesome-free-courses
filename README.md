@@ -1,9 +1,11 @@
 # awesome-free-courses
 A collection of all amazing free courses
 
- [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors) ![Total Courses contributors](https://img.shields.io/badge/total--courses-264-blue)
+ [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors) ![Total Courses contributors](https://img.shields.io/badge/total--courses-275-blue)
 
 # Table of contents
+  * [Arts](#arts)
+    * [Draw](#draw)
   * [Astronomy](#astronomy)
     * [Astronautics](#astronautics)
     * [Astrophysics](#astrophysics)
@@ -64,6 +66,25 @@ A collection of all amazing free courses
       * [Makeup](#makeup)
     * [Digital Marketing](#digital-marketing)
 
+
+
+# Arts
+
+
+## Draw
+| Name | Language| Channel|
+|------|---------|--------|
+| [Curso - Fundamentos do Desenho para Arquitetura e Design](https://www.youtube.com/watch?v=Ze9F8-Ds4VI&list=PLpwbTTAf7JJxnnDX9w8KSN3gIRnM8nC0k) | Portuguese | [Arquitetura e Desenho](https://www.youtube.com/user/marcosband) 
+| [Curso Básico de Desenho Artístico Grátis](https://www.youtube.com/watch?v=LRuDdg6gqac&list=PLZW8Q1wIl4LZfH7UsD2fu0bt1p2CVKOsG) | Portuguese | [Ranima Comp](https://www.youtube.com/channel/UCpVZbrndslUE1_GzodczLHA) 
+| [Curso de Desenho](https://www.youtube.com/watch?v=kzpdzO9hCWY&list=PLRdyypm_OhZ825RPfTf5J-Xzcj18ZnpD2) | Portuguese | [Paollo Vardiero - Recicle Amor](https://www.youtube.com/channel/UCWDVYA4NMkBV6wwrE1Se4uA) 
+| [CURSO DE DESENHO ART LUCAS](https://www.youtube.com/watch?v=ZA-ALaWAw3k&list=PLaSg-6E6ckirG9JlbQw8FAdpAnDMwkkPE) | Portuguese | [Art Lucas](https://www.youtube.com/channel/UCNcS3PD0iJ6FgORgmcni_BA) 
+| [CURSO DE DESENHO GRATIS](https://www.youtube.com/watch?v=OikqCnL04YU&list=PL4036KQ4ajskWFgkleyXzFMc8M9n6FI_F) | Portuguese | [Sonzin Arts](https://www.youtube.com/user/sonzinarts) 
+| [Curso de Desenho Grátis 2018](https://www.youtube.com/watch?v=goumfV2Ax2Y&list=PL39vaanox_FgO1JjTA4IhDglJlRXugy09) | Portuguese | [William Soares](https://www.youtube.com/user/williamsoaresart) 
+| [CURSO DE DESENHO GRÁTIS 2020](https://www.youtube.com/watch?v=xgKCIPB-keE&list=PL4kzpfx6us3x0aacYePlwRn6d6dqWNsQV) | Portuguese | [Papel Arte](https://www.youtube.com/user/papelartchannel) 
+| [Curso de Desenho Online (vídeos piloto) 1-8](https://www.youtube.com/watch?v=ye2qhPwmk1M&list=PLhD7rQS-lRSV2EiVEbzD0yYacRmXt6UYs) | Portuguese | [Cantinho dos Arteiros com Dai Oliveira](https://www.youtube.com/user/EstudioOliveira) 
+| [Curso de Desenho para Iniciantes ✍️](https://www.youtube.com/watch?v=5Xq1PXtmll0&list=PLBhudnzoa7jTpePKaoWk51eSebqbQ52WB) | Portuguese | [Ricardo Yamaguchi](https://www.youtube.com/user/riczguchi) 
+| [Curso de Desenho Técnico](https://www.youtube.com/watch?v=71sEI9X_hp0&list=PLtb8YzVQOV8MF2lIqOorBpShZzo7um7KW) | Portuguese | [Markoni Heringer](https://www.youtube.com/user/mrheringer) 
+| [Tutoriais de Desenho, Anatomia e Pintura Digital](https://www.youtube.com/watch?v=9lucSb4vbbc&list=PLA7ETQAJ3Hvjf5b79oIjAbusuOIo_UuNz) | Portuguese | [IcePool](https://www.youtube.com/channel/UCMxExnd47qiDb4oIm23Kekw) 
 
 
 # Astronomy
