@@ -1649,6 +1649,13 @@
                         "channel_name": "eXcript",
                         "channel_link": "https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg",
                         "language": "Portuguese"
+                    },
+                    {
+                        "course_name": "Java : Data Structure and Algorithm & Interview Preparation Course",
+                        "course_link": "https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ",
+                        "channel_name": "Kunal Kushwaha",
+                        "channel_link": "https://www.youtube.com/c/KunalKushwaha",
+                        "language": "English"
                     }
                 ]
             },
