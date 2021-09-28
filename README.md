@@ -447,6 +447,7 @@ A collection of all amazing free courses
 | Name | Language| Channel|
 |------|---------|--------|
 | [Curso de POO Java (Programação Orientada a Objeto](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) | Portuguese | [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) 
+| [Java : Data Structures and Algorithms](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) | English | [Kunal Kushwaha](https://www.youtube.com/c/KunalKushwaha) 
 | [Java Orientado a Objetos](https://www.youtube.com/watch?v=ZjPotaffGks&list=PLesCEcYj003RzkQBaNOOl7zwlIGOfeo1y) | Portuguese | [eXcript](https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg) 
 | [Java8](https://www.youtube.com/watch?v=q84ncDh4ln0&list=PLesCEcYj003SbwnNhQ9eyF7IjPlEK0uVg) | Portuguese | [eXcript](https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg) 
 
