@@ -32,6 +32,11 @@ def write_header(readme_file, total_courses):
     readme_file.write(' [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors)')
     readme_file.write(' ![Total Courses contributors](https://img.shields.io/badge/total--courses-{}-blue)'.format(total_courses))
 
+def write_footer(readme_file):
+    readme_file.write('# Thanks to all the contributors ❤️')
+    readme_file.write('<a href = "https://github.com/danilolmoura/awesome-free-courses/graphs/contributors">')
+    readme_file.write(' <img src = "https://contrib.rocks/image?repo=danilolmoura/awesome-free-courses"/>')
+    readme_file.write('</a>')
 
 def write_table_of_contents(json_file, level, readme_file, category_name=None):
     if level == 0:
@@ -91,6 +96,8 @@ if __name__ == '__main__':
     readme_file.write(NEW_LINE)
     write_table_of_contents(json_file, level, readme_file)
     write_readme(json_file, level, readme_file)
+    readme_file.write(NEW_LINE)
+    write_footer(readme_file)
 
     j.close()
     readme_file.close()
