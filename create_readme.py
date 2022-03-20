@@ -31,6 +31,8 @@ def write_header(readme_file, total_courses):
     readme_file.write(' [![license](https://img.shields.io/github/license/danilolmoura/awesome-free-courses.svg)](/LICENSE)')
     readme_file.write(' [![GitHub contributors](https://img.shields.io/github/contributors/danilolmoura/awesome-free-courses.svg)](https://github.com/danilolmoura/awesome-free-courses/graphs/contributors)')
     readme_file.write(' ![Total Courses contributors](https://img.shields.io/badge/total--courses-{}-blue)'.format(total_courses))
+    readme_file.write('\n\n')
+    readme_file.write('See [how to contribute](/CONTRIBUTING.md)')
 
 def write_footer(readme_file):
     readme_file.write('# Thanks to all the contributors ❤️')
